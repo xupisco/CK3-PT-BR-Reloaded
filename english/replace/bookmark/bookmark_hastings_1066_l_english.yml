@@ -1,5 +1,5 @@
 ﻿l_english:
- bm_1066_hastings:0 "The Fate of England"
+ bm_1066_hastings:0 "O destino da Inglaterra"
  bm_1066_hastings_desc:2 "When the childless King Edward the Confessor died it plunged England into a succession crisis unlike any that had come before.\n\nThree men attempted to secure the throne for themselves: Harold Godwinson, William the Bastard, and Harald Hardrade, while Svend and Malcolm stood by, ready to pounce at any sign of weakness.\n\n#bold Who will stand victorious after this tumultuous time in history?#!"
 
  bookmark_hastings_england:0 "King Harold of England"
@@ -16,7 +16,7 @@
 
  bookmark_hastings_norway:0 "Harald Hardrade"
  bookmark_hastings_norway_desc:1 "Having displayed formidable military talent since youth, Harald has recently tried, and failed, to conquer Denmark. Now, he looks beyond the sea — by ancient contract, the crown of England should have passed to Harald, when the last King died without an heir. But, instead, the Anglo-Saxons have put Harold Godwinson on the throne! Luckily, the false King has made enemies, and Tostig Godwinson, Harold's own brother, lives in exile in Norway...\n\n#bold By using his own enemies against him, can you give this Varangian viking control over the North Sea?#!"
- 
+
  bookmark_hastings_norway_alt_olaf:0 "$Olaf$"
  bookmark_hastings_norway_alt_ingegerd:0 "$Ingegerd$"
 

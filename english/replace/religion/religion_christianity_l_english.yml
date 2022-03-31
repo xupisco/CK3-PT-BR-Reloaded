@@ -121,11 +121,11 @@
  lollard_adherent_plural:0 "Lollards"
  lollard_desc:0 "Denouncing many common Christian sacraments like baptism and confession, Lollards hold that The Holy Bible is the only valid source of Christian doctrine and that any teachings not directly based on it are inherently illegitimate."
 
- insular_celtic:0 "Insular Christianity"
- insular_celtic_adj:0 "Insular"
- insular_celtic_adherent:0 "Insularist"
- insular_celtic_adherent_plural:0 "Insularists"
- insular_celtic_desc:1 "A rural church that drifted away from Roman Catholic orthodoxy some centuries ago, Insular Christianity has lost many of its once-distinctive features at the insistence of its mother-church. It yet retains a greater emphasis on penance and monasticism, and incorporates many traditional Celtic marriage customs foreign to wider Christendom."
+ insular_celtic:0 "Cristianismo céltico"
+ insular_celtic_adj:0 "Céltico"
+ insular_celtic_adherent:0 "Celta"
+ insular_celtic_adherent_plural:0 "Celtas"
+ insular_celtic_desc:1 "Uma igreja rural que se afastou da ortodoxia católica romana há alguns séculos, o cristianismo céltico perdeu muitas de suas características outrora distintivas por insistência de sua igreja-mãe. Ele ainda mantém uma ênfase maior na penitência e no monaquismo, e incorpora muitos costumes tradicionais de casamento celta estranhos à cristandade mais ampla."
 
  insular_celtic_religious_head_title:0 "Arch-Abbot"
  #insular_celtic_religious_head_title_female: "Arch-Abbess"

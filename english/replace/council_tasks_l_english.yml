@@ -52,7 +52,7 @@
 
 #chancellor
  task_foreign_affairs:0 "Foreign Affairs"
- 
+
  task_foreign_affairs_modifier_desc:0 "[councillor.GetModifierDescForTask('task_foreign_affairs')]"
  task_foreign_affairs_prestige_effect_desc:1 "[prestige|E]: [prestige_i|E]#P +[SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_calculation')]#!/month\n$TAB$Councillor's [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_gain_base')]#!"
  task_foreign_affairs_effect_desc_adaptive_traditions_bonus_prestige:0 "\n$TAB$[GetPerk('adaptive_traditions_perk').GetName(GetPlayer)]: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_gain_perk_bonus_scale')|P]"
@@ -114,7 +114,7 @@
  task_organize_levies_unused_farmland:0 "\n$EFFECT_LIST_BULLET$#N Unused Farmland#!"
  task_organize_levies_insufficient_guards:0 "\n$EFFECT_LIST_BULLET$#N Insufficient Guards#!"
  task_organize_levies_notification_tooltip:0 "From $task_organize_levies$"
- 
+
  task_suppress_crime:0 "Suppress Crime"
  task_supress_crime_effect_desc:0 "#S At #V 100%#!#!:\n$TAB$Remove County Corruption\nProgress: #P +#![SCOPE.ScriptValue('task_supress_crime_progress')|P]#P %#!/month\n\nMakes County immune to County Corruption"
  task_suppress_crime_gain_opinion:0 "\n$EFFECT_LIST_BULLET$#P Increase County Opinion#!"
@@ -122,7 +122,7 @@
  marshal_supress_crime_modifier:0 "Suppressing Crime"
  marshal_supress_crime_modifier_desc:0 "#F This County is immune to County Corruption#!"
  task_suppress_crime_notification_tooltip:0 "From $task_suppress_crime$"
- 
+
  task_train_commanders:0 "Train Commanders"
  task_train_commanders_modifier:0 "$task_train_commanders$"
  task_train_commanders_effect_desc:3 "\n\n#P [SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value')|1P]%#! chance of improving or finding a new [commander|E] or [knight|E] each month\n$TAB$Councillor's [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value_base')|1P]%#!"
@@ -221,13 +221,13 @@
  task_support_schemes_lose_prestige:0 "\n$EFFECT_LIST_BULLET$#N Loss of Prestige#!"
  task_support_schemes_fail_scheme:0 "\n$EFFECT_LIST_BULLET$#N Scheme Failure#!"
  task_support_schemes_notification_tooltip:0 "From $task_support_schemes$"
- 
+
  task_find_secrets:0 "Find Secrets"
  task_find_secrets_effect_desc:0 "If any Secrets exist at court:\n$TAB$[SCOPE.ScriptValue('spymaster_find_secrets_secret_discovery_chance')|P]#P %#! chance of learning a Secret"
  task_find_secrets_vassal_intimidation:0 "\nChance of intimidating vassal"
  task_find_secrets_opinion_loss:0 "\n$EFFECT_LIST_BULLET$#N $task_find_secrets$ Discovered#!"
  task_find_secrets_notification_tooltip:0 "From $task_find_secrets$"
- 
+
  SCALED_COUNCILLOR_INTRIGUE_VALUE:2 "[councillor.GetCouncilTitle] [councillor.GetShortUINamePossessive] Intrigue Skill"
  SPYMASTER_PROGRESS_BASE:0 "Base"
  ESPIONAGE_PERK_BONUS_VALUE:1 "[GetPerk('digging_for_dirt_perk').GetName(GetPlayer)]"
@@ -294,7 +294,7 @@
  task_convince_dejure_notification_tooltip:0 "From $task_convince_dejure$"
  steward_convince_dejure_cg_bonus_desc:0 "Your [court_grandeur_level|E]"
  steward_convince_dejure_cg_malus_desc:0 "[county.GetHolder.GetTopLiege.GetShortUINamePossessive] [court_grandeur_level|E]"
-  
+
  SCALED_COUNCILLOR_STEWARDSHIP_VALUE:2 "[councillor.GetCouncilTitle] [councillor.GetShortUINamePossessive] [stewardship_skill|E]"
  STEWARD_PROGRESS_BASE:0 "Base"
  DEVELOP_COUNTY_PERK_BONUS_VALUE:1 "$planned_cultivation_perk_name$"
@@ -376,14 +376,14 @@
  COURT_CHAPLAIN_CONVERSION_SYNCRETIC_WITH_RELIGION_MODIFIER:0 "Syncretised with [faith|E]"
  COURT_CHAPLAIN_CONVERSION_LOCAL_COUNTY_MODIFIERS:0 "Local [county|E] [modifiers|E]"
  COURT_CHAPLAIN_CONVERSION_LIEGE_IS_DEFIANT_HIGH_MONARCH:0 "[liege|E] is Defiant High Monarch"
- 
- COURT_CHAPLAIN_CONVERSION_HOLY_SITE_JERUSALEM:1 "Holy Site — Jerusalem"
- COURT_CHAPLAIN_CONVERSION_HOLY_SITE_KERALA:1 "Holy Site — Kerala"
- COURT_CHAPLAIN_CONVERSION_HOLY_SITE_IONA:1 "Holy Site — Iona"
- COURT_CHAPLAIN_CONVERSION_HOLY_SITE_CORDOBA:1 "Holy Site — Cordoba"
- 
- COURT_CHAPLAIN_CONVERSION_HOLY_SITE_VISOKI:1 "Hostile Holy Site — Visoki"
- COURT_CHAPLAIN_CONVERSION_HOLY_SITE_WADI_EL_MILK:0 "Hostile Holy Site — Wadi el-Milk"
+
+ COURT_CHAPLAIN_CONVERSION_HOLY_SITE_JERUSALEM:1 "Local Sagrado — Jerusalem"
+ COURT_CHAPLAIN_CONVERSION_HOLY_SITE_KERALA:1 "Local Sagrado — Kerala"
+ COURT_CHAPLAIN_CONVERSION_HOLY_SITE_IONA:1 "Local Sagrado — Iona"
+ COURT_CHAPLAIN_CONVERSION_HOLY_SITE_CORDOBA:1 "Local Sagrado — Cordoba"
+
+ COURT_CHAPLAIN_CONVERSION_HOLY_SITE_VISOKI:1 "Hostile Local Sagrado — Visoki"
+ COURT_CHAPLAIN_CONVERSION_HOLY_SITE_WADI_EL_MILK:0 "Hostile Local Sagrado — Wadi el-Milk"
 
  COURT_CHAPLAIN_CONVERSION_LIEGE_IS_SAVIOR:1 "Liege is Savior"
  COURT_CHAPLAIN_CONVERSION_LIEGE_IS_DIVINE_BLOOD:1 "Liege has Divine Blood"
@@ -420,7 +420,7 @@
 
  councillor_spouse_background.0001.title:0 "Spouse's Skills"
  erudition_legacy_5:0 "[GetDynastyPerk('erudition_legacy_5').GetName]"
- 
+
  task_accept_culture:0 "Promote Cultural Acceptance"
  task_accept_culture_desc:0 "[cultural_acceptance|E] between the [county.GetProvince.GetCounty.GetCulture.GetName] and [councillor_liege.GetCulture.GetName] [cultures|E]: [SCOPE.ScriptValue( 'task_accept_culture_progress' )|+=2]/year"
  task_accept_culture_base_desc:0 "[cultural_acceptance|E] gain: [SCOPE.ScriptValue( 'task_accept_culture_progress' )|+=2]/year"

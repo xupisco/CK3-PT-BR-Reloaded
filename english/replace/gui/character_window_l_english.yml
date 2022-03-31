@@ -114,8 +114,8 @@
  LIFESTYLE_FOCUS_ICON_HEADER_NO_FOCUS:1 "#T [lifestyle|E]: None#!"
  EDUCATION_FOCUS_ICON_HEADER:0 "#T Education Focus: [CHARACTER.GetFocusType.GetNameNoTooltip]#!"
  EDUCATION_FOCUS_ICON_HEADER_NO_FOCUS:0 "#T Education Focus: None#!"
- SKILL_ITEM_TOOLTIP:0 "[SkillItem.GetSkillBreakdownTooltip]\n\n#S Effects:#!\n[SkillItem.GetSkillEffects]"
- SKILL_NO_EFFECT:0 "No effects at this level"
+ SKILL_ITEM_TOOLTIP:0 "[SkillItem.GetSkillBreakdownTooltip]\n\n#S Efeitos:#!\n[SkillItem.GetSkillEffects]"
+ SKILL_NO_EFFECT:0 "Nenhum efeito para este nível"
 
  HOOK_FOR_MAX_OPINION_NONE:0 "no hook"
  HOOK_FOR_MAX_OPINION_WEAK:0 "[hook|E]"

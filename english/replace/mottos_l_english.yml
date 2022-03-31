@@ -45,7 +45,7 @@
  motto_x_guides_us:0 "$1$ Guides Us"
  motto_house_was_forged_by_x:0 "House [CHARACTER.GetHouse.GetBaseNameNoTooltip] was Forged by $1$"
  motto_founder_shares_x:0 "[CHARACTER.GetFirstName] Shares $1$"
- 
+
  # Unique Pool (too cool to skip, but no good to randomize)
  motto_unique_pool:0 "$1$"
  motto_thus_should_law_be_followed:0 "Thus Should Law Be Followed"
@@ -78,7 +78,7 @@
  motto_iron_gold:0 "By Iron, Not Gold"
  motto_hold_fast:0 "Hold Fast"
  motto_handsome_enough:0 "Good and Handsome Enough"
- 
+
  # Various specific godly things
  motto_various_godly_things:0 "$1$"
  motto_christ_protects_us:0 "Christ Protects Us"
@@ -92,7 +92,7 @@
  motto_salvation_through_christ:0 "Salvation Through Christ"
  motto_help_o_god:0 "Help, O God!"
  motto_sing_of_heavenly_things:0 "We Sing of Heavenly Things"
- 
+
  # Immaterial Nouns
  motto_goodness:0 "Goodness"
  motto_honor:0 "Honor"
@@ -151,7 +151,7 @@
  motto_enlightenment:0 "Enlightenment"
  motto_compassion:0 "Compassion"
  motto_inspiration:0 "Inspiration"
- 
+
  # Immaterial Adjectives
  motto_honorable:0 "Honorable"
  motto_truthful:0 "Truthful"
@@ -182,7 +182,7 @@
  motto_cunning:0 "Cunning"
  motto_brave:0 "Brave"
  motto_calm:0 "Calm"
- 
+
  # the Immaterial Adjectives
  motto_the_honorable:0 "the Honorable"
  motto_the_truthful:0 "the Truthful"
@@ -213,7 +213,7 @@
  motto_the_cunning:0 "the Cunning"
  motto_the_brave:0 "the Brave"
  motto_the_calm:0 "the Calm"
- 
+
  # Immaterial Adjectives + a or an
  motto_an_honorable:0 "an Honorable"
  motto_a_truthful:0 "a Truthful"
@@ -244,7 +244,7 @@
  motto_a_cunning:0 "a Cunning"
  motto_a_brave:0 "a Brave"
  motto_a_calm:0 "a Calm"
- 
+
  # Noble Act
  motto_defend:0 "Defend"
  motto_protect:0 "Protect"
@@ -276,7 +276,7 @@
  motto_respect_verb:0 "Respect"
  motto_honor_verb:0 "Honor"
  motto_trust_verb:0 "Trust"
- 
+
  # Weapon
  motto_sword_word:0 "Sword"
  motto_axe:0 "Axe"
@@ -284,7 +284,7 @@
  motto_bow:0 "Bow"
  motto_lance:0 "Lance"
  motto_hammer:0 "Hammer"
- 
+
  # the Weapon
  motto_the_sword_word:0 "the Sword"
  motto_the_axe:0 "the Axe"
@@ -293,14 +293,14 @@
  motto_the_lance:0 "the Lance"
  motto_the_hammer:0 "the Hammer"
  motto_the_pen:0 "the Pen"
- 
+
  # Appropriate Godname
  motto_god:0 "God"
  motto_the_perfected_ones:0 "the Perfected Ones"
  motto_the_divine:0 "the Divine"
  motto_the_gods:0 "the Gods"
  motto_custom_loc_god:0 "[CHARACTER.GetFaith.HighGodName]"
- 
+
  # Creature
  motto_wolf:0 "Wolf"
  motto_bear:0 "Bear"
@@ -320,7 +320,7 @@
  motto_gazelle:0 "Gazelle"
  motto_hippopotamus:0 "Hippopotamus"
  motto_reindeer:0 "Reindeer"
- 
+
  # the Creature
  motto_the_wolf:0 "the Wolf"
  motto_the_bear:0 "the Bear"
@@ -340,38 +340,38 @@
  motto_the_gazelle:0 "the Gazelle"
  motto_the_hippopotamus:0 "the Hippopotamus"
  motto_the_reindeer:0 "the Reindeer"
- 
+
  # Annoying Action Verb
- motto_irritate:0 "Irritate"
+ motto_irritate:0 "Irritado"
  motto_irk:0 "Irk"
  motto_vex:0 "Vex"
- motto_bother:0 "Bother"
- motto_rile:0 "Rile"
- motto_pester:0 "Pester"
- motto_challenge:0 "Challenge"
- motto_defy:0 "Defy"
- motto_mock:0 "Mock"
+ motto_bother:0 "Incomodar"
+ motto_rile:0 "Irritar"
+ motto_pester:0 "Importunar"
+ motto_challenge:0 "Provocar"
+ motto_defy:0 "Desafiar"
+ motto_mock:0 "Zuar"
  motto_face:0 "Face"
- 
+
  # Negative Nouns
- motto_envy:0 "Envy"
- motto_doubt:0 "Doubt"
- motto_malice:0 "Malice"
- motto_wanting:0 "Wanting"
- motto_wanting_adjective:0 "Wanting"
- motto_cruelty:0 "Cruelty"
- motto_greed:0 "Greed"
- motto_wrath:0 "Wrath"
- 
+ motto_envy:0 "Inveja"
+ motto_doubt:0 "Dúvida"
+ motto_malice:0 "Malícia"
+ motto_wanting:0 "Desejo"
+ motto_wanting_adjective:0 "Desejando"
+ motto_cruelty:0 "Crueldade"
+ motto_greed:0 "Cobiça"
+ motto_wrath:0 "Ira"
+
  # Negative Adjectives
- motto_envious:0 "Envious"
- motto_doubtful:0 "Doubtful"
- motto_malicious:0 "Malicious"
+ motto_envious:0 "Invejoso"
+ motto_doubtful:0 "Descrente"
+ motto_malicious:0 "Malicioso"
  motto_cruel:0 "Cruel"
- motto_greedy:0 "Greedy"
- motto_wrathful:0 "Wrathful"
- motto_fearful:0 "Fearful"
- 
+ motto_greedy:0 "Embicioso"
+ motto_wrathful:0 "Furioso"
+ motto_fearful:0 "Metroso"
+
  # Norse-specific
  motto_odins_wisdom:0 "Odin's Wisdom"
  motto_odins_brilliance:0 "Odin's Brilliance"
@@ -414,7 +414,7 @@
  motto_mimirs_knowledge:0 "Mimir's Knowledge"
  motto_hodurs_trustiness:0 "Hodur's Trustiness"
  motto_ratatoskrs_two_front_teeth:0 "Ratatoskr's Two Front Teeth"
- 
+
  # Scripted
  dynn_Briain_motto:0 "The Strong Hand From Above"
  dynn_Habsburg_motto:0 "A.E.I.O.U."
@@ -424,7 +424,7 @@
  dynn_Tengil_motto:0 "All makt åt Tengil, vår befriare!"
  	#Paraphrasing Alfred the Great:
  dynn_Wessex_motto:0 "What punishments may befall us when we do not cherish or transmit learning?"
- 
+
  # Scripted (Easter Egg)
  dynn_Oltner_motto:0 "Hungry Like the Duck"
  dynn_Anward_motto:0 "Words Can Bring Down Empires"

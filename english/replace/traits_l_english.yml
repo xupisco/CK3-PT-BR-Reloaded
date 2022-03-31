@@ -53,9 +53,9 @@
  trait_education_martial_2:0 "Tough Soldier"
  trait_education_martial_2_desc:0 "The Tough Soldier has shown some prowess in martial matters, but still has a lot to learn."
  trait_education_martial_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has shown some prowess in martial matters, but still has a lot to learn."
- trait_education_martial_3:0 "Skilled Tactician"
- trait_education_martial_3_desc:0 "The Skilled Tactician is a reliable commander and fearsome warrior, renowned for their martial skill."
- trait_education_martial_3_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a reliable commander and fearsome warrior, renowned for [ROOT.GetCharacter.GetHerHis] martial skill."
+ trait_education_martial_3:0 "Estrategista Habilidoso"
+ trait_education_martial_3_desc:0 "O Estrategista Habilidoso é um comandante confiável e guerreiro temível, conhecido por sua habilidade marcial."
+ trait_education_martial_3_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] é um comandante confiável e guerreiro temível, renomado por sua habilidade marcial."
  trait_education_martial_4:0 "Brilliant Strategist"
  trait_education_martial_4_desc:0 "The battlefield is the domain of the Brilliant Strategist, and no martial matter is beyond their knowledge."
  trait_education_martial_4_character_desc:0 "The battlefield is the domain of [ROOT.GetCharacter.GetFirstNameNoTooltip], and no martial matter is beyond [ROOT.GetCharacter.GetHerHis] knowledge."
@@ -134,40 +134,40 @@
 
  trait_overseer:0 "Overseer"
  trait_overseer_desc:0 "The guidance, firmness of hand, and authority to ensure problems are solved properly."
- 
+
  trait_gallant:0 "Gallant"
  trait_gallant_desc:0 "True nobility comes not only from one's blood, but from actions tempered by a spirit like gleaming steel."
- 
+
  trait_architect:0 "Architect"
  trait_architect_desc:0 "The works of an experienced builder will stand for centuries."
- 
+
  trait_administrator:0 "Administrator"
  trait_administrator_desc:0 "To organize, administrate, and raise efficiency — the Administrator will get it done."
  trait_administrator_character_desc:0 "To organize, administrate, and raise efficiency — [ROOT.GetCharacter.GetFirstNameNoTooltip] will get it done."
 
  trait_avaricious:0 "Avaricious"
  trait_avaricious_desc:0 "Gold, gold, gold! Can there be any higher calling, any goal more noble, than the pursuit of wealth?"
- 
+
  trait_schemer:0 "Schemer"
  trait_schemer_desc:0 "To understand and manipulate the things that drive other people — and exploit them!"
  trait_schemer_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] lives to understand and manipulate the things that drive other people — and exploit them!"
- 
+
  trait_seducer:0 "Seducer"
  trait_seducer_female:0 "Seductress"
  trait_seducer_desc:0 "It is not difficult to desire. The true challenge is #EMP to be#! desired."
- 
+
  trait_torturer:0 "Torturer"
  trait_torturer_desc:0 "Inflicting pain. Holding someone's life in your hands. This is true power."
- 
+
  trait_whole_of_body:0 "Whole of Body"
  trait_whole_of_body_desc:0 "Know yourself, know your limitations, and know the full extent of your reach."
- 
+
  trait_scholar:0 "Scholar"
  trait_scholar_desc:0 "Philosophy, nature, and knowledge. Understanding the world is the only way to rule it."
- 
+
  trait_theologian:0 "Theologian"
  trait_theologian_desc:0 "Divinity holds the answer to every question, from what resides in the hearts of men, to the mysteries of life."
- 
+
  trait_mystic_female_1:0 "Wise Woman"
  trait_mystic_male_1:0 "Wise Man"
  trait_mystic_1_desc:0 "This character is known for their unconventional, but practical, approach to religion."
@@ -219,9 +219,9 @@
  trait_lazy:0 "Lazy"
  trait_lazy_desc:0 "The easiest road in life is the road most taken by this character."
  trait_lazy_character_desc:0 "The easiest road in life is the road most taken by [ROOT.GetCharacter.GetFirstNameNoTooltip]."
- trait_wrathful:0 "Wrathful"
- trait_wrathful_desc:0 "This character is quick to anger and fury."
- trait_wrathful_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is quick to anger and fury."
+ trait_wrathful:0 "Furioso"
+ trait_wrathful_desc:0 "Este Personagem fica bravo e nervoso bem rápido."
+ trait_wrathful_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] fica bravo e nervoso bem rápido."
  trait_calm:0 "Calm"
  trait_calm_desc:0 "This character takes things in stride, leading a slow-paced life."
  trait_calm_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] takes things in stride, leading a slow-paced life."
@@ -834,7 +834,7 @@
  trait_crusader_king_male_desc:0 "A great warrior King who has carved his own kingdom out of the lands of the infidels."
  trait_crusader_king_female_desc:0 "A great warrior Queen who has carved her own kingdom out of the lands of the infidels."
  trait_crusader_king_fallback_desc:0 "A great warrior-monarch who has carved their kingdom out of the lands of infidels."
- 
+
  trait_augustus:0 "Augustus"
  trait_augustus_desc:0 "This character is the current ruler of the restored Roman Empire and commands the respect an office of such magnitude is due."
  trait_augustus_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the current ruler of the restored Roman Empire and commands the respect an office of such magnitude is due."

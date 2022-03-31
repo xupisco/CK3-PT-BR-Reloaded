@@ -1,10 +1,10 @@
 ﻿l_english:
- ACHIEVEMENT_GROUP_very_easy_achievements:0 "Very Easy"
- ACHIEVEMENT_GROUP_easy_achievements:0 "Easy"
- ACHIEVEMENT_GROUP_medium_achievements:0 "Medium"
- ACHIEVEMENT_GROUP_hard_achievements:0 "Hard"
- ACHIEVEMENT_GROUP_very_hard_achievements:0 "Very Hard"
- 
+ ACHIEVEMENT_GROUP_very_easy_achievements:0 "Muito Fácil"
+ ACHIEVEMENT_GROUP_easy_achievements:0 "Fácil"
+ ACHIEVEMENT_GROUP_medium_achievements:0 "Médio"
+ ACHIEVEMENT_GROUP_hard_achievements:0 "Difícil"
+ ACHIEVEMENT_GROUP_very_hard_achievements:0 "Muito Difícil"
+
  #Achievement Titles
  ACHIEVEMENT_until_death_do_us_part_achievement:0 "Until Death Do Us Part"
  ACHIEVEMENT_way_of_life_achievement:0 "Way of Life"

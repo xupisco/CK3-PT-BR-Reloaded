@@ -73,7 +73,7 @@
  CHARACTER_RESET_FILTERS:1 "Reset to Defaults"
  CHARACTER_LIST_FILTER_COUNT:0 "Characters: [MarriageInteractionWindow.GetCharacterList.NumberOfShownCharacters]"
  CHARACTER_LIST_CLAIM_TOOLTIP:0 "#T Has [claims|E] on the following titles:#! \n[CharacterListItem.ListTitleItems]"
- skill_filter_category:0 "Skills"
+ skill_filter_category:0 "Habilidades"
  dynasty_filter:0 "Dynasty"
  player_dynasty_filter:1 "[GetPlayer.GetHouse.GetDynasty.GetNameNoTooltip|U]"
  player_dynasty_filter_desc:0 "Only show Characters with the same [dynasty|E] as you"
