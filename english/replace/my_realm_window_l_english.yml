@@ -9,7 +9,7 @@
  MY_REALM_WINDOW_MY_OBLIGATIONS:1 "$VASSAL_CONTRACT_MY_OBLIGATIONS_TITLE$: [VassalContract.GetShortObligationLevelNameWithHighlightFor( 'feudal_government_taxes' )]\n$VASSAL_CONTRACT_MY_OBLIGATIONS_TITLE_LEVIES$: [VassalContract.GetShortObligationLevelNameWithHighlightFor( 'feudal_government_levies' )]"
  MY_REALM_WINDOW_OBLIGATION_DEFAULT:0 "$NAME$"
  MY_REALM_WINDOW_OBLIGATION_CHANGED:1 "$NAME|V$"
- MY_REALM_WINDOW_TAX_TO_LIEGE:0 "Tax: [MyRealmWindow.GetCachedTaxToLiege|=1]/month"
+ MY_REALM_WINDOW_TAX_TO_LIEGE:0 "Tax: [MyRealmWindow.GetCachedTaxToLiege|=1]/mês"
  MY_REALM_WINDOW_LEVIES_TO_LIEGE:0 "Levies: [MyRealmWindow.GetCachedLeviesToLiege]"
  MY_REALM_WINDOW_TYPE:1 "[GetPlayer.GetGovernment.GetName] [Character.GetPrimaryTitle.GetRankConcept]"
 

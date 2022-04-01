@@ -8,7 +8,7 @@
  GAMESETUP_TUTORIAL_PROMPT_HEADER:1 "Bem-vindo ao Crusader Kings III"
  GAMESETUP_TUTORIAL_PROMPT_INTRO:0 "Crusader Kings III é um jogo de estratégia profunda de dinastias e intrigas!"
  GAMESETUP_TUTORIAL_PROMPT_RECOMMEND:0 "Se você é novo no mundo de Crusader Kings, recomendamos que jogue o tutorial."
- GAMESETUP_TUTORIAL_PROMPT_ABOUT_RULER:0 "No tutorial, você jogará como $bookmark_rags_to_riches_petty_king_murchad$, um Governante na Irlanda. Lidere sua Família e Dinastia para derrotar seus inimigos e se tornar o rei da Irlanda!"
+ GAMESETUP_TUTORIAL_PROMPT_ABOUT_RULER:0 "No tutorial, você jogará como $bookmark_rags_to_riches_petty_king_murchad$, um Governante na Irlanda. Lidere sua Família e Dinastia para derrotar seus inimigos e se tornar o Rei da Irlanda!"
  GAMESETUP_TUTORIAL_PROMPT_ASK:0 "Quer aprender a jogar como $bookmark_rags_to_riches_petty_king_murchad$?"
 
  GAMESETUP_TUTORIAL_PROMPT_DISABLE:0 "Talvez depois"

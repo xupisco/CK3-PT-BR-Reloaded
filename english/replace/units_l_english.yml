@@ -16,8 +16,8 @@
  ARMY_QUALITY_LEVEL_3:0 "@army_quality_icon_3! High [troop_quality|E]"
  ARMY_QUALITY_LEVEL_4:0 "@army_quality_icon_4! Superior [troop_quality|E]"
  ARMY_QUALITY_LEVEL_5:0 "@army_quality_icon_5! Elite [troop_quality|E]"
- UNIT_SUPPLY_STATE_POSITIVE:0 "@supply_icon!$STATE|V$ ($CURRENT|+0$) $VALUE|+=$/month"
- UNIT_SUPPLY_STATE_NEGATIVE:0 "@supply_icon!$STATE|V$ ($CURRENT|+0$) @supply_trend_negative_icon!$VALUE|+=$/month"
+ UNIT_SUPPLY_STATE_POSITIVE:0 "@supply_icon!$STATE|V$ ($CURRENT|+0$) $VALUE|+=$/mês"
+ UNIT_SUPPLY_STATE_NEGATIVE:0 "@supply_icon!$STATE|V$ ($CURRENT|+0$) @supply_trend_negative_icon!$VALUE|+=$/mês"
  UNIT_NEUTRAL_COMBAT_PREDICTION:1 "In a fight on neutral [terrain|E], if you attack with your selected [armies|E], $PREDICTION$"
  UNIT_TOOLTIP_NO_COMMANDER:0 "No [commander|E]"
  UNIT_TOOLTIP_COMMANDER:0 "[commander|E]: [CHARACTER.GetUIName|U] (@skill_martial_icon![CHARACTER.GetSkill( 'martial' )|V])"
@@ -45,4 +45,4 @@
  SUPPLY_LOSS_AT_SEA:0 "At Sea"
  SUPPLY_BREAKDOWN_PENALTY:0 "Supply penalty"
  SUPPLY_BREAKDOWN_BONUS:0 "Supply bonus"
- 
+
