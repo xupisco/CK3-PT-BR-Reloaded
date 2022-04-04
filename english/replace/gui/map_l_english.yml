@@ -1,5 +1,5 @@
 ﻿l_english:
- ONMAP_ARMY_UNIT_TOOLTIP:0 "$NAME$ ($CONTROLLER$)\n($MORALE|V$%)(morale)\Reforços/mês: $REINFORCEMENTS|V$\Tropas: $LEVIES$ / $MAX_LEVIES|V$\nMen-at-Arms: $MEN_AT_ARMS$ / $MAX_MEN_AT_ARMS|V$\nRegimentos: $REGIMENTS|V$\nManutenção: $MAINTENANCE$\nFornecimento: $SUPPLY|V$ / $MAX_SUPPLY|V$\nLimite de fornecimento: $SUPPLY_LIMIT|V$"
+  ONMAP_ARMY_UNIT_TOOLTIP:0 "$NAME$ ($CONTROLLER$)\n($MORALE|V$%)(morale)\nReinforcements/month: $REINFORCEMENTS|V$\nLevies: $LEVIES$ / $MAX_LEVIES|V$\nMen-at-Arms: $MEN_AT_ARMS$ / $MAX_MEN_AT_ARMS|V$\nRegiments: $REGIMENTS|V$\nMaintenance: $MAINTENANCE$\nSupply: $SUPPLY|V$ / $MAX_SUPPLY|V$\nSupply Limit: $SUPPLY_LIMIT|V$"
  UNIT_WILL_ARRIVE:0 "$NAME$, [DATE.GetTimeToDate] left ([DATE.GetStringShort|V])"
  UNIT_WILL_ARRIVE_RETREAT:1 "Recuando para $NAME$, [DATE.GetTimeToDate] faltam ([DATE.GetStringShort|V])"
  UNIT_WILL_MOVEMENT_LOCK:0 "[movement_lock|E] em [DATE.GetTimeToDate]"
@@ -112,7 +112,7 @@
  ZOOM_LEVEL_DETAILS:0 "Mapa Detalhado"
  ZOOM_LEVEL_DETAILS_TOOLTIP:0 "O $ZOOM_LEVEL_DETAILS$ dá um visão geral do [terrain|E] e seu [domain|E], é ideal para mover [regiments|E] e construir [buildings|E].\n\n#TUT Neste modo, clicar no mapa irá selecionar [holdings|E]#!"
  ZOOM_LEVEL_DOMAIN:0 "Mapa de Domínio"
- ZOOM_LEVEL_SELECTING_BARONIES:0 "Selecionando: Participações"
+ ZOOM_LEVEL_SELECTING_BARONIES:0 "Selecionando: Propriedades"
  ZOOM_LEVEL_SELECTING_REALMS:0 "Selecionando: Reinos"
  MAP_MODES_EXPLORATION_ENABLED:0 "No modo de exploração de Reinos"
  MAP_MODES_EXPLORATION_ENABLED_TT:1 "While in Realm Exploration Mode the map is colored according to the Vassal structure of different Realms. Go deeper in Vassal hierarcy by Ctrl+click, and go back with Ctrl+right-click. Select any other map mode to reset Realm Exploration"

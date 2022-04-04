@@ -8,8 +8,8 @@
  ethos_bureaucratic_desc:2 "No culture lasts longer than its oldest record, and this culture believes in accounting so meticulous as to guarantee immortality."
  ethos_spiritual_name:0 "Spiritual"
  ethos_spiritual_desc:1 "While some cultures turn to war and others to worldly knowledge, this culture places its trust in the only constant throughout its history - the divine. Spirituality is the only way forward in a harsh and uncaring world."
- ethos_courtly_name:0 "Courtly"
- ethos_courtly_desc_nhc:1 "The ceremony of court life is so integral to this culture that it forms a core part of people's social behavior. A place for everyone, and everyone in their place."
+ ethos_courtly_name:0 "Cortês"
+ ethos_courtly_desc_nhc:1 "A cerimonia da vida na corte é tão essencial a esta cultura que constitui uma parte central do comportamento social das pessoas. Um lugar para todos, e cada um em seu lugar."
  ethos_egalitarian_name:0 "Egalitarian"
  ethos_egalitarian_desc:1 "Intolerance and isolationism may be the way for others, but this culture recognizes that accepting difference is far better than annihilating it."
  ethos_communal_name:0 "Communal"
@@ -23,7 +23,7 @@
  martial_custom_female_only_name:0 "Women Only"
  martial_custom_female_only_desc:0 "This culture considers only women to be physically strong and tough enough to fight in battle."
  ## ^The above descs mirror each other deliberately.
- 
+
  # Traditions
  tradition_court_eunuchs_name:0 "Court Eunuchs"
  tradition_court_eunuchs_desc:1 "This culture makes extensive use of eunuchs at court, occupying positions ranging from domestic servants to bureaucratic administrators and even military commanders. Men with no desire are easy to trust."
@@ -501,31 +501,31 @@
  recruit_winter_specialist_decision.tt:0 "A high-[martial|E] [commander|E] with the [GetTrait('winter_soldier').GetName( GetNullCharacter )] [trait|E] joins your [court|E]"
  recruit_winter_specialist_decision_tooltip:0 "$recruit_winter_specialist_decision.tt$"
  recruit_winter_specialist_decision_confirm:0 "$invite_knights_decision_confirm$"
- 
+
  recruit_forest_specialist_decision:0 "Recruit Forest Specialist"
  recruit_forest_specialist_decision_desc:0 "The [ROOT.Char.GetCulture.GetCollectiveNoun] treat the forest as their second home. It offers protection, shelter, and fuel for the hearth. If I need someone to guide my troops through the deep and treacherous forests, there's no shortage of willing hunters to heed the call."
  recruit_forest_specialist_decision.tt:0 "A high-[martial|E] [commander|E] with the [GetTrait('forest_fighter').GetName( GetNullCharacter )] [trait|E] joins your [court|E]"
  recruit_forest_specialist_decision_tooltip:0 "$recruit_forest_specialist_decision.tt$"
  recruit_forest_specialist_decision_confirm:0 "$invite_knights_decision_confirm$"
- 
+
  recruit_mountain_specialist_decision:0 "Recruit Mountain Specialist"
  recruit_mountain_specialist_decision_desc:0 "My tough people, the [ROOT.Char.GetCulture.GetCollectiveNoun], can navigate the most treacherous mountain pass. If I want to move and fight in the mountains, I can call upon a seasoned guide to help my army find its way."
  recruit_mountain_specialist_decision.tt:0 "A high-[martial|E] [commander|E] with the [GetTrait('rough_terrain_expert').GetName( GetNullCharacter )] [trait|E] joins your [court|E]"
  recruit_mountain_specialist_decision_tooltip:0 "$recruit_mountain_specialist_decision.tt$"
  recruit_mountain_specialist_decision_confirm:0 "$invite_knights_decision_confirm$"
- 
+
  recruit_dry_specialist_decision:0 "Recruit Dry Terrain Specialist"
  recruit_dry_specialist_decision_desc:0 "The [ROOT.Char.GetCulture.GetCollectiveNoun] are used to the scorching heat of the sun, and travel far and wide under its scorching influence. If I wish to move my armies without having them perish in the heat, I should ask for their guidance."
  recruit_dry_specialist_decision.tt:0 "A high-[martial|E] [commander|E] with the [GetTrait('desert_warrior').GetName( GetNullCharacter )] [trait|E] joins your [court|E]"
  recruit_dry_specialist_decision_tooltip:0 "$recruit_dry_specialist_decision.tt$"
  recruit_dry_specialist_decision_confirm:0 "$invite_knights_decision_confirm$"
- 
+
  recruit_hill_specialist_decision:0 "Recruit Hill Specialist"
  recruit_hill_specialist_decision_desc:0 "The [ROOT.Char.GetCulture.GetCollectiveNoun] are at home in the hills and valleys where they herd their animals and fend off wild animals with ease. There's no shortage of skilled herders who would do just as well guiding an army."
  recruit_hill_specialist_decision.tt:0 "A high-[martial|E] [commander|E] with the [GetTrait('rough_terrain_expert').GetName( GetNullCharacter )] [trait|E] joins your [court|E]"
  recruit_hill_specialist_decision_tooltip:0 "$recruit_hill_specialist_decision.tt$"
  recruit_hill_specialist_decision_confirm:0 "$invite_knights_decision_confirm$"
- 
+
  recruit_jungle_specialist_decision:0 "Recruit Jungle Specialist"
  recruit_jungle_specialist_decision_desc:0 "The jungle is harsh and treacherous to travel — but my people, the [ROOT.Char.GetCulture.GetCollectiveNoun], have mastered the art of traversing it. Seasoned explorers and guides stand at the ready to see my forces through this lush but deadly terrain."
  recruit_jungle_specialist_decision.tt:0 "A high-[martial|E] [commander|E] with the [GetTrait('jungle_stalker').GetName( GetNullCharacter )] [trait|E] joins your [court|E]"
@@ -537,10 +537,10 @@
  recruit_open_specialist_decision.tt:0 "A high-[martial|E] [commander|E] with the [GetTrait('open_terrain_expert').GetName( GetNullCharacter )] [trait|E] joins your [court|E]"
  recruit_open_specialist_decision_tooltip:0 "$recruit_open_specialist_decision.tt$"
  recruit_open_specialist_decision_confirm:0 "$invite_knights_decision_confirm$"
- 
+
  commander_recruited.t:0 "Commander Recruited"
  commander_recruited.desc:0 "[new_commander.GetFullName] joined your court!"
- 
+
  recruit_gardener_decision:0 "Recruit Gardener"
  recruit_gardener_decision_desc:0 "We [ROOT.Char.GetCulture.GetCollectiveNoun] have extensive knowledge in shaping and caring for gardens of all types. There are plenty of skilled gardeners out there whose expertise I can put to great use."
  recruit_gardener_decision_tt:0 "A high-[stewardship|E] [courtier|E] with the [GetTrait('lifestyle_gardener').GetName( GetNullCharacter )] [trait|E] joins your [court|E]"
@@ -727,7 +727,7 @@
 
  faith_conversion_cost_tradition:0 "Current [traditions|E]"
  cheaper_tradition_from_faith:0 "Current [faith|E]"
- 
+
  tradition_female_only_inheritance_requirements:0 "You must have a [GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] [faith|E] or the #V $heritage_akan_name$#!, #V $heritage_west_african_name$#!, #V $heritage_senegambian_name$#!, or #V $heritage_yoruba_name$#! [heritage|E]"
  no_eunuch_in_realms:1 "You must have at least one [vassal|E], [courtier|E], or [councillor|E], with the [GetTrait('eunuch').GetName( GetNullCharacter )] [trait|E]"
  no_eunuch_councillors_desc:0 "You do not have a [councillor|E] with the [GetTrait('eunuch').GetName( GetNullCharacter )] [trait|E]"
@@ -737,7 +737,7 @@
  20_percent_churches:0 "The [culture|E] does not have a [temple|E] in #V 20%#! of its [counties|E]"
  must_be_feudal_or_clan:0 "You must have the [feudal|E] or [clan|E] [government|E]"
  only_one_marriage_tradition_allowed:0 "Only one [marriage|E] [tradition|E] is allowed and the following cannot be combined: $tradition_monogamous_name$, $tradition_polygamous_name$, and $tradition_concubines_name$"
- 
+
  culture_in_winter_geographical_region_trigger_desc:0 "The [culture|E] is not present in a [region|E] with winter"
  culture_in_non_sedentary_geographical_region_trigger_desc:0 "The [culture|E] is not present in the [GetGeographicalRegion('world_steppe').GetName]"
  #culture_in_britannia_region_trigger_desc: "The [culture|E] is not present in [GetGeographicalRegion('world_europe_west_britannia').GetName]"
@@ -768,7 +768,7 @@
  culture_not_pacifist_trigger_desc:0 "The [culture|E] has the $tradition_pacifism_name$ [tradition|E]"
  culture_not_warlike_trigger_desc:0 "The [culture|E] has one or more [war|E] focused [traditions|E]:"
  rulers_following_different_faiths_trigger_desc:0 "You do not have at least #V 2#! [vassals|E] of your [culture|E] that follows a different [faith|E]"
- 
+
  # NOTE: when localising ethos stuff, try to use the order they appear in in 00_ethos.txt. This minimises overlap without us having to localise every possible variation.
 
  # Single lines.
@@ -839,7 +839,7 @@
  winter_soldier_affinity_desc:0 "The [culture_head|E] does not have the [GetTrait('winter_soldier').GetName( GetNullCharacter )] [trait|E]"
  forest_fighter_affinity_desc:0 "The [culture_head|E] does not have the [GetTrait('forest_fighter').GetName( GetNullCharacter )] [trait|E]"
  rough_terrain_expert_affinity_desc:0 "The [culture_head|E] does not have the [GetTrait('rough_terrain_expert').GetName( GetNullCharacter )] [trait|E]"
- 
+
 ## Tradition Cost Modifier Descs
  replacing_tradition_cost_penalty_desc:1 "Replacing an existing [tradition|E] #weak (+[EmptyScope.ScriptValue('tradition_replacement_cost_factor_tooltip')|0]%)#!"
  winter_percentage_desc:0 "The [culture|E] does not have #V 30%#! of its [counties|E] in a wintery [region|E]"
@@ -941,7 +941,7 @@
  new_hybrid_culture_tt:0 "A [hybrid_culture|E] will appear that share a combination of [traditions|E] and [culture_pillars|E] from both the [ROOT.Char.GetCulture.GetName] and [hybdridization_offer_culture.GetName] [cultures|E]."
  culture_emergence_events.0001.existing_hybrid:0 "You and your lands will adopt the [existing_hybrid_culture.GetName] [culture|E]"
  culture_emergence_events.0001.new_hybrid:0 "You and your lands will adopt a newly emerged [hybrid_culture|E]"
- 
+
  culture_emergence_events.0002.t:0 "A New Identity"
  culture_emergence_events.0002.desc:0 "My people, the [ROOT.Char.GetCulture.GetCollectiveNoun], are a proud and wide-spread people.\n\nHowever similar we are, I cannot deny that my subjects have started to act differently from [ROOT.Char.GetCulture.GetCollectiveNounNoTooltip] elsewhere. Sometimes there's even conflict between visiting [ROOT.Char.GetCulture.GetNameNoTooltip] groups and those under my rule.\n\nWe are developing a new identity, we are [ROOT.Char.GetCulture.GetNameNoTooltip] - but at the same time we are not. Perhaps this development should be encouraged?"
  culture_emergence_events.0002.a:0 "We will build a new, stronger identity!"
@@ -949,9 +949,9 @@
  new_divergent_culture_tt:0 "A [divergent_culture|E] will appear that share most [traditions|E] and [culture_pillars|E] as the [ROOT.Char.GetCulture.GetName] [culture|E], but with a new [ethos|E] and some Traditions replaced."
  culture_emergence_events.0002.new_divergence:0 "You and your lands will adopt a newly emerged [divergent_culture|E]"
  culture_emergence_events.vassals:0 "[vassals|E] might or might not join in"
- 
+
  culture_emergence_events.0003.desc:0 "[culture_check_2.GetName]\n[duchy_title.GetName]\n[diverge_dummy.GetFullName]"
- 
+
  realm_culture_size_diff:0 "Difference in size within the [realm|E]" # TODO AO This string should ideally print the names, but it errors like crazy
  hybrid_cost_from_acceptance:0 "From [cultural_acceptance|E]"
  culture_size_in_realm:0 "Number of controlled [culture|E] [counties|E]"
@@ -960,7 +960,7 @@
  ai_cultural_hybridization_decision_confirm:0 ""
 
  culture_not_female_only_tt:0 "Your culture has a [tradition|E] that enables Female Only succession and your [faith|E] does not have the [GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName] [doctrine|E]"
- 
+
  female_only_law_faith_or_culture_trigger:0 "Your [faith|E] does not have the [GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] [doctrine|E] and your [culture|E] does not have a [culture_tradition|E] that allow [GetLaw('female_only_law').GetName]"
  female_preference_law_faith_or_culture_trigger:0 "Your [faith|E] does not have the [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] or the [GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] [doctrines|E] and your [culture|E] does not have a [culture_tradition|E] that allow [GetLaw('female_preference_law').GetName]"
  equal_law_culture_faith_or_innovation_trigger:1 "Your [faith|E] does not have the [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] [doctrine|E] and your [culture|E] does not have a [culture_tradition|E] that allow [GetLaw('equal_law').GetName]."
@@ -985,7 +985,7 @@
  #has_courtier_or_guest_with_inspiration_desc: "The [culture|E] does not have at least #V 3#! [rulers|E] who has a [character|E] with (or had) an [inspiration|E] in their [court|E]"
  has_courtier_or_guest_with_inspiration_desc:0 "The [culture|E] does not have at least #V 3#! [courts|E] with a [character|E] who has, or had, an [inspiration|E]"
 
- 
+
  appoint_podesta_interaction:0 "Appoint as Republican Overseer"
  appoint_podesta_desc:0 "Appoint [recipient.GetShortUINameNoTooltip] to oversee the growing city of [recipient.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip], turning [recipient.GetHerHim] into a Republican vassal."
  REQUEST_REPUBLIC_TEXT:0 "Greetings, my [actor.Custom2('RelationToMeShort', SCOPE.sC('recipient'))]. For some time it has become apparent the most wealthy part of the land you rule is urban commune within it. I invite you to take on the task of overseeing this growing Republic in my name."
@@ -1010,13 +1010,13 @@
  culture_tradition_events.0002.desc_recipient_victor_bad:0 ""Well fought, my [actor.GetTitleTierName|U]. I am sorry if I caused you harm. For a brief moment I was in a trance — me and my weapon were as one..." [recipient.GetFirstNameNoTooltip] says apologetically.\n"Perhaps you need a bit of rest?"\n\nNonsense, I am fit as a butcher's dog!"
  culture_tradition_events.0002.a:0 "A good bout!"
  culture_tradition_events.0002.b:0 "I might have lost, but it was good training!"
- 
+
  FROM_CULTURE_TRADITIONS:0 "From [culture_traditions|E]: $VALUE|=+0$"
  CULTURE_FORBIDS_DIVORCE:0 "Your [culture_traditions|E] forbid [divorce|E]"
  more_expensive_court_positions:1 "[court_position|E] Salary Cost: [gold_i]#N +25%#![SelectLocalization( HasDlcFeature( 'royal_court' ), 'more_expensive_amenities_text', '' )]"
  more_expensive_amenities_text:0 "\n$EFFECT_LIST_BULLET$[court_amenity|E] Cost: [gold_i]#N +25%#!"
  TOTAL_TRADITION_SLOTS:0 "Max [culture_traditions]"
- 
+
  cannot_combine_tradition_trigger_desc:0 "The [culture|E] already has the [tradition|E]"
  cannot_have_tradition_warrior_culture:0 "$cannot_combine_tradition_trigger_desc$ #high $tradition_warrior_culture_name$#!"
  cannot_have_tradition_seafaring:0 "$cannot_combine_tradition_trigger_desc$ #high $tradition_seafaring_name$#!"
@@ -1038,7 +1038,7 @@
  cannot_have_tradition_byzantine_succession:0 "$cannot_combine_tradition_trigger_desc$ #high $tradition_byzantine_succession_name$#!"
  cannot_have_vegetarianism_and_sacred_hunts:0 "The [tradition|E] #high $tradition_vegetarianism_name$#! cannot be combined with #high $tradition_sacred_hunts_name$#!"
  cannot_have_vegetarianism_and_hunters:0 "The [tradition|E] #high $tradition_vegetarianism_name$#! cannot be combined with #high $tradition_hunters_name$#!"
- 
+
  remove_marriage_traditions:0 "The [culture_scope.GetName] [culture|E] loses any [marriage|E]-altering [traditions|E] that conflict with the [doctrines|E] of [faith_scope.GetName]"
  culture_tradition_events.0100.t:0 "A Clash of Culture and Faith"
  culture_tradition_events.0100.desc:0 "A missive from [head_of_faith.GetTitledFirstName] has arrived. It starts off with pleasantries, and outlines the importance I hold in the eyes of the [culture_scope.GetName] people.\n\n"

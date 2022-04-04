@@ -222,7 +222,7 @@
  task_support_schemes_fail_scheme:0 "\n$EFFECT_LIST_BULLET$#N Scheme Failure#!"
  task_support_schemes_notification_tooltip:0 "From $task_support_schemes$"
 
- task_find_secrets:0 "Find Secrets"
+ task_find_secrets:0 "Encontrar Segredos"
  task_find_secrets_effect_desc:0 "If any Secrets exist at court:\n$TAB$[SCOPE.ScriptValue('spymaster_find_secrets_secret_discovery_chance')|P]#P %#! chance of learning a Secret"
  task_find_secrets_vassal_intimidation:0 "\nChance of intimidating vassal"
  task_find_secrets_opinion_loss:0 "\n$EFFECT_LIST_BULLET$#N $task_find_secrets$ Discovered#!"

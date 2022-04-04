@@ -44,7 +44,7 @@
  CLAIM_THRONE_SCHEME_AGENT_COUNCILLOR:0 "[target.GetShortUINamePossessive] councillor"
  CLAIM_THRONE_SCHEME_AGENT_COURT_CHAPLAIN:0 "[target.GetShortUINamePossessive] [target.GetCouncillorPosition( 'councillor_court_chaplain' ).GetPositionName]"
  CLAIM_THRONE_SCHEME_AGENT_VASSAL:0 "[target.GetShortUINamePossessive] vassal"
- 
+
  learn_language:1 "Learn Language"
  learn_language_action:0 "Learn the Language of"
  learn_language_desc:1 "I will attempt to learn [SCHEME.GetTarget.GetShortUINamePossessiveNoTooltip] [SCHEME.GetTarget.GetCulture.GetLanguage.GetName] [language|E]."
@@ -61,10 +61,10 @@
  LEARN_LANGUAGE_SUCCESS_DESC:2 "You learn the [TARGET_CHARACTER.GetCulture.GetLanguage.GetName] [language|E]\n#weak Current [language_limit|E]: [CHARACTER.MakeScope.ScriptValue('current_extra_languages')|V0] out of [CHARACTER.MakeScope.ScriptValue('language_soft_cap')|V0]#!"
  scheme_target_same_language_as_existing_scheme:1 "You're already learning [TARGET_CHARACTER.GetCulture.GetLanguage.GetName]"
 
- abduct:1 "Abduct"
- abduct_action:0 "Abduct"
- abduct_desc:0 "I will kidnap and [imprison|E] [SCHEME.GetTarget.GetShortUINameNoTooltip]!"
- abduct_desc_general:2 "The $abduct$ [scheme|E] is a [hostile_scheme|E] that aims to [imprison|E] its target. It is a [secret_scheme|E] based on [intrigue|E], that can recruit [agents|E].\n\nA successfully abducted [scheme_target|E] will be imprisoned by the  [scheme_owner|E]."
+ abduct:1 "Abdução"
+ abduct_action:0 "Abdução"
+ abduct_desc:0 "Vou sequertrar e [imprison|E] [SCHEME.GetTarget.GetShortUINameNoTooltip]!"
+ abduct_desc_general:2 "O [scheme|E] de $abduct$ é um [hostile_scheme|E] que visa [imprison|E] seu alvo. É um [secret_scheme|E] baseado em [intrigue|E], que pode recrutar [agents|E].\n\nO [scheme_target|E] adbuzido com sucesso será aprisionado pelo [scheme_owner|E]."
  scheme_interaction_tt_abduct_approved:1 "[recipient.GetShortUIName] will soon be my prisoner!"
  abduct_successful_roll_tt:0 "[target.GetShortUINameNoTooltip] becomes my prisoner!"
  abduct_success_discovery_tt:0 "A successful Abduction will reveal my identity\nOtherwise:"
@@ -167,11 +167,11 @@
 
 
  scheme_interaction_tt_spy_on_approved:1 "I will soon find whatever [recipient.GetShortUIName] seeks to keep secret!"
- 
+
  SCEHEME_ON_COOLDOWN:0 "#X Can not use the $SCHEME_NAME$ on [TARGET_CHARACTER.GetShortUIName] until [DATE.GetStringLong]#!"
  scheme_target_is_incapable:0 "[target.GetShortUIName|U] is [GetTrait('incapable').GetName( target )]"
 
- 
+
  elope:1 "$elope_verb$"
  elope_action:0 "$elope_verb$ with"
  elope_verb:0 "Elope"
@@ -193,7 +193,7 @@
  scheme_target_no_longer_lover:0 "You and [TARGET_CHARACTER.GetShortUIName|U] are no longer lovers"
 
 
-  # Steal Back Artifact 
+  # Steal Back Artifact
  steal_back_artifact:1 "Steal Artifact"
  start_stealing_back_artifact:0 "Steal Artifact #weak (Scheme)#!"
  steal_back_artifact_general_desc:1 "A [scheme|E] where a character organizes a heist to steal an [artifact|e] they have an claim on"
