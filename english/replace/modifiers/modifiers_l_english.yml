@@ -680,7 +680,7 @@
  MOD_INBREEDING_CHANCE:0 "[inbreeding|E] Chance"
  MOD_OPINION_OF_FEMALE_RULERS:0 "Opinion of Female Rulers"
  MOD_OPINION_OF_MALE_RULERS:0 "Opinion of Male Rulers"
- OPINION_SAME_FAITH:0 "Same [faith|E]"
+ OPINION_SAME_FAITH:0 "Mesma [faith|E]"
  OPINION_HOSTILE_FAITH:0 "[FAITH.GetName] is $LEVEL$"
  OPINION_HOSTILE_FAITH_MODIFIED:0 "[FAITH.GetName] is $LEVEL$ (modified by [doctrines|E])"
  OPINION_HOSTILE_FAITH_COUNTY:0 "Fervor ($FERVOR|0V%/$) and [FAITH.GetName] is $LEVEL$"

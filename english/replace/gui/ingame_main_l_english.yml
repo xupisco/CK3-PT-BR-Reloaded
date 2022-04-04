@@ -134,7 +134,7 @@
  LOAD_INGAME_BUTTON_DISABLED:0 "Não é permitido carregar um jogo quando você está em um jogo multiplayer."
  DREAD_EFFECT_DESC_LEVEL_INTIMIDATED:1 "#T Intimidado#!\n[CHARACTER.GetUIName] é [intimidated|E] pelo sua [dreadful|E] reputação. Com medo, [CHARACTER.GetSheHe] é menos provável que se oponha a você diretamente."
  DREAD_EFFECT_DESC_LEVEL_COWED:2 "#T Apavorado#!\n[CHARACTER.GetUIName] é [cowed|E] devido a sua [dreadful|E] reputação. Tremendo diante de você, [CHARACTER.GetSheHe] nunca vai se opor a diretamente."
- DREAD_EFFECT_DESC_LEVEL_INTIMIDATED_OTHER:0 "#T Intimidado#!\n[CHARACTER.GetUIName] é [intimidated|E] por sua [dreadful|E] reputação com [TARGET_CHARACTER.GetUIName].\Com medo [TARGET_CHARACTER.GetHerHim], [CHARACTER.GetShortUIName] é menos provável que se oponha a [TARGET_CHARACTER.GetShortUIName] diretamente."
+ DREAD_EFFECT_DESC_LEVEL_INTIMIDATED_OTHER:0 "#T Intimidado#!\n[CHARACTER.GetUIName] é [intimidated|E] por sua [dreadful|E] reputação com [TARGET_CHARACTER.GetUIName].\nCom medo [TARGET_CHARACTER.GetHerHim], [CHARACTER.GetShortUIName] é menos provável que se oponha a [TARGET_CHARACTER.GetShortUIName] diretamente."
  DREAD_EFFECT_DESC_LEVEL_COWED_OTHER:0 "#T Terrified#!\n[CHARACTER.GetUIName] is [cowed|E] devido a sua [dreadful|E] reputação com [TARGET_CHARACTER.GetUIName].\nTremendo diante [TARGET_CHARACTER.GetHerHim], [CHARACTER.GetShortUIName] nunca irá se opor a [TARGET_CHARACTER.GetShortUIName] diretamente."
  DREAD_DESC:1 "#T [dread|E]: $VALUE|1V$/100#!"
  DREAD_BASELINE:0 "Temor natural"

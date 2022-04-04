@@ -7,10 +7,10 @@
  knight_culture_player_plural_no_tooltip_lowercase:0 "[GetPlayer.Custom( 'KnightCulturePluralNoTooltipLowercase' )]"
  knight_culture_player_plural_possessive_no_tooltip_lowercase:0 "[GetPlayer.Custom( 'KnightCulturePluralPossessiveNoTooltipLowercase' )]"
  knight_culture_player_adjective_no_tooltip_lowercase:0 "[GetPlayer.Custom( 'KnightCultureAdjectiveNoTooltipLowercase' )]"
-  
+
   # No tooltip versions
- knight_default_no_tooltip:0 "Knight"
- knight_default_no_tooltip_plural:0 "Knights"
+ knight_default_no_tooltip:0 "Cavaleiro"
+ knight_default_no_tooltip_plural:0 "Cavaleiros"
 
  knight_faris_no_tooltip:0 "Fāris"
  knight_faris_no_tooltip_plural:0 "Fāris"
@@ -27,14 +27,14 @@
  knight_hetaeria_no_tooltip:0 "Hetaeria"
  knight_hetaeria_no_tooltip_plural:0 "Hetaeriae"
 
- knight_champion_no_tooltip:0 "Champion"
- knight_champion_no_tooltip_plural:0 "Champions"
-  
+ knight_champion_no_tooltip:0 "Campeão"
+ knight_champion_no_tooltip_plural:0 "Campeões"
+
   # Lowercase versions
- knight_default_no_tooltip_lowercase:0 "knight"
- knight_default_no_tooltip_lowercase_plural:0 "knights"
- knight_default_no_tooltip_lowercase_plural_possessive:0 "knights'"
- knight_default_no_tooltip_lowercase_adjective:0 "knightly"
+ knight_default_no_tooltip_lowercase:0 "Cavaleiro"
+ knight_default_no_tooltip_lowercase_plural:0 "Cavaleiros"
+ knight_default_no_tooltip_lowercase_plural_possessive:0 "dos Cavaleiros"
+ knight_default_no_tooltip_lowercase_adjective:0 "Cavalheiresco"
 
  knight_faris_no_tooltip_lowercase:0 "fāris"
  knight_faris_no_tooltip_lowercase_plural:0 "fāris"
@@ -61,10 +61,10 @@
  knight_hetaeria_no_tooltip_lowercase_plural_possessive:0 "hetaeriae's"
  knight_hetaeria_no_tooltip_lowercase_adjective:0 "hetaeria"
 
- knight_champion_no_tooltip_lowercase:0 "champion"
- knight_champion_no_tooltip_lowercase_plural:0 "champions"
- knight_champion_no_tooltip_lowercase_plural_possessive:0 "champions'"
- knight_champion_no_tooltip_lowercase_adjective:0 "champion"
+ knight_champion_no_tooltip_lowercase:0 "campeão"
+ knight_champion_no_tooltip_lowercase_plural:0 "campeões"
+ knight_champion_no_tooltip_lowercase_plural_possessive:0 "dos campeões"
+ knight_champion_no_tooltip_lowercase_adjective:0 "campeão"
 
   #Game Concept versions
  knight_default:0 "[Concept( 'knight', '$knight_default_no_tooltip$' )|E]"
