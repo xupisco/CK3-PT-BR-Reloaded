@@ -1,6 +1,6 @@
 ﻿l_english:
- grant_vassal_interaction:0 "Grant Vassal"
- grant_vassal_interaction_desc:0 "Make one of your [vassals|E] become a Vassal of [recipient.GetShortUINameNoTooltip] instead\n\nGranted Vassals have to be of a lower [rank|E] than [recipient.GetShortUINameNoTooltip]"
+ grant_vassal_interaction:0 "Conceder Vassalo"
+ grant_vassal_interaction_desc:0 "Faça um dos seus [vassals|E] se tornar Vassalo de [recipient.GetShortUINameNoTooltip]\n\nOs vassalos concedidos devem ser de um [rank|E] inferior do que [recipient.GetShortUINameNoTooltip]"
  grant_vassal_interaction_notification:0 "Granted Vassal"
  actor_secondary_grant_vassal_interaction:0 "[vassal|E]"
  GRANT_VASSAL_SELECT_VASSAL_TO_TRANSFER:0 "Select [vassal|E] to transfer"
@@ -69,7 +69,7 @@
  char_interaction.0240.a:0 "As you demand."
 
  ASK_FOR_PARDON_NOTIFICATION:0 "I humbly ask of you to grant me pardon for my crimes."
- 
+
  pardon_interaction:0 "Grant Pardon"
  pardon_interaction_desc:1 "You consider [recipient.GetName] to be a [criminal|E] ([recipient.GetImprisonmentReasons( actor.Self )]), allowing you to [imprison|E] them at any time without gaining [tyranny|E].\n\nIf you would prefer that they remain free, you can choose to pardon them. This will remove any and all reasons you have to [imprison|E] them and increase their [opinion|E] of you."
  pardon_interaction_toast:0 "Your benevolent liege, [actor.GetFirstName], has pardoned your crimes!"

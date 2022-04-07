@@ -1,8 +1,8 @@
 ﻿l_english:
  line_break:0 "\n"
  double_line_break:0 "\n\n"
- do_not_execute_plot_tooltip:0 "The plotters will remain in waiting. For now."
- outcome_in_a_few_days:0 "In a few days"
- outcome_in_a_few_weeks:0 "In a few weeks"
- outcome_in_a_few_months:0 "In a few months"
- outcome_in_a_few_years:0 "In a few years"
+ do_not_execute_plot_tooltip:0 "Os conspiradores ficarão à espera. Por enquanto."
+ outcome_in_a_few_days:0 "Em poucos dias"
+ outcome_in_a_few_weeks:0 " Em poucas semanas"
+ outcome_in_a_few_months:0 "Em poucos meses"
+ outcome_in_a_few_years:0 "Em poucos anos"

@@ -1,14 +1,14 @@
 ﻿l_english:
  death_management.1000.killed.tt:0 "My [THIS.Char.Custom2('RelationToMe', SCOPE.sC('dead_character'))], [dead_character.GetTitledFirstName], was killed by [killer.GetTitledFirstName]."
- death_management.1000.t:0 "Til Death Do Us Part"
+ death_management.1000.t:0 "Até que a morte nos separe"
  death_management.1000.murder:0 "[dead_character.GetTitledFirstName] has been murdered!\n\n"
  death_management.1000.like:0 "How can a heart endure this kind of pain without breaking? It cannot be possible! Yet, here I am, my heart beating on whilst yours has gone quiet. Oh, [dead_character.GetFirstName], my [dead_character.Custom('LoverPetName')]. Life will not be the same without you."
- death_management.1000.neutral:0 "My dear [dead_character.GetFirstName]. I might not have loved you, yet I feel your passing more acutely than I ever thought possible. You were always there, my constant companion. Did I take you for granted? There are so many things I left unsaid..."
- death_management.1000.dislike:0 "[dead_character.GetWifeHusband|U], as you drew your last breath, relief washed over me. Perhaps I should be ashamed, but in truth there was no love lost between us. Finally, I am free to start my life anew!"
- death_management.1000.a:0 "At least the memories remain."
- death_management.1000.b:0 "I hope you find peace, [dead_character.GetFirstNameNoTooltip]."
- death_management.1000.c:0 "Not one day too soon!"
- death_management.1000.tt:1 "Your spouse, [dead_character.GetTitledFirstName], has [THIS.Char.Custom('DiedHouse_arrest')]."
+ death_management.1000.neutral:0 "Querido(a) [dead_character.GetFirstName]. Posso não ter amado você, mas sinto sua morte com mais intensidade do que jamais pensei ser possível. Você sempre esteve lá, meu companheiro constante. Eu levei você para concedido? Há tantas coisas que deixei sem dizer..."
+ death_management.1000.dislike:0 "[dead_character.GetWifeHusband|U], quando você deu seu último suspiro, o alívio tomou conta de mim. Talvez eu devesse ter vergonha, mas na verdade não havia amor perdido entre nós. Finalmente, estou livre para recomeçar minha vida!"
+ death_management.1000.a:0 "Pelo menos as memórias permanecem."
+ death_management.1000.b:0 "Espero que você encontre a paz, [dead_character.GetFirstNameNoTooltip]."
+ death_management.1000.c:0 "Nem um dia tão cedo!"
+ death_management.1000.tt:1 "Seu cônjuge, [dead_character.GetTitledFirstName], [THIS.Char.Custom('DiedHouse_arrest')]."
 
  death_management.1001.t:0 "Outliving a Child"
  death_management.1001.murder:0 "[dead_character.GetTitledFirstName] has been murdered!\n\n"
@@ -165,7 +165,7 @@
  death_management.3007.end:1 "[dead_character.GetSheHe] would have become, or if [dead_character.GetHerHis] death is a blessing or a curse on this [ROOT.Char.GetPrimaryTitle.GetType.GetName].\n\nWhat I do know is that what is done is done, and that [dead_character.GetFirstNamePossessive] story has come to an end."
  death_management.3007.a:0 "One tale ends, and another begins."
  death_management.3007.a.tt:1 "Your heir, [dead_character.GetTitledFirstName], has died in your dungeons.\n[new_heir.GetTitledFirstName] is your new heir."
- 
+
  death_management.3001.t:0 "Outliving a Child"
  death_management.3001.tt:1 "Your [dead_character.Custom('GetDaughterSon')], [dead_character.GetTitledFirstName], has died in your dungeons."
  death_management.3001.child:0 "I had so many hopes for you, my sweet child. All the things you would learn, experience, and do. There were so many possibilities, a whole life to live. Maybe you would have had children of your own one day. But now, none of those things will ever come to be, all thanks to my actions..."
@@ -202,13 +202,13 @@
 
  death_management.prisoner.desc:0 "My prisoner, [dead_character.GetTitledFirstName], has died in my dungeons."
 
- death_management.4000.t:0 "Til Death Do Us Part"
+ death_management.4000.t:0 "Até que a morte nos separe"
  death_management.4000.like_opening:0 "How can a heart endure this kind of pain without breaking? It cannot be possible! Yet, here I am, my heart beating on whilst yours has gone quiet.\n\n"
  death_management.4000.like_my_prison:0 "Oh, [dead_character.GetFirstName], my [dead_character.Custom('LoverPetName')]. Would you believe me if I told you I still hold you dear? Even after all I have done?"
  death_management.4000.like:0 "Oh, [dead_character.GetFirstName], my [dead_character.Custom('LoverPetName')]. I cannot get the image of you wasting away, locked up by [house_arrest_holder.GetTitledFirstName], out of my head."
- death_management.4000.neutral_opening:0 "My dear [dead_character.GetFirstName]. I might not have loved you, yet I feel your passing more acutely than I ever thought possible.\n\n"
+ death_management.4000.neutral_opening:0 "Querido(a) [dead_character.GetFirstName]. Eu posso não ter amado você, mas sinto sua morte mais aguda do que jamais pensei ser possível.\n\n"
  death_management.4000.neutral_my_prison:0 "I hope you can forgive me my sins. Both what I did to you and all the things I left unsaid."
- death_management.4000.neutral:0 "You were always there, my constant companion. To think that you would perish as a prisoner of [house_arrest_holder.GetTitledFirstName]... There are so many things I left unsaid!"
+ death_management.4000.neutral:0 "Você sempre esteve lá, meu companheiro constante. Pensar que você pereceria como prisioneiro de [house_arrest_holder.GetTitledFirstName]... Há tantas coisas que deixei sem dizer!"
  death_management.4000.dislike_my_prison:0 "[dead_character.GetWifeHusband|U], as you drew your last breath as my prisoner, relief washed over me. Perhaps I should be ashamed, but in truth there was no love lost between us. Finally, I am free to start my life anew!"
  death_management.4000.dislike:0 "[dead_character.GetWifeHusband|U], as you drew your last breath as a prisoner of [house_arrest_holder.GetTitledFirstName], relief washed over me. Perhaps I should be ashamed, but in truth there was no love lost between us. Finally, I am free to start my life anew!"
  death_management.4000.a:0 "At least the memories remain."

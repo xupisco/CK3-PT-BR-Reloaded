@@ -423,30 +423,30 @@
  soldier_friend:0 "#D Soldier-Friend (Hidden)#!"
 
  #Frame playable
- FRAME_RELATION_ME:1 "#T This is you#!"
- FRAME_RELATION_MY_HEIR:2 "#T This is your [player_heir|E]#!"
+ FRAME_RELATION_ME:1 "#T Este é você#!"
+ FRAME_RELATION_MY_HEIR:2 "#T Esté é o seu [player_heir|E]#!"
 
  #Frame dynasty
  FRAME_RELATION_DYNAST:2 "#T [dynast|E] of your [dynasty|E]\n#!$TT_DYNAST_DESC$"
  FRAME_RELATION_HEAD_OF_HOUSE:2 "#T [house_head|E] of your [house|E]\n#!$TT_HOUSE_HEAD_DESC$"
  FRAME_RELATION_DYNASTY_BASTARD:2 "#T Illegitimate [bastard|E] of your [dynasty|E]#!"
- FRAME_RELATION_DYNASTY_MEMBER:1 "#T Member of your [dynasty|E]#!"
- FRAME_RELATION_FAMILY_DYNASTY:0 "#T Member of your family and [dynasty|E]#!"
- FRAME_RELATION_DYNASTY_FOUNDER:0 "#T Founder of your [dynasty|E]#!"
- FRAME_RELATION_FAMILY_DYNASTY_BASTARD:1 "#T Illegitimate [bastard|E] of your family and [dynasty|E]#!"
- FRAME_RELATION_FAMILY_BASTARD:1 "#T Illegitimate [bastard|E] of your family#!"
- FRAME_RELATION_FAMILY:0 "#T Member of your family#!"
- FRAME_RELATION_HOUSE_MEMBER:0 "Member of your [house|E]"
- FRAME_RELATION_HOUSE_FOUNDER:0 "Founder of your [house|E]"
- FRAME_RELATION_NOT_HOUSE_MEMBER:0 "Not a member of your [house|E]"
- FRAME_RELATION_BASTARD:1 "Illegitimate [bastard|E]"
+ FRAME_RELATION_DYNASTY_MEMBER:1 "#T Membro da sua [dynasty|E]#!"
+ FRAME_RELATION_FAMILY_DYNASTY:0 "#T Membro da sua Família e [dynasty|E]#!"
+ FRAME_RELATION_DYNASTY_FOUNDER:0 "#T Fundador da sua [dynasty|E]#!"
+ FRAME_RELATION_FAMILY_DYNASTY_BASTARD:1 "#T [bastard|E] ilegítimo da sua Família e [dynasty|E]#!"
+ FRAME_RELATION_FAMILY_BASTARD:1 "#T [bastard|E] ilegítimo da sua Família#!"
+ FRAME_RELATION_FAMILY:0 "#T Membro da sua Família#!"
+ FRAME_RELATION_HOUSE_MEMBER:0 "Membro da sua [house|E]"
+ FRAME_RELATION_HOUSE_FOUNDER:0 "Fundador da sua [house|E]"
+ FRAME_RELATION_NOT_HOUSE_MEMBER:0 "Não é um membro da sua [house|E]"
+ FRAME_RELATION_BASTARD:1 "[bastard|E] Ilegítimo"
  FRAME_RELATION_LEGITIMIZAD_BASTARD:0 "[legitimized_bastard|E]"
- FRAME_RELATION_MY_FAMILY:0 "Your $RELATION$"
+ FRAME_RELATION_MY_FAMILY:0 "Suas $RELATION$"
 
  #Vassal relation
- FRAME_RELATION_POWERFUL_VASSAL:1 "#T Powerful Vassal#!\nThis [ruler|E] is a [powerful_vassal|E] who doesn't expect anything from you"
- FRAME_RELATION_HAPPY_POWERFUL_VASSAL:1 "#T Powerful Vassal#!\nThis [ruler|E] is a [powerful_vassal|E] who expects to remain on the [council|E]"
- FRAME_RELATION_UNAHAPPY_POWERFUL_VASSAL:2 "#T Powerful Vassal#!\n@warning_icon!#X This [ruler|E] is a [powerful_vassal|E] who has a lowered [opinion|E] of you because you have not granted them a position on your [council|E]#!"
+ FRAME_RELATION_POWERFUL_VASSAL:1 "#T Vassalo Poderoso#!\nEste [ruler|E] é um [powerful_vassal|E] que não espera nada de você"
+ FRAME_RELATION_HAPPY_POWERFUL_VASSAL:1 "#T Vassalo Poderoso#!\nThis [ruler|E] é um [powerful_vassal|E] que espera permanecer no [council|E]"
+ FRAME_RELATION_UNAHAPPY_POWERFUL_VASSAL:2 "#T Vassalo Poderoso#!\n@warning_icon!#X Este [ruler|E] é um [powerful_vassal|E] que está diminuindo sua [opinion|E] sobre você porque você não concedeu uma posição em seu [council|E]#!"
 
  #To address someone (RelationToMeAddress)
  relation_my_love:0 "meu amor"
@@ -459,7 +459,7 @@
 
  #Dynasty perspective relation
  FRAME_DYNAST:0 "#T [dynast|E]#!\n$TT_DYNAST_DESC$"
- FRAME_HEAD_OF_HOUSE:0 "#T Head of [house|E]#!\n$TT_HOUSE_HEAD_DESC$"
+ FRAME_HEAD_OF_HOUSE:0 "#T Líder da [house|E]#!\n$TT_HOUSE_HEAD_DESC$"
  FRAME_HOUSE_BASTARD:0 "#T [bastard|E]#!"
  FRAME_LEGITIMIZED_HOUSE_BASTARD:0 "#T [bastard|E] legitimado#!"
 

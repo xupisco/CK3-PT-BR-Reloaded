@@ -1,5 +1,5 @@
 ﻿l_english:
- bm_1066_rags_to_riches:0 "Dos trapos às riquezas"
+ bm_1066_rags_to_riches:0 "Dos trapos às Riquezas"
  bm_1066_rags_to_riches_desc:1 "Por toda a Europa, as famílias lutam e tramam pelo poder. Muitas terras estão em disputa, pois as batalhas são vencidas e perdidas, e dinastias vêm e vão, enquanto seus governantes são derrotados.\n\n#bold Reis antigos estão sendo substituídos, enquanto os recém-chegados buscam as estrelas. Qual você será?#!"
 
  # Murchad Briain, Duke of Munster, Ireland
@@ -10,27 +10,27 @@
  bookmark_rags_to_riches_petty_king_murchad_alt_bebinn:0 "$BE_binn$"
 
  # Matilda di Canossa, Duchess of Tuscany, Italy
- bookmark_rags_to_riches_duchess_matilda:0 "Duchess Matilda"
- bookmark_rags_to_riches_duchess_matilda_desc:0 "By skill or circumstance, Matilda of Canossa is destined to inherit a substantial territory in Northern Italy. She will move on to become a powerful and well-connected ruler, eventually rising to the unique rank of Imperial Vicar and Vice-Queen of Italy. Long after her death, she shall remain a figure legendary for both her piousness and suspected witchcraft.\n\n#bold Can you ensure Mathilda's legacy endures, and continue the Canossa line for generations to come?#!"
+ bookmark_rags_to_riches_duchess_matilda:0 "Duquesa Matilda"
+ bookmark_rags_to_riches_duchess_matilda_desc:0 "Por habilidade ou circunstância, Matilde de Canossa está destinada a herdar um território substancial no norte da Itália. Ela se tornará uma governante poderosa e bem conectada, chegando ao posto único de Vigária Imperial e Vice-Rainha da Itália. Muito depois de sua morte, ela permanecerá uma figura lendária tanto por sua piedade quanto por suspeita de bruxaria.\n\n#bold Você pode garantir que o legado de Mathilda perdure e continuar a linhagem Canossa por gerações?#!"
 
  # Yahya Dhunnunid, Emir (Duke) of Toldeo, Iberia
  bookmark_rags_to_riches_emir_yahya:0 "Emir Yahya"
- bookmark_rags_to_riches_emir_yahya_desc:1 "The Kingdom of Toledo will be established in the late 11th century, when the King of León takes over the eponymous city. This eradication of Emir Yahya and his influence means that the Dhunnunid family will lose its hold on the region, where they have reigned for generations.\n\n#bold Through manipulating your rivals, and finding more allies, do you have what it takes to challenge the Kings of the Iberian peninsula and change history for the Dhunnunid house?#!"
+ bookmark_rags_to_riches_emir_yahya_desc:1 "O Reino de Toledo será estabelecido no final do século 11, quando o rei de León assume a cidade de mesmo nome. Essa erradicação do Emir Yahya e sua influência significa que a família Dhunnunid perderá o controle sobre a região, onde reinaram por gerações.\n\n#bold Manipulando seus rivais e encontrando mais aliados, você tem o que é preciso desafiar os Reis da Península Ibérica e mudar a história da casa Dhunnunid?#!"
 
  bookmark_rags_to_riches_emir_yahya_alt_zahida:0 "$Zahida$"
  bookmark_rags_to_riches_emir_yahya_alt_yahya2:0 "$Yahya$"
 
  # Vratislav Premyslid, Duke of Bohemia, Czechia
- bookmark_rags_to_riches_duke_vratislav:0 "Duke Vratislav"
- bookmark_rags_to_riches_duke_vratislav_desc:0 "The Přemyslid family has ruled the region of Bohemia for hundreds of years. They have relied heavily on Seniority for their succession, which, in Duke Vratislav's case, will eventually lead to serious strife with his brothers.\n\n#bold To become King of Bohemia, Vratislav will need to be tactical with his resources, both material and not — are you up for the task?#!"
+ bookmark_rags_to_riches_duke_vratislav:0 "Duque Vratislav"
+ bookmark_rags_to_riches_duke_vratislav_desc:0 "A família Přemyslid governa a região da Boêmia há centenas de anos. Eles dependeram muito da antiguidade para sua sucessão, o que, no caso do duque Vratislav, acabará levando a sérios conflitos com seus irmãos.\n\n#bold Para se tornar rei da Boêmia, Vratislav precisará ser tático com seus recursos, ambos material e não - você está pronto para a tarefa?#!"
 
  bookmark_rags_to_riches_duke_vratislav_alt_judita:0 "$Judita$"
  bookmark_rags_to_riches_duke_vratislav_alt_ota:0 "$Ota$ $nick_the_handsome$"
 
 
  # Robert 'The Fox' de Hauteville, Duke of Apulia, Sicily
- bookmark_rags_to_riches_duke_robert:0 "Duke Robert"
- bookmark_rags_to_riches_duke_robert_desc:0 "Robert started out his career a thief and head of a band of highwaymen. Being one of many siblings, the adventurous son was never predicted to become a brilliant strategist and statesman, ruling vast areas of land — yet here he is, a powerful Duke of southern Italy, ready to take on the path of history, which will enable the Hautevilles to have a foothold in Sicily for over a hundred years.\n\n#bold If you can consolidate the power in the realm, the Kingdom of Sicily awaits its ruler!#!"
+ bookmark_rags_to_riches_duke_robert:0 "Duque Robert"
+ bookmark_rags_to_riches_duke_robert_desc:0 "Robert começou sua carreira como ladrão e chefe de um bando de salteadores. Sendo um dos muitos irmãos, o filho aventureiro nunca foi previsto para se tornar um brilhante estrategista e estadista, governando vastas áreas de terra - mas aqui está ele, um poderoso duque do sul da Itália, pronto para seguir o caminho da história, que permitirá os Hautevilles terão uma base na Sicília por mais de cem anos.\n\n#bold Se você puder consolidar o poder no reino, o Reino da Sicília aguarda seu governante!#!"
 
  bookmark_rags_to_riches_duke_robert_alt_bohemond:0 "$Bohemond$"
  bookmark_rags_to_riches_duke_robert_alt_roger:0 "$Roger$"

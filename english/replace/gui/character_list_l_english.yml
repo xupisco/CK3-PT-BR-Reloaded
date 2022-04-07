@@ -63,7 +63,7 @@
  CHARACTER_LIST_FILTERS:0 "Filtros"
  child_filter_option_desc:0 "Mostrar apenas [children|E]"
  child_filter_option:0 "Criança"
- age_filter:0 "Maximum Age"
+ age_filter:0 "Idade Máxima"
  age_25_filter_option_desc:0 "Mostre apenas Personagens com 25 anos ou menos"
  age_25_filter_option:0 "25"
  age_35_filter_option_desc:0 "Mostre apenas Personagens com 35 anos ou menos"

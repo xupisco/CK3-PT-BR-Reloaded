@@ -16,7 +16,7 @@
  DECLARE_WAR_ADDITIONAL_WARNING_STRONG_HOOK_LIEGE:1 "Vai usar o [strong_hook|E] que você possui sobre o [liege|E]"
  DECLARE_WAR_ADDITIONAL_WARNING_IS_HOLY_WAR:2 "[holy_war|E]: [rulers|E] [DEFENDER.GetFaith.GetAdjective] podem entrar na [war|E]"
  DECLARE_WAR_ALLY_COUNT:0 "Aliados ([CharacterItem.GetAllyCount])"
- DECLARE_WAR_STRENGTH_MESSAGE:0 "A Força Militar deles é $STRENGTH|V$ com a sua!"
+ DECLARE_WAR_STRENGTH_MESSAGE:0 "A Força Militar dele é $STRENGTH|V$ a sua!"
  DECLARE_WAR_CHANGE_WAR_GOAL_LABEL:1 "[objectives|E]:"
  DECLARE_WAR_ALLY_MILITARY_STRENGTH_DESC:0 "Força Militar: [Character.GetMilitaryStrengthText]"
  DECLARE_WAR_ALLY_HEADER_ATTACKERS:0 "Atacantes"

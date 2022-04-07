@@ -31,7 +31,7 @@
  #Martial
  martial_lifestyle_name:0 "Marcial"
  martial_lifestyle_desc:0 "Concentre-se no controle de seu Reino, conduta honrosa e nas estratégias que vencerão suas guerras."
- martial_lifestyle_highlight_desc:0 "Por causa da sua [education|E] Macial, você ganha #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! mais [experience|E] neste Estilo de Vida."
+ martial_lifestyle_highlight_desc:0 "Por causa da sua [education|E] Marcial, você ganha #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! mais [experience|E] neste Estilo de Vida."
  martial_strategy_focus:1 "Foco em $martial_strategy_focus_short$"
  martial_strategy_focus_short:0 "Estratégia"
  martial_strategy_focus_modifier:1 "[GetFocus('martial_strategy_focus').GetName]"

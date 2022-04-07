@@ -1,11 +1,11 @@
 ﻿l_english:
- open_tutorial_lesson:1 "Advice: "
- click_to_open_lesson:1 "#I Click to learn more#!"
+ open_tutorial_lesson:1 "Dica: "
+ click_to_open_lesson:1 "#I Clique para aprender mais#!"
  reactive_advice_mercenaries:0 "$reactive_advice_mercenaries_step_1$"
  action_reactive_advice_mercenaries:0 "$open_tutorial_lesson$$reactive_advice_mercenaries_step_1$"
  action_reactive_advice_mercenaries_desc:0 "Mercenaries are soldiers-for-hire that can tip the scales in a war.\nOpen this to receive some hints & tips about how best to utilize them!"
  action_reactive_advice_mercenaries_click:0 "$click_to_open_lesson$"
- reactive_advice_mercenaries_step_1:0 "Mercenaries"
+ reactive_advice_mercenaries_step_1:0 "Mercenários"
  reactive_advice_mercenaries_desc:0 "If you're losing a war, you may tip the scales in your favor by hiring [mercenaries|E].\n\nMercenaries cost [gold|E], but will provide you with a significant [army|E]. Once employed, you will be able to control them like you would any other army.\n\n#TUT You might want to hire a unit of Mercenaries for your current war. While you can go into [debt|E] hiring them, we recommend that you find an affordable one unless you are losing the war badly.#!"
  reactive_advice_mercenaries_task:0 "Navigate to the $HIRE_TROOPS$ view and select any Mercenary band"
  reactive_advice_succession:0 "$reactive_advice_succession_step_1$"
@@ -33,17 +33,17 @@
  action_reactive_advice_protecting_against_hostile_schemes:0 "$open_tutorial_lesson$$reactive_advice_protecting_against_hostile_schemes_step_1$"
  action_reactive_advice_protecting_against_hostile_schemes_desc:0 "Many dangers lurk in the shadows, and the threat of a scheme is never far away.\nOpen this for a rundown on schemes, and how to protect yourself!"
  action_reactive_advice_protecting_against_hostile_schemes_click:0 "$click_to_open_lesson$"
- reactive_advice_protecting_against_hostile_schemes_step_1:0 "Protecting Against Schemes"
+ reactive_advice_protecting_against_hostile_schemes_step_1:0 "Proteção contra Esquemas"
  reactive_advice_protecting_against_hostile_schemes_step_2:0 "$reactive_advice_protecting_against_hostile_schemes_step_1$"
  reactive_advice_protecting_against_hostile_schemes_desc:0 "Watch your step! As a ruler, there are many who would [scheme|E] to see you dead...\n\nTry to make sure that your subjects have a high [opinion|E] of you — but most importantly, #emphasis always#! keep your [spymaster|E] loyal.\n\n#TUT You might not know they exist, but [hostile_schemes|E] could target you at any time. To prevent Schemes we recommend that you keep your [vassals|E] and [courtiers|E] happy.#!"
  reactive_advice_protecting_against_hostile_schemes_2_desc:0 "Having a Spymaster with a very low Opinion of you can be a death sentence, as there's then no way for you to discover [secret_schemes|E]!\n\n#TUT Consider all of this if you're planning to play as a [tyrant|E], as even though you might suppress your subjects via [dread|E] they can still Scheme against you.\n\nFinally, beware of [GetTrait('sadistic').GetName( GetPlayer )] or [GetTrait('ambitious').GetName( GetPlayer )] [claimants|E] to your throne...#!"
  reactive_advice_protect_against_factions:0 "$reactive_advice_protect_against_factions_step_1$"
  action_reactive_advice_protect_against_factions:0 "$open_tutorial_lesson$$reactive_advice_protect_against_factions_step_1$"
- action_reactive_advice_protect_against_factions_desc:0 "A Faction is a dangerous thing if left unchecked.\nOpen this for a rundown on factions, and how best to handle them!"
+ action_reactive_advice_protect_against_factions_desc:0 "Uma Facção pode ser perigosa se não for controlada.\nAbra isso para um resumo sobre Facções e a melhor forma de lidar com elas!"
  action_reactive_advice_protect_against_factions_click:0 "$click_to_open_lesson$"
- reactive_advice_protect_against_factions_step_1:0 "Protecting Against Factions"
- reactive_advice_protect_against_factions_desc:1 "You have had a [faction|E] form against you, but do not panic — you still have time to set things right!\n\n[vassals|E] and [counties|E] join factions when they are dissatisfied with your rule. To counteract this you can increase their [opinion|E] of you, or try to become [dreaded|E].\n\n#TUT To avoid Factions, we recommend that you increase your Vassals' [opinion|E] of you, pace your conquests, and try to [GetScheme('murder').GetTypeName] any [claimants|E] more popular than you.\n\nYou will often have time to appease your Vassals before the Faction presses its demands — use this time wisely.#!"
- reactive_advice_protect_against_factions_2_desc:0 "Counties with a low [county_opinion|E] tend to join the [peasant_faction|E]. Unlike other factions, this Faction will rise up no matter if they have a chance of winning or not!\n\nSometimes, you simply have to put the peasants in their place...\n\n#TUT You should always keep an eye on Peasant Factions. If they strike while you're at war they can do significant damage to your [control|E].#!"
+ reactive_advice_protect_against_factions_step_1:0 "Proteção contra Facções"
+ reactive_advice_protect_against_factions_desc:1 "Tem algum tipo de [faction|E] contra você, mas não entre em pânico - você ainda tem tempo para acertar as coisas!\n\n[vassals|E] e [counties|E] se unem a Facções quando estiverem insatisfeitos com suas regras. Para neutralizar isso, você pode aumentar a [opinion|E] deles sobre você, ou tentar se tornar [dreaded|E].\n\n#TUT Para evitar facções, recomendamos que você aumente a [opinion|E] do Vassalos sobre você, regule suas conquistar, e tente [GetScheme('murder').GetTypeName] quaiquers [claimants|E] mais populares que você.\n\nMuitas vezes você terá tempo para apaziguar seus Vassalos antes que a Facção pressione suas demandas - use esse tempo com sabedoria.#!"
+ reactive_advice_protect_against_factions_2_desc:0 "Condados com uma baixa [county_opinion|E] tendem a juntar-se a uma [peasant_faction|E]. Ao contrário de outras Facções, esta se levantará, independentemente de ter uma chance de vencer ou não.!\n\nÀs vezes, você simplesmente tem que colocar os camponeses em seu lugar...\n\n#TUT Você deve sempre ficar de olho nas Facções Camponesas. Se eles atacarem enquanto você estiver em guerra, eles podem causar danos significativos ao seu [control|E].#!"
  reactive_advice_protect_against_factions_step_2:0 "$reactive_advice_protect_against_factions_step_1$"
  reactive_advice_imprisoned:0 "$reactive_advice_imprisoned_step_1$"
  action_reactive_advice_imprisoned:0 "$open_tutorial_lesson$$reactive_advice_imprisoned_step_1$"
@@ -74,14 +74,14 @@
  reactive_advice_rightful_liege_step_2:0 "$reactive_advice_rightful_liege_step_1$"
  reactive_advice_rightful_liege_desc:1 "You're not the [rightful_liege|E] of a [vassal|E]. This will lower their [opinion|E] of you and make them give you less [taxes|E] and [levies|E].\n\nYou should strive to be the Rightful Liege of all of your Vassals!\n\n#TUT To do this you need to hold the [title|E] that is one step above them in the [de_jure|E]. A [county|E]-tier Vassal wants to be under their De Jure [duchy|E]. For example, the Count of $c_madrid$ wants to be under the Duke of $d_toledo$.\n\nIt is very common to have some Vassals that you are #emphasis not#! the Rightful Liege of — there's not much you can do about this, and it's completely normal! However, remember to use the #TUT_KW $grant_vassal_interaction$#! [interaction|E] to organize your Vassals, you can't hold every title by yourself.#!"
  reactive_advice_rightful_liege_2_desc:0 "When conquering new lands you'll often get new Vassals of which you're not the Rightful Liege. Planning your conquests properly can mitigate this problem.\n\n#TUT To avoid having too many Vassals that dislike you, we recommend that you try to focus your conquests within one De Jure area at a time. That way you can #emphasis eventually#! become their Rightful Liege. Make a note of checking if you can [create|E] new Titles often!\n\nRemember to use the De Jure map modes whenever you're planning your conquests!#!"
- 
+
  reactive_advice_bishop_endorsement:0 "$reactive_advice_bishop_endorsement_step_1$"
  action_reactive_advice_bishop_endorsement:0 "$open_tutorial_lesson$$reactive_advice_bishop_endorsement_step_1$"
  action_reactive_advice_bishop_endorsement_desc:0 "Your Bishop is not endorsing you!\nOpen this for a rundown on what this means for you, and how you can fix it."
  action_reactive_advice_bishop_endorsement_click:0 "$click_to_open_lesson$"
  reactive_advice_bishop_endorsement_step_1:0 "Bishop Endorsement"
  reactive_advice_bishop_endorsement_desc:3 "Your character's [faith|E] makes it so that you have a [realm_priest|E] on your [council|E].\n\nThese Bishops hold immense power, and are more than willing to share it with you — should you stay on their good side...\n\n#TUT Your Bishop provides you with [taxes|E] and [levies|E] from all [temple_holdings|E] in your [realm|E], and how much they give you is dependent on their [opinion|E] of you.\n\nBeing disliked means that you will not get anything, and the bishop may even make life hard for you! They can, for example, force you to divorce your [spouse|E]...\n\nYou should do your best to improve their Opinion of you. Using the #TUT_KW $gift_interaction$#! [interaction|E] or starting a [GetScheme('sway').GetTypeName] [scheme|E] are two good options to consider.\n\nIf everything else fails, [GetScheme('murder').GetTypeName] is always an option... Perhaps their successor will be more amicable?#!"
- 
+
  reactive_advice_encyclopedia:0 "$reactive_advice_encyclopedia_step_1$"
  action_reactive_advice_encyclopedia:0 "$open_tutorial_lesson$$reactive_advice_encyclopedia_step_1$"
  action_reactive_advice_encyclopedia_desc:0 "Want to learn more about some terms in the game? Open this for an introduction to the Encyclopedia."
@@ -105,7 +105,7 @@
  action_reactive_advice_fabricate_claim_click:0 "$click_to_open_lesson$"
  reactive_advice_fabricate_claim_step_1:0 "Fabricating Claims"
  reactive_advice_fabricate_claim_desc:1 "You can't declare a war without a [casus_belli|E]. The most common source of Casus Bellis are [claims|E], but sometimes it's hard to get the Claim you want.\n\nThis is where [fabricated_claims_short|E] come in!\n\n#TUT You can assign your [court_chaplain|E] to fabricate a Claim on any nearby [county|E], which can be done from the [council|E] view. You can only fabricate one Claim at a time, and each one will take time to complete.\n\nThis tool is especially useful when you're playing a small [ruler|E], as Casus Bellis become easier to get the larger your [realm|E] is.\n\nWe recommend that you fabricate Claims on your immediate neighbors — ideally those who are weaker than you! If you're playing a Count, focus on Claiming titles within the same [de_jure|E] [duchy|E] as your [realm_capital|E].#!"
- 
+
  reactive_advice_education:0 "$reactive_advice_education_step_1$"
  action_reactive_advice_education:0 "$open_tutorial_lesson$$reactive_advice_education_step_1$"
  action_reactive_advice_education_desc:1 "Your heir won't become a great ruler without an education!\nOpen this for a rundown on guardianship, and how to properly groom your heir for power."
@@ -139,7 +139,7 @@
  action_reactive_advice_court_positions:0 "$open_tutorial_lesson$$ra_court_pos_open_view$"
  action_reactive_advice_court_positions_desc:0 "Open this for an introduction to Court Positions"
  action_reactive_advice_court_positions_click:0 "$click_to_open_lesson$"
- 
+
  ra_court_pos_open_view:0 "Court Positions"
  ra_court_pos_open_view_desc:0 "[court_positions|E] are assignments and honors you can give to your [courtiers|E] and [vassals|E].\n\nEach gives you a benefit, at the cost of a monthly salary. For example, the [GetCourtPositionType('court_physician_court_position').GetName()] will keep you and your [court|E] healthy."
  ra_court_pos_open_view_trigger:0 "Open the Court Positions tab (highlighted)"

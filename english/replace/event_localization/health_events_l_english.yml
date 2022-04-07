@@ -4,7 +4,7 @@
  #Recovery events, by Linnéa Thimrén and Petter Vilberg
  health.0001.desc:0 "My Wound Has Healed"
 
- health_wounded_title:0 "Wounded:"
+ health_wounded_title:0 "Ferido:"
  health.0002.t:1 "$health_wounded_title$ Healing"
  health.0002.desc:0 "My injuries are slowly getting better and pain is no longer my constant companion. I am still weakened, but today I am capable of many things that were impossible just a moon ago."
  health.0002.a:0 "I look forward to my complete recovery."
@@ -194,7 +194,7 @@
  health.2101.a.tt:0 "The disease will spread unhindered at my court"
  health.2101.b:0 "[sick_character.GetTitledFirstName] is banished from my court!"
  health.2101.c:0 "Throw [sick_character.GetHerHim] out!"
- 
+
  # Important character has dangerous disease events, by Mathilda Bjarnehed
  health.2201.t:2 "[SCOPE.Custom('EventTitleDisease')]: My Poor [ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('sick_character'))|U]"
  health.2201.start.desc:1 "Today I was given grave news. My [ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('sick_character'))] [sick_character.GetFirstName] has fallen ill with"
@@ -220,7 +220,7 @@
  health.2201.court_physician.desc_sick_physician:0 "\n\n[sick_character.GetSheHe|U] may be my physician, but [sick_character.GetSheHe] nonetheless looks to me for guidance."
  health.2201.a:0 "This is an enemy I cannot protect [sick_character.GetHerHim] from."
 
- #There is no longer an outbreak! 
+ #There is no longer an outbreak!
  health.2102.t:1 "[SCOPE.Custom('EventTitleDisease')]: A New Day"
  health.2102.start1.desc:0 "The outbreak of"
  health.2102.smallpox.desc:0 "smallpox"
@@ -344,7 +344,7 @@
  health.risky_treatment_eye.1.desc:0 "[physician.GetTitledFirstName] made me drink a draught of poppy before strapping me down on [physician.GetHerHis] operating table. I almost dozed off while [physician.GetSheHe] prepared [physician.GetHerHis] instruments, but when [physician.GetSheHe] raised a scalpel towards my eye, I felt wide awake. "I am sorry, my [ROOT.Char.GetLadyLord], but we must remove the root of the problem.""
  health.3105.end.desc:0 "\n\nStrangely enough, I can no longer feel any symptoms..."
  health.3105.a:0 "It is a miracle!"
- 
+
  health.3106.t:1 "[SCOPE.Custom('EventTitleDisease')]: Balanced Humors"
  health.3106.end.desc:0 "\n\nThe treatment was almost as unpleasant as my symptoms, yet it seems to have been effective. While I am not fully cured, I feel much better."
  health.3106.a:0 "I will live to see another day."
@@ -408,16 +408,16 @@
  inform_relatives_about_disease_treatment_effect.risky_failure.desc:0 "[physician.GetTitledFirstName] botched the treatment of [sick_character.GetTitledFirstName]."
  inform_relatives_about_disease_treatment_effect.mystic_failure.desc:0 "[sick_character.GetTitledFirstName] is not the same after [physician.GetTitledFirstNamePossessive] failed ritual!"
  physician_level_up_chance_effect.t:0 "Court Physician's Knowledge Increases"
- 
+
  # Wound treatment, by Linnéa Thimrén
- health.4000.t:1 "$health_wounded_title$ My Injured [ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('sick_character'))|U]"
- health.4000.start.desc:0 "My [ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('sick_character'))] [sick_character.GetTitledFirstName] has been wounded,"
+ health.4000.t:1 "$health_wounded_title$ Meu [ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('sick_character'))|U] ferido"
+ health.4000.start.desc:0 "Meu [ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('sick_character'))] [sick_character.GetTitledFirstName] foi ferido,"
  health.4000.infected_wound.desc:1 "and [sick_character.GetHerHis] flesh has contracted foulness and swelling.\n\nIf the right kind of treatment is administered, and [ROOT.Char.GetFaith.HealthGodName] is merciful, [sick_character.GetSheHe] should make it."
  health.4000.gangrene.desc:1 "and [sick_character.GetHerHis] flesh has contracted foulness and death.\n\nThe blackness is spreading over [sick_character.GetHerHis] skin, and only [ROOT.Char.GetFaith.FateGodName] knows if [sick_character.GetSheHe] will make it."
  health.4000.close_to_death_wounded.desc:0 "and the injury runs very deep. [sick_character.GetHerHis|U] every breath is a battle, and I fear that only a miracle can save [sick_character.GetHerHim]."
- health.4000.very_wounded.desc:0 "and the injury runs deep. I fear that [sick_character.GetHerHis] body is not strong enough to fight this on its own; I feel death lingering by [sick_character.GetHerHis] bedside."
+ health.4000.very_wounded.desc:0 "e a lesão é profunda. Temo que o seu corpo não é forte o suficiente para lutar contra isso por conta própria; Eu sinto a morte persistente escondida ao lado da cama."
  health.4000.wounded.desc:0 "and [sick_character.GetSheHe] is clearly in pain. The affliction is minor, but ills of the body is not to be taken lightly."
- health.4000.a:0 "There is nothing that can be done."
+ health.4000.a:0 "Não há nada que possa ser feito."
 
  health.4001.start.desc:0 ""The time has come to treat your wounds."
  health.4001.safe_recommendation.desc:0 "I am certain a simple treatment will suffice, but"
@@ -463,7 +463,7 @@
 
 
 
- # Suicide events, by Linnéa Thimrén 
+ # Suicide events, by Linnéa Thimrén
  health.6001.t:0 "The Attempt"
  health.6001.desc_opening:0 "I will end my life. I cannot help the sorrow rising in my heart thinking of all that I will leave behind, but my mind is set."
  health.6001.desc_depression:0 "The suffering seems endless."
@@ -485,9 +485,9 @@
  health.6002.desc_knife:0 "Sitting in the warm bath I inhale the steam as I reach for the sharp knife beside me."
  health.6002.desc_ending:1 "\n\n"[ROOT.Char.GetFirstNameNoTooltip]! Don't do it, [friendly_person.Custom2('RelationToMeShort', ROOT.Char)]!"\n\nI turn around to find [friendly_person.GetTitledFirstName] standing there, reaching towards me with a terrified expression. "Please, this is not the way.""
  health.6002.a:0 "There is nothing you can do to stop me."
- health.6002.a_success:0 "Your attempt succeeds"
- health.6002.a_failure:0 "Your attempt fails"
- health.6002.b:0 "You are right. Things might still get better."
+ health.6002.a_success:0 "Sua tentativa foi bem-sucedida"
+ health.6002.a_failure:0 "Sua tentativa falhau"
+ health.6002.b:0 "Você está certo. As coisas ainda podem melhorar."
 
  health.6004.desc:0 "A small step out over the edge, that is all it takes. With the wind screaming around me I raise my foot and move forward.\n\nFor a moment it feels like I am suspended in the air, the world spinning around me, and then it all goes very fast. The wind in my ears, the sensation of falling, the ground rising up to meet me..."
  health.6004.a:0 "Free, at last."
@@ -497,11 +497,11 @@
  health.6005.a:0 "My plans, foiled..."
 
  health.6007.desc:0 "I breathe in the vapors coming from the cup of tea I hold in my hands, and close my eyes. Slowly I raise the rim to my lips and take a long sip. I swallow.\n\nSoon the world starts to go gray and indistinct, darkness creeping into the edge of my vision, and I lay my head down onto the table. I feel my breath coming shorter and shorter. I close my eyes."
- 
+
  health.6008.desc:0 "I breathe in the vapors coming from the cup of tea I hold in my hands, and close my eyes. Slowly I raise the rim to my lips and–\n\nThe cup is yanked out of my hand and thrown to the floor where it shatters. A guard stands above me, panic in [dummy_gender.GetHerHis] eyes."
 
  health.6010.desc:0 "The steam from my hot bath is wafting around me and I breathe in deeply as I pick up the knife beside me. I rest it gently upon one arm, and then I press. Hard.\n\nWhen I have two identical cuts on both arms I let them sink back into the rapidly reddening water. I lean my head back and sigh as the world starts to spin. It won't be long now..."
- 
+
  health.6011.desc:0 "Just as I am about to cut into my arm with the knife, the steam of the hot bath wafting around me, guards barge in and quickly wrestle the knife from my hands.\n\n"
 
  health.6100.desc:0 ""Hello [ROOT.Char.GetTitledFirstNameNoTooltip]. I just wanted to pay you a visit, to ask how you are doing since... the incident a while ago."\n\n[friendly_person.GetTitledFirstName] asks me with genuine warmth, and not even the mention of my attempted suicide can quell it completely."

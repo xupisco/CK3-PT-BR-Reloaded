@@ -31,11 +31,11 @@
  task_intrigue_good_unskilled_notification_tooltip:0 "This happened despite your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('intrigue_skill_level')] intrigue skill."
  task_learning_good_unskilled_notification_tooltip:0 "This happened despite your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('learning_skill_level')] learning skill."
 
- task_diplomacy_good_skilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('diplomacy_skill_level')] diplomacy skill led to this windfall."
- task_martial_good_skilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('martial_skill_level')] martial skill led to this windfall."
- task_stewardship_good_skilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('stewardship_skill_level')] stewardship skill led to this windfall."
- task_intrigue_good_skilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('intrigue_skill_level')] intrigue skill led to this windfall."
- task_learning_good_skilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('learning_skill_level')] learning skill led to this windfall."
+ task_diplomacy_good_skilled_notification_tooltip:0 "A Habilidade em Diplomacia ([active_councillor.Custom('diplomacy_skill_level')]) [active_councillor.GetCouncilTitlePossessive] levou a esta sorte inesperada."
+ task_martial_good_skilled_notification_tooltip:0 "A Habilidade Martial ([active_councillor.Custom('martial_skill_level')]) [active_councillor.GetCouncilTitlePossessive] levou a esta sorte inesperada."
+ task_stewardship_good_skilled_notification_tooltip:0 "A Habilidade em Administração ([active_councillor.Custom('stewardship_skill_level')]) [active_councillor.GetCouncilTitlePossessive] levou a esta sorte inesperada."
+ task_intrigue_good_skilled_notification_tooltip:0 "A Habilidade de Intriga ([active_councillor.Custom('intrigue_skill_level')]) [active_councillor.GetCouncilTitlePossessive] levou a esta sorte inesperada."
+ task_learning_good_skilled_notification_tooltip:0 "A Habildade de Aprendizado ([active_councillor.Custom('learning_skill_level')]) [active_councillor.GetCouncilTitlePossessive] levou a esta sorte inesperada."
 
 
 #spouse
@@ -314,7 +314,7 @@
  COUNCIL_TASK_FABRICATE_CLAIM:0 "Fabricate Claim"
  COUNCIL_TASK_FABRICATING_CLAIM:0 "Fabricating Claim: [ActiveCouncilTask.GetProgress|1/%]"
 #Court Chaplain
- task_fabricate_claim:0 "Fabricate Claim on County"
+ task_fabricate_claim:0 "Fabricar Reivindicação no Condado"
  task_fabricate_claim_effect_desc:1 "#S At #V 100%#!#!:\n$TAB$Opportunity to get an [unpressed_claim|E]"
  task_fabricate_claim_duchy_claim:0 "\n$EFFECT_LIST_BULLET$#P Claim on Duchy#!"
  task_fabricate_claim_vassal_opinion_loss:0 "\n$EFFECT_LIST_BULLET$#N Vassal Opinion Loss#!"

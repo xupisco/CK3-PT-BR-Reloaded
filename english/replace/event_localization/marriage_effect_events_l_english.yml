@@ -38,9 +38,9 @@
 
 
  marriage_effect.2001.t:0 "Wedding Celebration"
- marriage_effect.2001.desc.start_normal:0 "With my marriage to [new_spouse.GetTitledFirstName], the realm expects us to throw a suitably extravagant wedding celebration."
+ marriage_effect.2001.desc.start_normal:0 "Com o meu casamento com [new_spouse.GetTitledFirstName], o Reino espera que façamos uma festa de casamento adequadamente extravagante."
  marriage_effect.2001.desc.start_divine_marriage:0 "With my marriage to [new_spouse.Custom2('MyCharacterIntroduction', ROOT.Char)], the realm is eagerly awaiting a grand reception to celebrate the reunion of our divine blood."
  marriage_effect.2001.desc.start_prison:0 "My new spouse, [new_spouse.GetTitledFirstName], is currently imprisoned. Even so, our marriage is valid and the realm still expects an extravagant wedding celebration."
- marriage_effect.2001.desc.end:0 "\n\nIt is well within my right to collect a Royal Aid Duty as part of this, but some may consider it tasteless to levy an extra tax during a time of jubilation..."
- marriage_effect.2001.a:0 "Of course I will collect it! Who pays for their own wedding?"
- marriage_effect.2001.b:0 "I'll let my subjects enjoy the festivities without worry or care."
+ marriage_effect.2001.desc.end:0 "\n\nEstá dentro do meu direito cobrar um Dever de Ajuda Real como parte disso, mas alguns podem considerar de mau gosto cobrar um imposto extra durante um período de alegria..."
+ marriage_effect.2001.a:0 "Claro que vou coletar! Quem paga o próprio casamento?"
+ marriage_effect.2001.b:0 "Vou deixar meus súditos curtirem as festividades sem preocupação ou cuidado."

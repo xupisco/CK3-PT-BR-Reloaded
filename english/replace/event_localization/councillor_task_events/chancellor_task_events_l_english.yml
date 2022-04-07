@@ -2,11 +2,11 @@
  chancellor_task.0991_end_desc:0 "[target_character.GetTitledFirstNamePossessiveNoTooltip] opinion of you will not increase more."
  chancellor_task.0991_increase_desc:0 "[target_character.GetTitledFirstNameNoTooltip] was impressed and honored by the Royal Favor you bestowed upon [target_character.GetHerHim]."
 
- chancellor_task.1001.t:0 "A New Claimant"
- chancellor_task.1001.desc:0 "Of all the buffoonery I have ever seen...\n\nIn [councillor.GetTitledFirstNamePossessive] inane efforts to improve my relations with my neighbors, my good-for-nothing [councillor.GetCouncilTitle] has officially acknowledged [neighboring_ruler.GetTitledFirstNamePossessive] claim to the [target_county.GetName]!"
- chancellor_task.1001.a:0 "You are supposed to make me friends, not enemies!"
- chancellor_task.1001.title_message:0 "Blunder Results in Claim"
- chancellor_task.1001.message:0 "[councillor.GetTitledFirstName] officially acknowledged your claim to the [target_county.GetName]"
+ chancellor_task.1001.t:0 "Um Novo Requerente"
+ chancellor_task.1001.desc:0 "De todas as palhaçadas que eu já vi...\n\nNos esforços insanos de [councillor.GetTitledFirstName] para melhorar minhas relações com meus vizinhos, meu inútil [councillor.GetCouncilTitle] reconheceu oficialmente a reivindicação de [neighboring_ruler.GetTitledFirstName] para [target_county.GetName]!"
+ chancellor_task.1001.a:0 "Você deveria me fazer amigos, não inimigos!"
+ chancellor_task.1001.title_message:0 "Resultados de Erro na Reivindicação"
+ chancellor_task.1001.message:0 "[councillor.GetTitledFirstName] reconheceu oficialmente sua reivindicação ao [target_county.GetName]"
 
  chancellor_task.1002.t:0 "The End of a Peace"
  chancellor_task.1002.desc:0 "In [councillor.GetTitledFirstNamePossessive] attempt at improving my reputation, my incompetent [councillor.GetCouncilTitle] has agreed to a treaty that #EMP cancels out#! parts of my old treaty with [target.GetName]!\n\nThe way the [target.GetTitleTierName] sees it, [target.GetSheHe] is free to declare war on me as [target.GetSheHe] might wish."

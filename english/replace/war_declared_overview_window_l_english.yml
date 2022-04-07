@@ -1,5 +1,5 @@
 ﻿l_english:
- WAR_DECLARED_OVERVIEW_DISMISS:0 "Rally the troops!"
+ WAR_DECLARED_OVERVIEW_DISMISS:0 "Reúna as tropas!"
  #WAR_DECLARED_OVERVIEW_DISMISS_TOOLTIP:1 "" delete this
  WAR_DECLARED_OVERVIEW_FLAVOR:0 "[WAR.Custom('WarDeclaredOpening')][WAR.Custom('WarDeclaredFlavor')]"
 

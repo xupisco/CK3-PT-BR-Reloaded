@@ -31,17 +31,17 @@
  faction_demand.0002.tt:0 "All Faction Members Gain Independence!"
 
  # Peasant Faction
- peasant_faction:0 "Peasant Faction"
- peasant_faction_desc:0 "The Peasant [faction|E] wants freedom for the people from foreign or infidel rule, and will strive to replace a liege who does not share the [culture|E] and [faith|E] of the commoners in the [counties|E]."
- peasant_faction_short_effect_desc:0 "Wants lower [county_control|E]"
- peasant_faction_every_county:0 "Every county in the faction"
+ peasant_faction:0 "Facção Camponesa"
+ peasant_faction_desc:0 "Uma [faction|E] Camponesaquer liberdade para o povo do governo estrangeiro ou infiel, e se esforçará para substituir um Soberano que não compartilha a mesma [culture|E] e [faith|E] dos plebeus nos [counties|E]."
+ peasant_faction_short_effect_desc:0 "Quer menor [county_control|E]"
+ peasant_faction_every_county:0 "Cada Condado na Facção"
  peasant_faction_spawn_county_levies:0 "Spawns an [army|E] of peasant rebels proportional to the county's [levies]"
  FACTION_DEMAND_PEASANT:1 "To the [ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]"
- FACTION_DEMAND_PEASANT_DESC:0 "We have been burdened with your oppressive laws for far too long. No more! We are done paying you taxes.\n\nOnce your coffers dry up and your larders are empty, you will wish you had treated us more fairly."
- FACTION_DEMAND_PEASANT_ACCEPT:0 "I guess I could grant a tax lien..."
- FACTION_DEMAND_PEASANT_REFUSE:0 "Never! A peasant's lot is to serve their lord!"
- FACTION_PEASANT_NAME:0 "Peasant Rabble"
- FACTION_PEASANT_TITLE_NAME:0 "Peasant Revolt"
+ FACTION_DEMAND_PEASANT_DESC:0 "Estamos sobrecarregados com suas leis opressivas por muito tempo. Não mais! Terminamos de pagar seus impostos.\n\nQuando seus cofres secarem e suas despensas estiverem vazias, você desejará ter nos tratado de forma mais justa."
+ FACTION_DEMAND_PEASANT_ACCEPT:0 "Eu acho que eu poderia conceder uma garantia fiscal..."
+ FACTION_DEMAND_PEASANT_REFUSE:0 "Nunca! O destino de um camponês é servir ao seu senhor!"
+ FACTION_PEASANT_NAME:0 "Turba Camponesa"
+ FACTION_PEASANT_TITLE_NAME:0 "Revolta Camponesa"
 
  # Populist Faction
  populist_faction:0 "Populist Faction"

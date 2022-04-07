@@ -26,7 +26,7 @@
  CV_TITLES_SINGULAR:0 "[GetDataModelSize(CharacterWindow.GetTitles)|V] [title|E]"
  CV_TITLES_SHOW_TT:1 "#I Clique para expandir os itens do [title|E]#!"
  CV_TITLES_HIDE_TT:1 "#I Clique para ocultar os itens do [title|E] expandido#!"
- CV_REALM_TYPE:2 "[realm|E] [Character.GetGovernment.GetName] [title_tier|E]-[Character.GetPrimaryTitle.GetRankConcept]"
+ CV_REALM_TYPE:2 "[Character.GetGovernment.GetName] [Character.GetPrimaryTitle.GetRankConcept]-[title_tier|E] [realm|E]"
  CV_CIVIL_WAR_FACTION:0 "[faction|E] em [civil_war|E]"
  CV_DIPLOMACY:0 "Diplomacia"
  CV_DIPLOMACY_SHOW_TT:0 "#I Clique para expandir os itens de Ddiplomacia#!"
@@ -170,7 +170,7 @@
 
  CV_CHILDREN_HEADING:0 "Filhos #weak ([GetDataModelSize(CharacterWindow.GetChildren)])#!"
  CV_SIBLINGS_HEADING:0 "Irmãos #weak ([GetDataModelSize(CharacterWindow.GetSiblings)])#!"
- AI_PERSONALITY_TT:0 "#T Personality: [Character.GetAIPersonality]#!\n[Character.GetShortUINameNoTooltip] will act against you and others according to [Character.GetHerHis] Personality, which is primarily determined by [Character.GetHerHis] Personality [traits|E]"
+ AI_PERSONALITY_TT:0 "#T Personalidade: [Character.GetAIPersonality]#!\n[Character.GetShortUINameNoTooltip] agirá contra você e outros de acordo com sua Personalidade, que é determinado principalmente pelos seus [traits|E] de Personalidade"
  CHARACTER_RELATION_COMBINE:0 "$FIRST$ • $SECOND$"
 
  FAITH_CHARACTER_WINDOW:0 "[Faith.GetAdjectiveNoTooltip]"
@@ -178,7 +178,7 @@
  VASSAL_SORT_POWER:0 "$CLAIMANT_SORT_STRENGTH$"
 
  FIND_SPOUSE:0 "Encontrar [spouse|E]"
- KNOWN_LANGUAGES_TOOLTIP:1 "#T Conhecido [languages|E]#!\n[Character.GetKnownLanguagesString]\n\n#weak Current [language_limit|E]: [Character.MakeScope.ScriptValue('current_extra_languages')|V0] de [Character.MakeScope.ScriptValue('language_soft_cap')|V0]#!"
+ KNOWN_LANGUAGES_TOOLTIP:1 "#T Conhece [languages|E]#!\n[Character.GetKnownLanguagesString]\n\n#weak Atual [language_limit|E]: [Character.MakeScope.ScriptValue('current_extra_languages')|V0] de [Character.MakeScope.ScriptValue('language_soft_cap')|V0]#!"
 
  EXTENDED_RELATIONS_TOOLTIP:0 "[Character.GetRelationToStringExtended( GetPlayer )]"
 

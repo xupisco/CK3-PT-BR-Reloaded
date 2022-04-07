@@ -324,7 +324,7 @@
  mend_the_great_schism_decision_tooltip:0 "I will reunite Christendom"
  mend_the_great_schism_decision_effect_tooltip:0 "The [THIS.Char.GetFaith.GetAdjective] Church will mend the Schism and establish itself as the only legitimate branch of Christianity."
  every_ecumenical_christian_faith.tt:0 "$EFFECT_LIST_BULLET$ Every Christian [faith|E] with [GetFaithDoctrine('special_doctrine_ecumenical_christian').GetBaseName]"
- 
+
  set_capital_constantinople_decision:0 "Reclaim Constantinople"
  set_capital_constantinople_decision_confirm:0 "Restore the true seat of the Empire!"
  set_capital_constantinople_decision_desc:0 "Constantinople is the capital of the Eastern Empire and as such she rightfully belongs to me."
@@ -433,16 +433,16 @@
  I_AM_UNDER_OUTREMER_EMPIRE:0 "My liege does #bold not#! rule the Empire of Outremer"
  I_AM_NOT_UNDER_OUTREMER_EMPIRE:0 "My liege rules the Empire of Outremer"
 
- embrace_celibacy_decision:0 "Embrace Celibacy"
- embrace_celibacy_decision_desc:0 "#F A life devoid of carnal pleasures will bring me peace and satisfaction.#!"
- embrace_celibacy_decision_tooltip:0 "I become Celibate"
- embrace_celibacy_decision_confirm:0 "A new life begins today!"
- abandon_celibacy_decision:0 "Abandon Celibacy"
- abandon_celibacy_decision_desc:0 "#F I have duties to the realm, and to myself... I can no longer live in celibacy.#!"
- abandon_celibacy_decision_tooltip:0 "I stop being Celibate"
- abandon_celibacy_decision_confirm:0 "A new life begins today!"
- msg_became_celibate:0 "Embrace Celibacy"
- msg_stopped_being_celibate:0 "Abandon Celibacy"
+ embrace_celibacy_decision:0 "Adotar o Celibato"
+ embrace_celibacy_decision_desc:0 "#F Uma vida desprovida de prazeres carnais me trará paz e satisfação.#!"
+ embrace_celibacy_decision_tooltip:0 "Virei celibatário"
+ embrace_celibacy_decision_confirm:0 "Uma nova vida começa hoje!"
+ abandon_celibacy_decision:0 "Abandonar o Celibato"
+ abandon_celibacy_decision_desc:0 "#F Tenho deveres para com o Reino e para comigo mesmo... Não posso mais viver no celibato.#!"
+ abandon_celibacy_decision_tooltip:0 "Larguei o celibatário"
+ abandon_celibacy_decision_confirm:0 "Uma nova vida começa hoje!"
+ msg_became_celibate:0 "Adotar o Celibato"
+ msg_stopped_being_celibate:0 "Abandonar o Celibato"
 
 
  sale_of_titles_decision:1 "Sell Trivial Titles"
@@ -576,7 +576,7 @@
  no_built_university:0 "The province does not have a [special_building|E]"
  no_special_building_slot:0 "The province does not already have a [special_building|E] Slot"
  decision_found_university_custom:0 "All County Capitals without a [GetBuilding('generic_university').GetName]"
- 
+
  empower_sicilian_parliament_decision:0 "Empower Sicilian Parliament"
  empower_sicilian_parliament_decision_desc:0 "By balancing the representative of Nobility, Clergy and Burghers with the old Roman infrastructure, a new advisory body could be organized, for the benefit of both monarch and subjects."
  empower_sicilian_parliament_decision_tooltip:0 "Establish advisory assembly of the Estates"
@@ -775,7 +775,7 @@
  minor_decisions.0003.b:0 "Only the trade of execution befits this #EMP creature#!."
  minor_decisions.0003.c:0 "[ROOT.Char.GetFaith.HighGodName], fetch me someone else!"
  minor_decisions.0003.d:0 "Uhhh, we're not that desperate yet..."
- 
+
  #False Conversion decisions
  revoke_false_conversion_decision:0 "Revoke False Conversion"
  revoke_false_conversion_decision.tt:0 "Publicly reconvert to your old [faith|E]"
@@ -934,7 +934,7 @@
  stress_loss_athletic_decision_confirm:0 "Let's go!"
 
  DECISION_COOLDOWN_WARNING:0 "@warning_icon!#X $DECISION_NAME$ will be unavailable for $COOLDOWN$#!"
- 
+
  SHOW_DECISION_TOOLTIP:1 "#T [Decision.GetTitleForPlayer]#!\n[Decision.GetCommandDescForPlayer][Select_CString(StringIsEmpty(Decision.GetCommandDescForPlayer),'','\n')][Decision.GetShortDescForPlayer]"
 
  all_courtiers_except_confidant:0 "All [courtiers|E] except confidant"
@@ -1057,7 +1057,7 @@
  court_amenities_interactions.0012.a_lost:0 "I'm surrounded by sycophants and fools!"
  court_amenities_interactions.0013.desc:1 "As time goes by, many in [debate_locale.GetNameNoTierNoTooltip] have taken to calling me the [actor.GetTitleAsNameNoTooltip] of Fashion!"
  court_amenities_interactions.0013.a:0 "Hail to the [actor.GetTitleAsNameNoTooltip]!"
- 
+
  commission_epic_artifact_tt:1 "You may receive a Family Epic [artifact|E]"
  PETITION_LIEGE_DECISION_SELECT_PETITION_TITLE:0 "Choose a type of [petition_liege|E]"
  PAY_HOMAGE_DECISION_SELECT_GIFT_TITLE:0 "Choose a [pay_homage|E] gift"
