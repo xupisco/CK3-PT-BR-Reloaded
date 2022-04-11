@@ -3,7 +3,7 @@
 
  COA_DESIGNER_QUARTERING_OPTIONS:0 "[cadet_branch|E] Quartering"
  COA_DESIGNER_TOGGLE_QUARTERING_BUTTON_TT:0 "#T Use quartered Coat of Arms#!\nWhen enabled, the Coat of Arms will retain the quartered Coat of Arms showing the [dynasty|E] and potential parent [houses|E]. However you can only edit the Coat of Arms of this house."
- 
+
  COA_DESIGNER_MODE_CUSTOM:0 "Mode: #V Custom#!"
  COA_DESIGNER_MODE_ADJUSTED:0 "Mode: #V Adjusted#!"
  COA_DESIGNER_MODE_SELECTION_HEADER:0 "Design your own Coat of Arms"
@@ -34,7 +34,7 @@
  COA_DESIGNER_BACKGROUND_PANEL_HEADER:0 "Background"
  COA_DESIGNER_BACKGROUND_PATTERN_HEADER:0 "Pattern"
  COA_DESIGNER_BACKGROUND_PATTERN_DISABLED_IN_ADJUSTED_MODE:0 "In Adjusted mode the background pattern may not be changed, but you can adjust the colors above."
- 
+
  COA_DESIGNER_COLOR_HEADER:0 "Colors"
  COA_DESIGNER_COLOR1:0 "Primary Color"
  COA_DESIGNER_COLOR2:0 "Secondary Color"
@@ -43,12 +43,12 @@
  COA_DESIGNER_COLOR5:0 "Quinary Color"
  COA_DESIGNER_COLORS_DESCRIPTION:0 "The colors available in the Coat of Arms palette are based on the pigments available during the era of heraldic use. The names of these colors are based on the source of their pigment or the name they were known for at the time."
  COA_DESIGNER_COLOR_PICKER_EXPAND_HEADER:0 "Color Picker"
- 
+
  COA_DESIGNER_CATEGORY_abstract:0 "Abstract"
  COA_DESIGNER_CATEGORY_animals:0 "Animals"
  COA_DESIGNER_CATEGORY_circles_spirals:0 "Circles and Spirals"
  COA_DESIGNER_CATEGORY_crosses_and_knots:0 "Crosses and Knots"
- COA_DESIGNER_CATEGORY_faiths:0 "Faiths"
+ COA_DESIGNER_CATEGORY_faiths:0 "Fé"
  COA_DESIGNER_CATEGORY_manmade:0 "Man-Made"
  COA_DESIGNER_CATEGORY_nature:0 "Nature"
  COA_DESIGNER_CATEGORY_patterns:0 "Patterns"
@@ -80,14 +80,14 @@
  COA_DESIGNER_FLIP_EMBLEM_X_AXIS_CHECKBOX_LABEL: "Flip X Axis"
  COA_DESIGNER_FLIP_EMBLEM_Y_AXIS_TT: "#I Click to toggle flip emblem Y axis#!"
  COA_DESIGNER_FLIP_EMBLEM_Y_AXIS_CHECKBOX_LABEL: "Flip Y Axis"
- 
+
  COA_DESIGNER_DETAIL_INSTANCE_TT:0 "#I Click to edit\nRight-click to remove#!"
  COA_DESIGNER_DETAIL_INSTANCE_ICON_TT:0 "#I Click to drag and drop layering#!"
  COA_DESIGNER_DETAIL_INSTANCE_ICON_TARGET_TT:0 "#I Drop here to place layer#!"
  COA_DESIGNER_DETAIL_ADD_INSTANCE_TT:1 "#T Add Emblem#!"
  COA_DESIGNER_DETAIL_EDIT_BACK_TT:0 "#I Click to go back to emblem list#!"
  COA_DESIGNER_DETAIL_DRAG_INSTRUCTION:0 "Click and drag emblems to set which one is drawn on top of others"
- 
+
  TITLE_CUSTOMIZATION_CONFIRM_TITLE:0 "Customize Title"
  TITLE_CUSTOMIZATION_CONFIRM_BODY:0 "Finish customizing your title, once you submit you cannot undo this change, are you sure you are ready to submit?"
  TITLE_CUSTOMIZATION_CONFIRM_ACCEPT:0 "Submit"

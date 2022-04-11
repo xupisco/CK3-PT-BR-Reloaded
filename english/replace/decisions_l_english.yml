@@ -730,24 +730,24 @@
  NEW_CREATED_TITLE_NAME:0 "[old_title.GetBaseNameNoTierNoTooltip]"
 
  #Guest decisions
- invite_knights_decision:1 "Invite $knight_culture_player_plural_no_tooltip$"
+ invite_knights_decision:1 "Convidar $knight_culture_player_plural_no_tooltip$"
  invite_knights_decision_desc:1 "As the [ROOT.Char.GetTitleAsNameNoTooltip] of [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip], I need brave $knight_culture_player_plural_no_tooltip_lowercase$ to defend the realm and conquer new lands. I will send out a herald to let my subjects know I am in search of skilled warriors."
  invite_knights_decision.men.tt:0 "At least #P 3#! able-bodied men with #V 12#! or more [prowess|E] will arrive as [guests|E] at Court within the coming months"
  invite_knights_decision.women.tt:0 "At least #P 3#! able-bodied women with #V 12#! or more [prowess|E] will arrive as [guests|E] at Court within the coming months"
  invite_knights_decision.warriors.tt:1 "At least #P 3#! warriors with #V 12#! or more [prowess|E] will arrive as [guests|E] at Court within the coming months"
- invite_knights_decision_confirm:0 "Send the herald"
+ invite_knights_decision_confirm:0 "Enviar Mensageiro"
  minor_decisions.0001.t:1 "$knight_culture_player_no_tooltip$ Has Arrived"
  minor_decisions.0001.desc:1 "[knight.GetTitledFirstName] heeded my summons and has arrived at court as my guest"
- invite_knights_decision_tooltip:1 "$knight_culture_player_plural$ are summoned to visit your court"
+ invite_knights_decision_tooltip:1 "$knight_culture_player_plural$ são convocados para visitar a sua Corte"
 
 
- invite_claimants_decision:0 "Invite Claimants"
- invite_claimants_decision_desc:0 "In order to extend my realm, I must have valid claims on foreign land. Luckily for me, there are many claimants out there who would be willing to become my vassals in return for military support."
- invite_claimants_decision.tt:0 "The likelihood of [claimants|E] with relevant [claims|E] arriving as [guests|E] at Court is greatly increased for #V 5#! Years"
- invite_claimants_decision_confirm:0 "Send the herald"
- minor_decisions.0002.t:0 "Claimant Has Arrived"
+ invite_claimants_decision:0 "Convidar Requerentes"
+ invite_claimants_decision_desc:0 "Para estender meu reino, devo ter reivindicações válidas em terras estrangeiras. Felizmente para mim, existem muitos pretendentes por aí que estariam dispostos a se tornar meus vassalos em troca de apoio militar."
+ invite_claimants_decision.tt:0 "A probabilidade dos [claimants|E] com [claims|E] relevantes chegando com [guests|E] na Corte é muito aumentada por #V 5#! anos"
+ invite_claimants_decision_confirm:0 "Enviar Mensageiro"
+ minor_decisions.0002.t:0 "O Requerente Chegou"
  minor_decisions.0002.desc:0 "[claimant.Custom2('MyCharacterIntroduction', ROOT.Char)|U] heeded my summons and has arrived at court as my guest"
- invite_claimants_decision_tooltip:1 "[claimants|E] are summoned to visit your court"
+ invite_claimants_decision_tooltip:1 "[claimants|E] são convocados para visitar a sua Corte"
 
 
  scrape_the_barrel_decision:0 "Scrape the Barrel"

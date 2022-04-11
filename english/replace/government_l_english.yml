@@ -123,18 +123,18 @@
  clan_government_unclamped_contribution_label:0 "Based on [opinion|E] of me"
  clan_government_min_contribution_label:0 "[crown_authority|E] minimum"
 
- republic_government:0 "Republic"
- republic_government_adjective:0 "Republic"
- republic_government_realm:0 "Republic"
- republic_government_desc:0 "$game_concept_republic_desc$\n\n#F Towns are ruled by the privileged citizens of the burgher class, among whom one is chosen as mayor. While the mayor has significant influence, they depend on popularity to be re-elected.#!"
- republic_government_vassals_label:1 "Republic [obligations|E] are the same for all Republican [vassals|E]"
- republic_government_obligations:1 "Republic [obligations|E]"
- republican_vassals_pay_more_parameter:0 "From [liege|E] [culture_traditions|E]"
+ republic_government:0 "República"
+ republic_government_adjective:0 "República"
+ republic_government_realm:0 "República"
+ republic_government_desc:0 "$game_concept_republic_desc$\n\n#F As cidades são governadas pelos cidadãos privilegiados da classe burguesa, entre os quais um é eleito prefeito. Embora o prefeito tenha influência significativa, eles dependem da popularidade para serem reeleitos.#!"
+ republic_government_vassals_label:1 "[obligations|E] da República são as mesmas para todos os [vassals|E] republicanos"
+ republic_government_obligations:1 "[obligations|E] da República"
+ republican_vassals_pay_more_parameter:0 "Da [culture_traditions|E] do [liege|E]"
 
  tribal_government:0 "Tribal"
  tribal_government_adjective:0 "Tribal"
- tribal_government_realm:0 "Tribe"
- tribal_government_desc:0 "$game_concept_tribal_desc$\n\n#F In the tribe, strength means everything. A tribal leader depends on respect and renown rather than coin to develop their realm and bolster their armies.#!"
+ tribal_government_realm:0 "Tribo"
+ tribal_government_desc:0 "$game_concept_tribal_desc$\n\n#F Na tribo, força significa tudo. Um líder tribal depende de respeito e renome ao invés de moedas para desenvolver seu reino e reforçar seus exércitos.#!"
 
  tribal_government_obligations:0 "From [liege|E] [prestige_level|E]"
  tribal_government_vassals_label:1 "Tribal [obligations|E] are based on [prestige_level|E] of [liege|E]"
@@ -167,7 +167,7 @@
  GOVERNMENT_HOLDING_INFO:0 "- Can hold [HOLDING_TYPE.GetName|V] [holdings|E]"
  GOVERNMENT_CLAN_NOT_ALLIED:0 "No [alliance|E] as Clan [vassal|E]"
  GOVERNMENT_CLAN_NOT_ALLIED_POWERFUL:0 "No [alliance|E] as powerful Clan [vassal|E]"
- government_can_raid_rule:0 "Allows the [raiding|E] of foreign [counties|E] for loot"
+ government_can_raid_rule:0 "Permite estar [raiding|E] [counties|E] Estrangeiros para Saque\n\n"
 
  SUPPLY_MULT_DIFERENT_GOVERNMENT:0 "[GOVERNMENT_TYPE.GetAdjective] Lands"
 

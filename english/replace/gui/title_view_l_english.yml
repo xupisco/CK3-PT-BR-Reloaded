@@ -127,7 +127,7 @@
  TITLE_VIEW_ELECTION:0 "$game_concept_nominate_heir$"
  TITLE_VIEW_DE_JURE:0 "POr Direito"
  TITLE_VIEW_VASSALS:0 "Lealdade de Título"
- TITLE_VIEW_BUILDING_TYPE:0 "Tipo de Construção: [Holding.GetType.GetName]"
+ TITLE_VIEW_BUILDING_TYPE:0 "Tipo de Edificação: [Holding.GetType.GetName]"
  CUSTOMIZE_TITLE_HEADER:0 "Customizar [Title.GetNameNoTooltip]"
  CUSTOMIZATION_NAMING_HEADER:0 "Nomeação"
  TITLE_NAME_FIELD:0 "Nome"

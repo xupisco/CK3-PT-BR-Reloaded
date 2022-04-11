@@ -1,7 +1,7 @@
 ﻿l_english:
  HEADING_ENCYCLOPEDIA:0 "Enciclopédia"
  OPEN_ENCYCLOPEDIA:1 "#T Abrir Enciclopédia#!\nProcure por termos na Enciclopédia."
- ENCYCLOPEDIA_PAGE_BUILDINGS:0 "Construções"
+ ENCYCLOPEDIA_PAGE_BUILDINGS:0 "Edificações"
  ENCYCLOPEDIA_BUILDING_ENTRY:2 "[BUILDING.GetDescription]\n\n#S Custo base:\n#![BUILDING.GetBaseCostDescription]\n\n#S Efeito:\n#![BUILDING.GetEffectDescription( GetPlayer, GetPlayer.GetCulture )]\n\n"
  ENCYCLOPEDIA_PAGE_COURT_POSITIONS:0 "Posições na Corte"
  ENCYCLOPEDIA_COURT_POSITION_ENTRY_LIEGE_MODIFIERS:0 "#S $COURT_POSITION_TOOLTIP_EFFECT_ON_LIEGE$#!\n[CourtPositionType.GetLiegeModifierDescription]\n\n"
@@ -13,7 +13,7 @@
  ENCYCLOPEDIA_PAGE_LAWS:0 "Leis"
  ENCYCLOPEDIA_PAGE_MEN_AT_ARMS_TYPES:0 "Homens Armados"
  ENCYCLOPEDIA_PAGE_SCHEMES:0 "Esquemas"
- ENCYCLOPEDIA_PAGE_TERRAIN_TYPES:0 "Terrano"
+ ENCYCLOPEDIA_PAGE_TERRAIN_TYPES:0 "Terreno"
  ENCYCLOPEDIA_PAGE_TRAITS:0 "Traços"
  ENCYCLOPEDIA_PAGE_TUTORIAL_GUIDED:0 "Lições do Tutorial"
  ENCYCLOPEDIA_PAGE_TUTORIAL_REACTIVE:0 "Conselhos"

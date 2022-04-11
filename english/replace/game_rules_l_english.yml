@@ -9,7 +9,7 @@
  IRONMAN_ENABLED_NO_HEADER:1 "#P Habilitado#!"
  IRONMAN_DISABLED_NO_HEADER:0 "Desabilitado"
  ACHIEVEMENTS_LABEL:0 "Conquistas"
- ACHIEVEMENTS_EXPLANATION:1 "#indent_newline:2 As conquistas só são desbloqueáveis se:\n$EFFECT_LIST_BULLET$Jogar sozinho (single player)\n$EFFECT_LIST_BULLET$Modo Homem-de-Ferro (Ironman) habilitado\n$EFFECT_LIST_BULLET$Os arquivos do jogo que afetam a jogabilidade não são modificados e você não está usando nenhuma opção especial de inicialização. (ex: o checksum não está modificado)\n$EFFECT_LIST_BULLET$Se você estiver jogando com um Personagem feito no 'Designer de Governantes', e ele não ultrapassou o limite de pontos do $RULER_DESIGNER_POINTS_LIMIT_VALUE$#!"
+ ACHIEVEMENTS_EXPLANATION:1 "#indent_newline:2 As conquistas só são desbloqueáveis se:\n$EFFECT_LIST_BULLET$Jogar sozinho (single player)\n$EFFECT_LIST_BULLET$Modo Homem-de-Ferro (Ironman) habilitado\n$EFFECT_LIST_BULLET$Os arquivos do jogo que afetam a jogabilidade não são modificados e você não está usando nenhuma opção especial de inicialização. (ex: o checksum não está modificado)\n$EFFECT_LIST_BULLET$Se você estiver jogando com um Personagem feito no 'Designer de Governantes', e ele não ultrapassou o limite de $RULER_DESIGNER_POINTS_LIMIT_VALUE$#! pontos"
  ACHIEVEMENTS_ENABLED:3 "#T Conquistas disponíveis\n#!As conquistas podem ser desbloqueadas durante o jogo.\n\n$ACHIEVEMENTS_EXPLANATION$"
  ACHIEVEMENTS_DISABLED:2 "#T Conquistas NÃO estão disponíveis#!\nNo momento, as conquistas não podem ser desbloqueadas durante o jogo.\n\n$ACHIEVEMENTS_EXPLANATION$"
  ACHIEVEMENTS_ENABLED_NO_HEADER:0 "#P Disponível#!"

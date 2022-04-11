@@ -766,11 +766,11 @@
 
  doctrine_theocracy_name:0 "Tradição Clerical"
  doctrine_theocracy_temporal_name:0 "Teocrático"
- doctrine_theocracy_temporal_desc:0 "Only sanctioned [ROOT.Faith.PriestNeuterPlural] can be entrusted with upholding our faith's doctrines and, by extension, with managing and caring for our sacred places."
- doctrine_parameter_theocracy_temple_lease:0 "Temple [holdings|E] are leased out to their Holder's [realm_priest|E], who then serves them as a [theocratic|E] [vassal|E]"
+ doctrine_theocracy_temporal_desc:0 "Apenas [ROOT.Faith.PriestNeuterPlural] Sancionados podem ser encarregados de defender as doutrinas de nossa Fé e, consequentemente, de administrar e cuidar de nossos Lugares Sagrados."
+ doctrine_parameter_theocracy_temple_lease:0 "[holdings|E] do Templo são arrendadas ao [realm_priest|E] de seu Proprietário, que os servem como um [vassal|E] [theocratic|E]"
  doctrine_theocracy_lay_clergy_name:0 "Clero Leigo"
- doctrine_theocracy_lay_clergy_desc:0 "Any devoted follower is more than capable of understanding, following, and preaching the doctrines of our faith."
- doctrine_parameter_theocracy_temple_ownership:0 "Secular [rulers|E] directly control their own Temple [holdings|E] and get all associated benefits."
+ doctrine_theocracy_lay_clergy_desc:0 "Qualquer seguidor dedicado é mais do que capaz de entender, seguir e pregar as doutrinas de nossa Fé."
+ doctrine_parameter_theocracy_temple_ownership:0 "[rulers|E] Seculares controlam diretamente suas próprias [holdings|E] do Templo e ganham todos os benefícios associados."
  #Intentionally left blank:
  doctrine_parameter_lay_clergy:0 ""
  doctrine_parameter_allowed_holding_type_church_holding:0 ""

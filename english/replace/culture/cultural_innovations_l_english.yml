@@ -1,17 +1,17 @@
 ﻿l_english:
- cb_discount_prestige_10:0 "[casus_belli|E] [prestige|E] Cost: #P -10%#!"
- cb_discount_piety_10:0 "[casus_belli|E] [piety|E] Cost: #P -10%#!"
- individual_county_de_jure_cb:0 "Individual [de_jure|E] [county|E]"
- individual_duchy_de_jure_cb:0 "Individual [de_jure|E] [duchy|E]"
- multiple_claim_wars:1 "Can press several of your [claims|E] in a single war"
- multiple_claim_wars_others:0 "Can press multiple [claims|E] for another character in a single war"
- fabricate_claim_speed:0 ""Fabricate Claim on County" [councillor_task|E] Speed: #P +50%#!"
- promote_culture_speed:0 ""Promote Culture" [councillor_task|E] Speed: #P +15%#!"
- same_culture_group_reduced_factionalism:1 "[vassals|E] whose [culture|E] has a shared [heritage|E] with yours are less likely to join [independence_factions|E]"
- reduce_develop_county_penalty_01:0 "Counties now reach the maximum [existing_development|E] penalty at 20 [development|E]"
- reduce_develop_county_penalty_02:0 "Counties now reach the maximum [existing_development|E] penalty at 35 [development|E]"
- reduce_develop_county_penalty_03:0 "Counties now reach the maximum [existing_development|E] penalty at 55 [development|E]"
- reduce_develop_county_penalty_04:0 "Counties now reach the maximum [existing_development|E] penalty at 90 [development|E]"
+ cb_discount_prestige_10:0 "Custo de [prestige|E] do [casus_belli|E]: #P -10%#!"
+ cb_discount_piety_10:0 "Custo de [piety|E] do [casus_belli|E]: #P -10%#!"
+ individual_county_de_jure_cb:0 "[county|E] Individual [de_jure|E]"
+ individual_duchy_de_jure_cb:0 "[duchy|E] Individual [de_jure|E]"
+ multiple_claim_wars:1 "Pode apresentar várias das suas [claims|E] em uma única guerra"
+ multiple_claim_wars_others:0 "Pode apresentar múltiplas [claims|E] para outro Personagem em uma única Guerra"
+ fabricate_claim_speed:0 "[councillor_task|E], Velocidade de "Fabricar Reivindicação no Condado": #P +50%#!"
+ promote_culture_speed:0 "[councillor_task|E], Velocidade de "Promover Cultura": #P +15%#!"
+ same_culture_group_reduced_factionalism:1 "[vassals|E] os quais sua [culture|E] possui [heritage|E] compartilhada com as suas são menos propensos a entrar em [independence_factions|E]"
+ reduce_develop_county_penalty_01:0 "Condados agora atingem o máximo de penalidade do [existing_development|E] com 20 [development|E]"
+ reduce_develop_county_penalty_02:0 "Condados agora atingem o máximo de penalidade do [existing_development|E] com 35 [development|E]"
+ reduce_develop_county_penalty_03:0 "Condados agora atingem o máximo de penalidade do [existing_development|E] com 55 [development|E]"
+ reduce_develop_county_penalty_04:0 "Condados agora atingem o máximo de penalidade do [existing_development|E] com 90 [development|E]"
 
 
 
@@ -19,23 +19,23 @@
  unlock_tribal_economic_buildings:0 "Desbloqueia todos os [economic_buildings|E] da Era Tribal"
  unlock_tribal_military_buildings:0 "Desbloqueia todos os [military_buildings|E] da Era Tribal"
  unlock_tribal_fortification_buildings:0 "Desbloqueia todos os [fortification_buildings|E] da Era Tribal"
- unlock_early_medieval_economic_buildings:0 "Unlocks all Early Medieval Era [economic_buildings|E]"
- unlock_early_medieval_military_buildings:0 "Unlocks all Early Medieval Era [military_buildings|E]"
- unlock_early_medieval_fortification_buildings:0 "Unlocks all Early Medieval Era [fortification_buildings|E]"
- unlock_high_medieval_economic_buildings:0 "Unlocks all High Medieval Era [economic_buildings|E]"
- unlock_high_medieval_military_buildings:0 "Unlocks all High Medieval Era [military_buildings|E]"
- unlock_high_medieval_fortification_buildings:0 "Unlocks all High Medieval Era [fortification_buildings|E]"
- unlock_late_medieval_economic_buildings:0 "Unlocks all Late Medieval Era [economic_buildings|E]"
- unlock_late_medieval_military_buildings:0 "Unlocks all Late Medieval Era [military_buildings|E]"
- unlock_late_medieval_fortification_buildings:0 "Unlocks all Late Medieval Era [fortification_buildings|E]"
- unlocks_naval_raiding:0 "Unlocks the ability to [raid|E] over seas, if you can already [raid|E]"
+ unlock_early_medieval_economic_buildings:0 "Desbloqueia todos os [economic_buildings|E] do Inicio da Era Medieval"
+ unlock_early_medieval_military_buildings:0 "Desbloqueia todos os [military_buildings|E] do Inicio da Era Medieval"
+ unlock_early_medieval_fortification_buildings:0 "Desbloqueia todos os [fortification_buildings|E] do Inicio da Era Medieval"
+ unlock_high_medieval_economic_buildings:0 "Desbloqueia todos os [economic_buildings|E] da Alta Era Medieval"
+ unlock_high_medieval_military_buildings:0 "Desbloqueia todos os [military_buildings|E] da Alta Era Medieval"
+ unlock_high_medieval_fortification_buildings:0 "Desbloqueia todos os [fortification_buildings|E] da Alta Era Medieval"
+ unlock_late_medieval_economic_buildings:0 "Desbloqueia todos os [economic_buildings|E] do Final da Era Medieval"
+ unlock_late_medieval_military_buildings:0 "Desbloqueia todos os [military_buildings|E] do Final da Era Medieval"
+ unlock_late_medieval_fortification_buildings:0 "Desbloqueia todos os [fortification_buildings|E] do Final da Era Medieval"
+ unlocks_naval_raiding:0 "Desbloqueia a Habilidade de [raid|E] em outro continente, se você já pode fazer uma [raid|E]"
  unlocks_sailable_major_rivers:1 "Desbloqueia a capacidade de navegar nos Principais Rios"
 
- unlock_march_contract:0 "Unlocks the #high $special_contract_march_short$#! [feudal_contract|E]"
- unlock_scutage_contract:0 "Unlocks the #high $special_contract_scutage_short$#! [feudal_contract|E]"
- unlock_palatinate_contract:0 "Unlocks the #high $special_contract_palatinate_short$#! [feudal_contract|E]"
- unlock_fortification_rights_contract:0 "Unlocks the #high $fortification_rights$#! [feudal_contract|E]"
- unlock_coinage_rights_contract:0 "Unlocks the #high $coinage_rights$#! [feudal_contract|E]"
+ unlock_march_contract:0 "Desbloqueia o [feudal_contract|E] #high $special_contract_march_short$#!"
+ unlock_scutage_contract:0 "Desbloqueia o  [feudal_contract|E] #high $special_contract_scutage_short$#!"
+ unlock_palatinate_contract:0 "Desbloqueia o  [feudal_contract|E] #high $special_contract_palatinate_short$#!"
+ unlock_fortification_rights_contract:0 "Desbloqueia o  [feudal_contract|E] #high $fortification_rights$#!"
+ unlock_coinage_rights_contract:0 "Desbloqueia o  [feudal_contract|E] #high $coinage_rights$#!"
 
 ##############
 # Tribal Era #
@@ -54,15 +54,15 @@
  innovation_mustering_grounds:0 "Áreas de Agrupamento"
  innovation_mustering_grounds_desc:0 "Simplesmente ter pessoas dispostas a lutar por nós não é suficiente para vencer guerras. Reservar espaço para as pessoas treinarem e se reunirem para a batalha nos permitirá apoiar grupos de lutadores mais experientes que podem nos levar à vitória."
 
- innovation_bannus:0 "Bannus"
- innovation_bannus_desc:0 "Com base na autoridade de comandar homens em batalha, o bann dá aos nossos governantes o poder de obrigar homens livres a lutar por eles, formando uma base legal para a formação de grandes exércitos."
+ innovation_bannus:0 "Bannus (?)"
+ innovation_bannus_desc:0 "Com base na autoridade de comandar homens em batalha, o bann (?) dá aos nossos governantes o poder de obrigar homens livres a lutar por eles, formando uma base legal para a formação de grandes exércitos."
 
  innovation_quilted_armor:0 "Armadura Acolchoada"
  innovation_quilted_armor_desc:0 "Formadas por uma dúzia ou mais de camadas de linho costuradas juntas, essas jaquetas podem parar até mesmo flechas pesadas e são uma maneira acessível de blindar um regimento inteiro para a batalha."
 
  #Civic
- innovation_gavelkind:0 "Gavelkind"
- innovation_gavelkind_desc:0 "Estabilidade e prosperidade andam de mãos dadas. Em vez de ter vassalos disputando o poder quando o velho monarca falecer, podemos definir um sistema predeterminado e equitativo de herança que eliminará grande parte da instabilidade que tradicionalmente ocorre na sucessão."
+ innovation_gavelkind:0 "Gavelkind (?)"
+ innovation_gavelkind_desc:0 "Estabilidade e prosperidade andam de mãos dadas. Em vez de ter Vassalos disputando o poder quando o velho Monarca falecer, podemos definir um sistema predeterminado e equitativo de herança que eliminará grande parte da instabilidade que tradicionalmente ocorre na sucessão."
 
  innovation_crop_rotation:0 "Rotação de Colheitas"
  innovation_crop_rotation_desc:0 "Ao fazer a transição do modelo tradicional de agricultura de dois campos para a rotação de culturas de três campos, podemos cultivar mais culturas a cada ano sem esgotar o solo em nossas fazendas."
@@ -99,7 +99,7 @@
  innovation_elephantry_desc:0 "Os elefantes são difíceis de criar em cativeiro, então cada mahout deve capturar seus próprios elefantes selvagens e treiná-los. Isso significa que há uma arte delicada para usar adequadamente essas grandes criaturas em batalha, mas é uma arte que nos dedicamos a dominar."
 
  innovation_wootz_steel:0 "Aço Wootz"
- innovation_wootz_steel_desc:0 "Também conhecido como aço Hinduwani ou Seric, este metal rico em carbono é excelente para fazer armas. O aço Wootz é amplamente comercializado e é considerado o melhor aço do mundo. Ao longo da maior parte da história, chamou a atenção de comerciantes árabes, egípcios, chineses e até romanos."
+ innovation_wootz_steel_desc:0 "Também conhecido como Aço Hinduwani ou Seric, este metal rico em carbono é excelente para fazer armas. O aço Wootz é amplamente comercializado e é considerado o melhor aço do mundo. Ao longo da maior parte da história, chamou a atenção de comerciantes árabes, egípcios, chineses e até romanos."
 
  innovation_african_canoes:0 "Canoas da África Ocidental"
  innovation_african_canoes_desc:0 "As grandes canoas da África Ocidental são excelentes para navegar nos rios e nos permitem transportar tropas rapidamente para onde precisamos delas."
@@ -126,8 +126,8 @@
  innovation_mangonel:0 "Mangonelos"
  innovation_mangonel_desc:0 "Uma melhoria significativa em nossos projetos de catapultas existentes, as mangonelas movidas a tração são muito mais rápidas para carregar e disparar do que máquinas movidas a torção."
 
- innovation_burhs:0 "Burhs"
- innovation_burhs_desc:0 "Scattered across the countryside, burhs are important fortified settlements we can use both to muster troops and to serve as administrative centers."
+ innovation_burhs:0 "Burhs (?)"
+ innovation_burhs_desc:0 "Espalhados pelo campo, os burhs são importantes assentamentos fortificados que podemos usar tanto para reunir tropas quanto para servir como centros administrativos."
 
  innovation_house_soldiers:0 "Soldados Domésticos"
  innovation_house_soldiers_desc:0 "À medida que nossas famílias nobres crescem em poder, elas precisam de soldados para impor sua vontade. Estabelecer uma ordem de soldados domésticos dedicados garantirá que tenhamos tropas mais bem treinadas e equipadas do que uma taxa padrão."

@@ -6,7 +6,7 @@
  debug.0002.c:0 "A duo please"
  debug.0002.d:0 "A trio please"
  debug.0002.e:0 "Surprise me"
- 
+
  interaction_debug_main:0 "#D DEBUG Interactions#!"
  debug_main:0 "#D DEBUG Main#!"
  add_to_court_interaction:1 "Add to Court"
@@ -195,7 +195,7 @@
  has_any_secret_relation_trigger:0 "Has any type of secret relations"
  has_trait_with_flag_trigger:0 "Has [trait|E] with $FLAG$"
  is_frontend_character_selected:0 "Is a frontend character selected"
- fertility_trigger:0 "Fertility: $NUM|V0$"
+ fertility_trigger:0 "Fertilidade: $NUM|V0$"
  witchcraft_scheme_blocked_trigger:0 "Witchcraft scheme possible"
  has_game_rule_trigger:0 "Has game rule: [GAME_RULE.GetName]"
  release_only_trigger:0 "Release Only"

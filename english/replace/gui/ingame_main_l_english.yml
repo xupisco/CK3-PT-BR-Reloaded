@@ -181,7 +181,7 @@
  PAUSED_BY_UNPAUSE_ANYONE:0 "Qualquer um pode tirar o pause"
  PAUSED_BY_EVENT_TT:0 "O jogo é pausado automaticamente. Continuará após o encerramento de todos os eventos. O jogo pode ser configurado para pausa manual"
  BOTTOMBAR_SCHEME_TOOLTIP:0 "#T Esquema: #!\n[Scheme.GetTooltip]"
- INGAME_TOPBAR_MILITARY_STRENGTH:0 "#T Força militar#!:\n[InGameTopbar.GetStrengthTooltip]"
+ INGAME_TOPBAR_MILITARY_STRENGTH:0 "#T Força Militar#!:\n[InGameTopbar.GetStrengthTooltip]"
  VALUE_BREAKDOWN_NO_VALUES:0 "Sem valores"
  VALUE_BREAKDOWN_TOTAL:0 "Total:"
  VALUE_BREAKDOWN_NO_EXPENSES:0 "Sem Despesas"

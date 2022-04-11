@@ -1061,35 +1061,35 @@
 
  THEIR_FOLLOWERS_ARE_PROTECTING_THEM:0 "[TARGET_CHARACTER.GetHerHis|U] followers are protecting [TARGET_CHARACTER.GetHerHim]!"
 
- I_AM_AWATING_RESPONSE_FROM_A_PREVIOUS_REQUEST:0 "You are awaiting response regarding another matter"
- NOT_TITLE_IS_REAL_HEAD:0 "[TITLE.GetName] does #bold not#! control a [faith|E]"
+ I_AM_AWATING_RESPONSE_FROM_A_PREVIOUS_REQUEST:0 "Você está aguardando resposta sobre outro assunto"
+ NOT_TITLE_IS_REAL_HEAD:0 "[TITLE.GetName] #bold não#! controla uma [faith|E]"
  TITLE_IS_REAL_HEAD:0 "[TITLE.GetName] controls a [faith|E]"
- CHARACTER_IS_REAL_HEAD:1 "You are the [head_of_faith|E]"
+ CHARACTER_IS_REAL_HEAD:1 "Você é o [head_of_faith|E]"
  religious_head_equal:0 "$CHARACTER_IS_REAL_HEAD$"
 
- torture_interaction:1 "Torture"
+ torture_interaction:1 "Torturar"
  torture_interaction_desc:1 "[torture|E] [recipient.GetShortUINameNoTooltip]"
- I_RECENTLY_TORTURED_SOMEONE:0 "You recently tortured someone"
- CHARACTER_WAS_RECENTLY_TORTURED:0 "[CHARACTER.GetShortUIName|U] was recently tortured"
+ I_RECENTLY_TORTURED_SOMEONE:0 "Você recentemente Torturou alguém"
+ CHARACTER_WAS_RECENTLY_TORTURED:0 "[CHARACTER.GetShortUIName|U] foi Torturado recentemente"
 
  torture_interaction_actor_effects.secrets.tt:0 "Might discover a [secret|E], if [recipient.GetShortUIName] has or knows about one"
 
- blind_interaction:0 "Blind"
- blind_interaction_desc:0 "Make [recipient.GetShortUINameNoTooltip] [GetTrait('blind').GetName( GetPlayer )]"
+ blind_interaction:0 "Cegar"
+ blind_interaction_desc:0 "Faça [recipient.GetShortUINameNoTooltip] [GetTrait('blind').GetName( GetPlayer )]"
 
- castrate_interaction:0 "Castrate"
- castrate_interaction_desc:0 "Make [recipient.GetShortUINameNoTooltip] a [GetTrait('eunuch').GetName( GetPlayer )]"
+ castrate_interaction:0 "Castrar"
+ castrate_interaction_desc:0 "Faça [recipient.GetShortUINameNoTooltip] a [GetTrait('eunuch').GetName( GetPlayer )]"
 
- I_AM_BEING_TORTURED:0 "You are being tortured!"
- THEY_ARE_BEING_TORTURED:0 "[CHARACTER.GetShortUIName|U] is being tortured"
+ I_AM_BEING_TORTURED:0 "Você está sendo Torturado!"
+ THEY_ARE_BEING_TORTURED:0 "[CHARACTER.GetShortUIName|U] está sendo torturado"
 
  #Recruit to Court
- recruit_guest_interaction:0 "Recruit to Court"
- recruit_guest_interaction_desc:0 "Pay to employ [recipient.GetShortUINameNoTooltip] as your [courtier|E]"
+ recruit_guest_interaction:0 "Recrutar para a Corte"
+ recruit_guest_interaction_desc:0 "Pague para empregar [recipient.GetShortUINameNoTooltip] como seu [courtier|E]"
  recruit_guest_interaction_extra_icon:0 "$hook_extra_icon$"
 
  #Kick from court
- kick_from_court_interaction:0 "Dismiss"
+ kick_from_court_interaction:0 "Dispensar"
  kick_from_court_interaction_desc:0 "Turn [recipient.GetShortUINameNoTooltip] into a [wanderer|E] and send [recipient.GetHerHim] away from your [court|E]"
  kick_from_court_interaction_desc_guest:0 "Send [recipient.GetShortUINameNoTooltip] away from your [court|E]"
  kick_from_court_councillor_warning_tt:0 "@warning_icon!#X [kicked.GetShortUIName] is my [kicked.GetCouncilTitle]#!"
@@ -1100,9 +1100,9 @@
  KICK_FROM_COURT_INTERACTION_TRAVELLING_FAMILY_INVALID_LOC:0 "[CHARACTER.GetShortUIName|U] would be leaving a close family member behind"
 
  #Invite to court
- invite_to_court_interaction:0 "Invite to Court"
- invite_to_court_interaction_desc:0 "Invite [recipient.GetShortUINameNoTooltip] to move to your [court|E], where [recipient.GetSheHe] will be your [courtier|E]"
- invite_to_court_interaction_notification:0 "Arrived at Court"
+ invite_to_court_interaction:0 "Convidar para Corte"
+ invite_to_court_interaction_desc:0 "Convide [recipient.GetShortUINameNoTooltip] para se mover para sua [court|E], onde [recipient.GetSheHe] será seu [courtier|E]"
+ invite_to_court_interaction_notification:0 "Chegou na Corte"
  invite_to_court_interaction_extra_icon:0 "$hook_extra_icon$"
  AI_YOUR_LOVER:0 "[recipient.GetSheHe|U] é seu Amante: $VALUE|=+0$"
  AI_YOUR_FRIEND:0 "[recipient.GetSheHe|U] é seu Amigo: $VALUE|=+0$"
@@ -1389,16 +1389,16 @@
 
  #reforge_artifact_durability_desc: "The artifact's durability is #TODO_CD"
  #reforge_artifact_rarity_desc: "The artifact's rarity is #TODO_CD"
- abandon_hook_interaction:0 "Abandon Hook"
- abandon_hook_interaction_desc:0 "Give up the hook you have on [recipient.GetShortUINameNoTooltip] to lose some [stress|E]."
- need_non_house_head_hook:0 "You cannot use a [hook|e] received by being the [house_head|E]."
- msg_abandon_hook_interaction_title:0 "[recipient.GetShortUINameNoTooltip] is forgiven"
+ abandon_hook_interaction:0 "Abandonar Gancho"
+ abandon_hook_interaction_desc:0 "Desiste do Gancho que você tem com [recipient.GetShortUINameNoTooltip] para aliviar algum [stress|E]."
+ need_non_house_head_hook:0 "Você não pode usar um [hook|e] recebido por ser o [house_head|E]."
+ msg_abandon_hook_interaction_title:0 "[recipient.GetShortUINameNoTooltip] está perdoado"
 
- dismiss_strong_hook_interaction:0 "Dismiss Hook"
- dismiss_strong_hook_interaction_desc:0 "Force [recipient.GetShortUINameNoTooltip] to give up their [hook|E].\nIt will cost you [prestige|E] and you will gain [tyranny|E]."
- dismiss_weak_hook_interaction:0 "Dismiss Hook"
- dismiss_weak_hook_interaction_desc:0 "Force [recipient.GetShortUINameNoTooltip] to give up their [hook|E].\nIt will cost you [prestige|E] and you will gain [tyranny|E]."
- msg_dismiss_hook_interaction_title:0 "Hook dismissed"
+ dismiss_strong_hook_interaction:0 "Dispensar Gancho"
+ dismiss_strong_hook_interaction_desc:0 "Forçar [recipient.GetShortUINameNoTooltip] a desistir do seu [hook|E].\nIsso vai te custar [prestige|E] e será considerado [tyranny|E]."
+ dismiss_weak_hook_interaction:0 "Dispensar Gancho"
+ dismiss_weak_hook_interaction_desc:0 "Forçar [recipient.GetShortUINameNoTooltip] a desistir do seu [hook|E].\nIsso vai te custar [prestige|E] e será considerado [tyranny|E]."
+ msg_dismiss_hook_interaction_title:0 "Gancho Dispensado"
 
  force_duel_criminals_interaction:0 "Punish Criminal"
  force_duel_criminals_interaction_desc:0 "Challenge a [criminal|E] to a [single_combat_duel|E] to enforce their punishment if you win."

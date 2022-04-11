@@ -99,7 +99,7 @@
  END_SCHEME_EFFECT:1 "Ends [SCHEME.GetOwner.GetShortUINamePossessive] Scheme to [SCHEME.GetFullActionName]"
  ENDED_SCHEME_EFFECT:1 "Ended [SCHEME.GetOwner.GetShortUINamePossessive] Scheme to [SCHEME.GetFullActionName]"
  START_SCHEME_EFFECT:2 "Starts a $TYPE$ against [TARGET_CHARACTER.GetShortUIName]"
- STARTED_SCHEME_EFFECT:1 "Started a $TYPE$ against [TARGET_CHARACTER.GetShortUIName]"
+ STARTED_SCHEME_EFFECT:1 "Começou um(a) $TYPE$ contra [TARGET_CHARACTER.GetShortUIName]"
  REMOVE_TERRAIN_MODIFIER_EFFECT:0 "Remove Terrain Modifier $TYPE$"
  ADD_TERRAIN_MODIFIER_EFFECT:0 "Add Terrain Modifier $TYPE$"
  ADD_MORALE_EFFECT_POSITIVE:0 "Gets $VALUE|+$ Morale"

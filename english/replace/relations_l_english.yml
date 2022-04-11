@@ -323,8 +323,8 @@
  ###CharacterIntroduction###
 
  #Perspective specific NoComma
- MyCharacterIntroductionNoComma_my_counciltitle_firstname:0 "my [ROOT.Char.GetCouncilTitle] [ROOT.Char.GetFirstName]"
- MyCharacterIntroductionNoComma_my_relation_titledfirstname:0 "my [second.Custom2('RelationToMe', ROOT.Char)] [ROOT.Char.GetTitledFirstName]"
+ MyCharacterIntroductionNoComma_my_counciltitle_firstname:0 "meu [ROOT.Char.GetCouncilTitle] [ROOT.Char.GetFirstName]"
+ MyCharacterIntroductionNoComma_my_relation_titledfirstname:0 "meu [second.Custom2('RelationToMe', ROOT.Char)] [ROOT.Char.GetTitledFirstName]"
  MyCharacterIntroductionNoComma_the_relation_of_MyCharacterIntroductionNoComma_primaryspouse:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetPrimarySpouse.Custom2('RelationToMe', ROOT.Char)] of [ROOT.Char.GetPrimarySpouse.Custom2('MyCharacterIntroductionNoComma', second)]"
  MyCharacterIntroductionNoComma_the_relation_of_MyCharacterIntroductionNoComma_father:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetFather.Custom2('RelationToMe', ROOT.Char)] of [ROOT.Char.GetFather.Custom2('MyCharacterIntroductionNoComma', second)]"
  MyCharacterIntroductionNoComma_the_relation_of_MyCharacterIntroductionNoComma_mother:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetMother.Custom2('RelationToMe', ROOT.Char)] of [ROOT.Char.GetMother.Custom2('MyCharacterIntroductionNoComma', second)]"
@@ -384,11 +384,11 @@
 
 
  #Relation_to_me with MY
- relation_my:0 "my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('second'))]"
+ relation_my:0 "meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('second'))]"
 
  #Relation_to_me with HER or HIS
- relation_her:0 "her [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('second'))]"
- relation_his:0 "his [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('second'))]"
+ relation_her:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('second'))] dela"
+ relation_his:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('second'))] dele"
 
  #Relation_to_me with FIRST NAME
  relation_first_name:0 "[ROOT.Char.GetFirstNamePossessive] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('second'))]"
@@ -406,25 +406,25 @@
  nemesis:1 "[nemesis|E]"
  mentor:1 "[mentor|E]"
  student:1 "[student|E]"
- intrigue_mentor:0 "#D Intrigue mentor (Hidden)#!"
- intrigue_student:0 "#D Intrigue student (Hidden)#!"
+ intrigue_mentor:0 "#D Mentor de Intriga (Oculto)#!"
+ intrigue_student:0 "#D Estudante de Intriga (Oculto)#!"
  lover:1 "[lover|E]"
  court_physician:2 "[GetCourtPositionType('court_physician_court_position').GetName()]"
  soulmate:1 "[soulmate|E]"
- potential_friend:0 "#D Potential friend (Hidden)#!"
+ potential_friend:0 "#D Potencial Amigo (Oculto)#!"
  guardian:1 "[guardian|E]"
- potential_rival:0 "#D Potential rival (Hidden)#!"
- potential_lover:0 "#D Potential lover (Hidden)#!"
+ potential_rival:0 "#D Potencial Rival (Oculto)#!"
+ potential_lover:0 "#D Potencial Amante (Oculto)#!"
  ward:1 "[ward|E]"
  bully:1 "[bully|E]"
  victim:1 "[victim|E]"
  crush:1 "[crush|E]"
- oaf:0 "#D Oaf (Hidden)#!"
- soldier_friend:0 "#D Soldier-Friend (Hidden)#!"
+ oaf:0 "#D Oaf (Oculto)#!"
+ soldier_friend:0 "#D Soldado-Amigo (Oculto)#!"
 
  #Frame playable
  FRAME_RELATION_ME:1 "#T Este é você#!"
- FRAME_RELATION_MY_HEIR:2 "#T Esté é o seu [player_heir|E]#!"
+ FRAME_RELATION_MY_HEIR:2 "#T Este é o seu [player_heir|E]#!"
 
  #Frame dynasty
  FRAME_RELATION_DYNAST:2 "#T [dynast|E] of your [dynasty|E]\n#!$TT_DYNAST_DESC$"

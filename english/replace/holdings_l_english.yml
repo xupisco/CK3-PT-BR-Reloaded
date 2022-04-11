@@ -3,12 +3,12 @@
  city_holding:0 "City"
  church_holding:1 "Temple"
  tribal_holding:0 "Tribe"
- 
+
  city_holding_concept_key:0 "[city|E]"
  church_holding_concept_key:0 "[temple|E]"
  castle_holding_concept_key:0 "[castle|E]"
  tribal_holding_concept_key:0 "[tribe|E]"
- 
+
  GARRISON_TOOLTIP:1 "#T [garrison|E]: $CURRENT_VALUE|V$/$MAX_VALUE|V$#!"
  BUILDING_VALUE:0 "$BUILDING|V$"
  BUILDING_VALUE_ENTRY:0 "$BUILDING|V$"
@@ -39,8 +39,8 @@
  COUNTY_DEVELOPMENT_LEVY_MOD:1 "From [county_development|E]: $VALUE|=+%0$"
  IGNORED_DEVELOPMENT:0 "#weak $VALUE$#! "
  COUNTY_DEVELOPMENT:0 "$VALUE$"
- SUPPLY_MINIMUM:0 "Minimum Supply"
- 
+ SUPPLY_MINIMUM:0 "Fornecimento Mínimo"
+
  HOLDING_TT_CONSTRUCTING:1 "Constructing [BUILDING.GetName|V] (finishing [DATE.GetString])"
  HOLDING_TT_CONSTRUCTING_HOLDING:0 "Constructing $BUILDING|V$ (finishing [DATE.GetString])"
  HOLDING_TT_UNDER_SIEGE:0 "Under [siege|E] by [CHARACTER.GetPrimaryTitle.GetName]"
@@ -62,4 +62,4 @@
  HOLDING_TT_SUPPLY:0 "[supply_limit|E]: #tooltip:HOLDING_TT_SUPPLY_TT [Holding.GetProvince.GetSupplyLimitFor( GetPlayer )]#!"
  HOLDING_TT_EMPTY:0 "No Holding\nControlled by: [Holding.GetProvince.GetTitle.GetDeJureLiege.GetHolder.GetUIName]"
  HOLDING_CLICK_TOOLTIP:0 "#I Click to select#!"
- 
+

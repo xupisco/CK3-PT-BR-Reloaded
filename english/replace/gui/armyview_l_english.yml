@@ -82,7 +82,7 @@
  ARMY_NUMBER_OF_MAA_NOT_MAX:0 "[men_at_arms|E]: $LIVING|0V$/$MAX_MEN|0V$"
  ARMY_NUMBER_OF_MAA_TOOLTIP:0 "#T [men_at_arms|E]: $LIVING|0V$/$MAX_MEN|0V$#!"
  ARMY_NUMBER_OF_KNIGHTS:1 "[knight_i]$knight_culture_player_plural$: $NUM|0V$"
- ARMY_NUMBER_OF_KNIGHTS_TOOLTIP:1 "#T $knight_culture_player_plural$: [knight_i]$NUM|0V$#!\nEffectiveness: $EFFECTIVENESS|V%0$"
+ ARMY_NUMBER_OF_KNIGHTS_TOOLTIP:1 "#T $knight_culture_player_plural$: [knight_i]$NUM|0V$#!\Efetividade: $EFFECTIVENESS|V%0$"
  ARMY_EVENT_TROOPS_ASSOCIATED_WAR:0 "$COUNT$ [special_troops|E] will stand down when the [WAR.GetName] ends"
  ARMY_ALL_ARMIES_MORE:0 "\nAnd $COUNT$ more"
  ARMY_SUPPLY_COMMANDER_BREAKDOWN:0 "#T [commander|E] [CHARACTER.GetUIName]#!#indent_newline:3 \n[CHARACTER.GetModifierDescription( 'supply_capacity_mult' )]\n[CHARACTER.GetModifierDescription( 'supply_capacity_add' )]#!"

@@ -51,7 +51,7 @@
  feature_wood_decoration_hsb_inlay:0 "The wood is inlaid with [Artifact.GetFeatureText( 'decoration_material_inlay_HSB' )] decorations."
  feature_wood_decoration_painted_pattern:0 "The wood has been painted with [Artifact.GetFeatureText( 'decoration_pattern' )]."
 
- # Thrones 
+ # Thrones
  artifact_throne_charlemagne_name:1 "Throne of Charlemagne"
  artifact_throne_charlemagne_description:0 "A simple yet imposing throne which is free of ornamentation. Constructed from solid marble, the slabs are rumored to be taken from the Church of the Holy Sepulchre in Jerusalem."
  artifact_throne_solomon_name:1 "Throne of Solomon"
@@ -179,7 +179,7 @@
  artifact_animal_hide_big_name:3 "Hide of the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [owner.MakeScope.Var('adventure_artifact_location').Title.GetNameNoTierNoTooltip]"
  artifact_animal_hide_big_description:2 "The tanned hide of [newly_created_artifact.GetFeatureText( 'animal_hide_type' )], hunted in the [location.GetName]. The hide is massive in size and of [SCOPE.Custom('ArtifactQuality')] quality."
  create_artifact_big_hide_tooltip:2 "[inspiration_owner.GetShortUIName] hunted and tanned the massive hide with [SCOPE.Custom('ArtifactQuality')] result"
- 
+
  # Skull
  artifact_wall_skull_name:2 "Skull of the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [owner.MakeScope.Var('adventure_artifact_location').Title.GetNameNoTierNoTooltip]"
  artifact_wall_skull_description:2 "The impressive skull of [newly_created_artifact.GetFeatureText( 'animal_skull_type' )], hunted in the [location.GetName]. The skull is [SCOPE.Custom('ArtifactAdverbQuality')] preserved and attached to a [SCOPE.Custom('ArtifactAdverbWealth')] decorated [newly_created_artifact.GetFeatureText( 'generic_material_wood' )] mount."
@@ -253,7 +253,7 @@
  create_artifact_epic_tooltip:0 "[inspiration_owner.GetShortUIName] has brought the [epic.GetName] from a foreign land"
  create_artifact_adventure_tooltip:0 "[inspiration_owner.GetShortUIName] has brought the [newly_created_artifact.GetName] from a foreign land"
 
- # Pedestal Artifacts: 
+ # Pedestal Artifacts:
  # Box
  artifact_box_small_name:0 "$artifact_name_prefix$ Jewelry Casket"
  artifact_box_medium_name:0 "$artifact_name_prefix$ Ornamental Coffret"
@@ -464,7 +464,7 @@
  feature_book_topic_intrigue_poisons:0 "A small, sinister book with a black-leather cover, containing detailed drawings of plants and step-by-step, [Artifact.GetOwner.Custom('ArtifactAdverbWealth')] illustrated, instructions for preparing a wide selection of poisons."
  feature_book_title_intrigue_seduction:0 "$artifact_name_prefix_artifact_scope$ The Art of Love"
  feature_book_topic_intrigue_seduction:0 "A cheeky booklet full of [Artifact.GetOwner.Custom('ArtifactBookContentQuality')] advice that is granted to have all the ladies and lads fall at your feet!"
- feature_book_title_intrigue_fertility:0 "Wellspring of Life"
+ feature_book_title_intrigue_fertility:0 "Fonte da Vida"
  feature_book_topic_intrigue_fertility:0 "[Artifact.GetOwner.Custom('ArtifactArticleWealth')|U] book full of [Artifact.GetOwner.Custom('ArtifactBookContentQuality')] advice for how to increase your fertility and keep your partner happy in the bedchamber."
  feature_book_title_intrigue_punishment:0 "Crime and Punishment"
  feature_book_topic_intrigue_punishment:0 "An intimidating compendium of all forms of torture known to our age, described in gleeful detail by a true master of the field, [author.GetFirstNameNoTooltip]."
@@ -518,7 +518,7 @@
  feature_book_topic_soulmate:0 "[Artifact.GetOwner.Custom('ArtifactArticleWealth')|U] and colorfully illuminated manuscript [Artifact.GetOwner.Custom('ArtifactAdverbBookContentQuality')] conveying the devotion [Artifact.GetOwner.GetTitledFirstName] feels for [Artifact.GetOwner.MakeScope.Var('book_topic_relationship').Char.GetTitledFirstName] – immortalizing their love."
  feature_book_title_nemesis:0 "The Undying Hatred of [Artifact.GetOwner.GetTitledFirstName]"
  feature_book_topic_nemesis:0 "[Artifact.GetOwner.Custom('ArtifactArticleWealth')|U] manuscript [Artifact.GetOwner.Custom('ArtifactAdverbBookContentQuality')] conveying the hatred [Artifact.GetOwner.GetTitleAsName] feels for [Artifact.GetOwner.MakeScope.Var('book_topic_relationship').Char.GetTitledFirstName] – naming [Artifact.GetOwner.MakeScope.Var('book_topic_relationship').Char.GetHerHim] [Artifact.GetOwner.MakeScope.Var('book_topic_relationship').Char.Custom('InsultAdjectiveArticle')] [Artifact.GetOwner.MakeScope.Var('book_topic_relationship').Char.Custom('InsultNoun')] among many other things. The text is painstakingly illustrated to portray the [Artifact.GetOwner.MakeScope.Var('book_topic_relationship').Char.GetWomanMan] in as many unflattering situations as possible."
- 
+
 # mystical animal
  feature_book_title_mystical_animal:0 "The White [Artifact.GetOwner.Custom('LocalAnimal')|U]"
  feature_book_topic_mystical_animal:1 "[Artifact.GetOwner.Custom('ArtifactArticleWealth')|U] manuscript gathering all local legends about the [Artifact.GetOwner.Custom('LocalAnimalDesc')] white [Artifact.GetOwner.Custom('LocalAnimal')] felled by [Artifact.GetOwner.GetTitledFirstName]. The lettering is [Artifact.GetOwner.Custom('ArtifactBookContentQuality')] and the might of the [Artifact.GetOwner.GetTitleAsNameNoTooltip] unquestionable."
@@ -604,7 +604,7 @@
  feature_book_topic_hunter_nature:0 "[SCOPE.Custom('ArtifactArticleWealth')|U] manuscript flush with detailed illustrations and [SCOPE.Custom('ArtifactBookContentQuality')] insights in the art of hunting and the beauty of the natural world."
  feature_book_topic_mystic_mystic:0 "the uses of incense and chants"
  feature_book_topic_artifact_book_topic_cannibal:0 "the many delicacies hidden in the human body"
- 
+
  feature_book_subject_witch_not_funded:0 "[Artifact.GetOwner.GetFaith.WitchGodName]"
  feature_book_subject_witch_tooltip:0 "[Character.MakeScope.Var('book_subject_witch_scope').Char.GetFaith.WitchGodName]"
  feature_book_subject_witch:0 "[Artifact.GetOwner.MakeScope.Var('book_subject_witch_scope').Char.GetFaith.WitchGodName]"

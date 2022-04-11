@@ -50,8 +50,8 @@
 #Flavor localization for Court Chaplains, sorted by Religion.
 
 #Fallback
- councillor_court_chaplain_theocrat_county:1 "Bispo Supordinado"
- councillor_court_chaplain_theocrat_county_possessive:1 "do Bispo Supordinado"
+ councillor_court_chaplain_theocrat_county:1 "Bispo Subordinado"
+ councillor_court_chaplain_theocrat_county_possessive:1 "do Bispo Subordinado"
  councillor_court_chaplain_theocrat_duchy:1 "Bispo"
  councillor_court_chaplain_theocrat_duchy_possessive:1 "do Bispo"
  councillor_court_chaplain_theocrat_kingdom:1 "Arcebispo"
@@ -62,8 +62,8 @@
  councillor_court_chaplain_theocrat_empire_female_possessive:0 "da Matriarca"
 
 #Christian
- councillor_court_chaplain_christian_county:1 "Bispo Supordinado"
- councillor_court_chaplain_christian_county_possessive:1 "do Bispo Supordinado"
+ councillor_court_chaplain_christian_county:1 "Bispo Subordinado"
+ councillor_court_chaplain_christian_county_possessive:1 "do Bispo Subordinado"
  councillor_court_chaplain_christian_duchy:1 "Bispo"
  councillor_court_chaplain_christian_duchy_possessive:1 "do Bispo"
  councillor_court_chaplain_christian_kingdom:1 "Arcebispo"
@@ -74,8 +74,8 @@
  councillor_court_chaplain_christian_empire_female_possessive:0 "da Matriarca"
 
  #Orthodox
- councillor_court_chaplain_orthodox_county:1 "Bispo Supordinado"
- councillor_court_chaplain_orthodox_county_possessive:1 "do Bispo Supordinado"
+ councillor_court_chaplain_orthodox_county:1 "Bispo Subordinado"
+ councillor_court_chaplain_orthodox_county_possessive:1 "do Bispo Subordinado"
  councillor_court_chaplain_orthodox_duchy:1 "Bispo"
  councillor_court_chaplain_orthodox_duchy_possessive:1 "do Bispo"
  councillor_court_chaplain_orthodox_kingdom:0 "Patriarca"
