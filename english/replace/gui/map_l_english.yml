@@ -60,8 +60,8 @@
  PROVINCE_TOOLTIP_CLICK_TO_GO:1 "\n#I Clique (botão direito) para marchar aqui#!"
  PROVINCE_TOOLTIP_SHIFT_TO_APPEND:0 "#I - Segure o Shift para colocar movimentação na fila#!"
  PROVINCE_TOOLTIP_CTRL_TO_FORCE_GATHERING:0 "#I - Segure o Ctrl para parar @gathering_icon!Reuna e mova imediatamente #!"
- PROVINCE_TOOLTIP_ETA:1 "#I - Predicted arrival: [DATE.GetTimeDiffFromNow] ([DATE.GetStringShortNoYear])#!"
- PROVINCE_TOOLTIP_WINTER:0 "Winter Severity: [PROVINCE.GetWinterSeverityName|V]"
+ PROVINCE_TOOLTIP_ETA:1 "#I - Chegada prevista: [DATE.GetTimeDiffFromNow] ([DATE.GetStringShortNoYear])#!"
+ PROVINCE_TOOLTIP_WINTER:0 "Severidade do Inverno: [PROVINCE.GetWinterSeverityName|V]"
 
  PROVINCE_TOOLTIP_CLICK_TO_RETREAT:0 "\n#I Clique (botão direito) para abandonar a batalha e recuar aqui#!"
  PROVINCE_TOOLTIP_CLICK_CANT_RETREAT:0 "Não é possível se retirar da batalha por mais $DAYS$ dias"

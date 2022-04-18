@@ -1,8 +1,8 @@
 ﻿l_english:
- GOTO_CHARACTER:0 "#T Go to [Character.GetShortUINamePossessiveNoTooltip] location#!\n[Character.GetLocationDesc]"
+ GOTO_CHARACTER:0 "#T Ir para  o local de [Character.GetShortUINameNoTooltip]#!\n[Character.GetLocationDesc]"
  CHARACTER_INTERACTION_ITEM_TOOLTIP_HEADER:0 "$NAME|T$"
- SHOW_MORE_INTERACTIONS_TT:0 "#T Show more [CharacterInteractionCategory.GetDescription]#!"
- PIN_TT:1 "#T [Select_CString( Character.IsPinned, 'Unpin', 'Pin' )]\n#!Keep track of this Character by pinning [Character.GetHerHim] in the Outliner on the right side of the screen"
+ SHOW_MORE_INTERACTIONS_TT:0 "#T Exibir mais [CharacterInteractionCategory.GetDescription]#!"
+ PIN_TT:1 "#T [Select_CString( Character.IsPinned, 'Desafixar', 'Fixar' )]\n#!Acompanhe este personagem fixando [Character.GetHerHim] no seu Outliner no lado direito da tela"
  interaction_category_diplomacy:0 "Diplomacia"
  interaction_category_friendly:0 "Pessoal"
  interaction_category_hostile:0 "Hostil"

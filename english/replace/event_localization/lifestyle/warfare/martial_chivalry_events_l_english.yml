@@ -1,5 +1,5 @@
 ﻿l_english:
- #A practice duel gone terribly wrong, Peter Vilberg 	
+ #A practice duel gone terribly wrong, Peter Vilberg
  martial_chivalry.0001.t:0 "An Unworthy Challenge"
  martial_chivalry.0001.opening:0 "At first I thought the simple footman a fool for stepping onto the training field."
  martial_chivalry.0001.hard_fight:0 "However, the battle proved more hard fought than I expected, and it gradually became clear that [duel_opponent.GetSheHe] would be unable to stop [duel_opponent.GetHerHis] wild and vicious strikes from hurting me!"
@@ -14,13 +14,13 @@
 
 
  #Horse Riding Accident, by Petter Vilberg
- martial_chivalry.0002.t:0 "A Sudden Shock"
- martial_chivalry.0002.desc:0 "I have ridden, taken aim, and struck so many times I thought nothing could upset my rhythm. As I take yet another gallop down the practice range, a commotion I cannot fully see makes my horse rear up.\n\nFor an instant, momentum keeps me pinned to the back of the horse as it starts shaking. Then, as if time is flowing slow, I can feel myself becoming dislodged."
- martial_chivalry.0002.a:0 "Calm down, [ROOT.Char.Custom('RandomGirlBoy')]! Calm down!"
- martial_chivalry.0002.a_success:0 "You manage to stay on"
- martial_chivalry.0002.a_failure:0 "You are thrown off"
- martial_chivalry.0002.increase_horse_mastery:1 "My mastery of horse riding increases, and with it my expertise in the [martial_lifestyle|E]."
- martial_chivalry.0002.b:0 "I dive for stable ground — better safe than sorry!"
+ martial_chivalry.0002.t:0 "Um Choque repentino"
+ martial_chivalry.0002.desc:0 "Já montei, mirei e acertei tantas vezes que pensei que nada poderia perturbar meu ritmo. Enquanto dou mais um galope pela área de treino, uma comoção que não consigo ver completamente faz meu cavalo empinar.\n\nPor um instante, o impulso me mantém preso à parte traseira do cavalo quando ele começa a tremer. Então, como se o tempo estivesse fluindo devagar, posso sentir que estou sendo deslocado."
+ martial_chivalry.0002.a:0 "Acalme-se, [ROOT.Char.Custom('RandomGirlBoy')]! Fique calmo!"
+ martial_chivalry.0002.a_success:0 "Você consegue ficar"
+ martial_chivalry.0002.a_failure:0 "Você é jogado fora"
+ martial_chivalry.0002.increase_horse_mastery:1 "Meu domínio da equitação aumenta e, com ele, minha experiência na [martial_lifestyle|E]."
+ martial_chivalry.0002.b:0 "Eu mergulho para um terreno estável - melhor prevenir do que remediar!"
 
  martial_chivalry.0003.t:0 "In Charge"
  martial_chivalry.0003.desc:0 "I can feel myself being thrown left and right, but no motion can make me loosen my grasp on the reins and the saddle.\n\nMy commands eventually soothe the horse, and the animal is soon back to stomping eagerly on the hard-packed ground, as stable as ever."
@@ -28,9 +28,9 @@
  martial_chivalry.0003.b:0 "I will take personal care to train this one."
  martial_chivalry.0003.a.tt:1 "If nothing else, the incident has taught you a little more about controlling horses."
 
- martial_chivalry.0004.t:0 "Unglamorous Display"
- martial_chivalry.0004.desc:1 "I am thrown to the hard-packed ground, the pain of the impact rushing through every bone in my body.\n\nThe stable boy comes running just a little too late."
- martial_chivalry.0004.a:0 "Damn animal!"
+ martial_chivalry.0004.t:0 "Exibição sem Glamour"
+ martial_chivalry.0004.desc:1 "Eu sou jogado no chão duro, a dor do impacto correndo por todos os ossos do meu corpo.\n\nO cavalariço vem correndo um pouco tarde demais."
+ martial_chivalry.0004.a:0 "Maldito animal!"
 
  martial_chivalry.0005.t:0 ""What a Bad Day for Horse Riding""
  martial_chivalry.0005.desc:1 "The stable boy tries help me to my feet, but I shout at him to stop.\n\nHitting the ground sent bolts of pain through my entire body, and my old wound is aching worse than when it was fresh!"
@@ -53,7 +53,7 @@
  martial_chivalry.0010.b.tt2:1 "You stumble and injure yourself"
 
 
- #Find an old castle, by Linnéa Thimrén 
+ #Find an old castle, by Linnéa Thimrén
  martial_chivalry.1011.t:0 "Rest for the Weary"
  martial_chivalry.1011.desc:0 "Sweaty, tired, and in need of food; a long day of training with the troops is coming to an end.\n\nAs we search for a place to camp we spot an old and abandoned castle in the distance. [ROOT.Char.Custom('quirk_pos_personal_pp')|U], I declare, "That is where we will make our camp tonight."\n\nThe sun is setting, and with every step towards the ruin it looks more ominous. Before long the soldiers are whispering about ghosts."
  martial_chivalry.1011.a:0 "Let us venture inside, I am sure there's treasure to be found!"
@@ -100,11 +100,11 @@
  martial_chivalry.2012.a:0 "I yield! Well fought."
  martial_chivalry.2012.b:0 "Only cowards surrender!"
  martial_chivalry.2012.b.failure.tt:1 "#F You lose the practice duel.#!"
- 
+
  martial_chivalry.2013.t:0 "Bloody Humiliation"
  martial_chivalry.2013.end.desc:0 "Through the use of a dirty trick, [challenger.GetFirstName] gains an early advantage. There is no time to object, nor do I want to act like a bellyacher. But I cannot let it go, and my frustration throws me off balance. I make an ill-advised lunge and my opponent strikes me to the ground."
  martial_chivalry.2013.a:0 "That crooked [challenger.Custom('InsultNoun')]!"
- 
+
  martial_chivalry.2014.t:0 "Against All Odds"
  martial_chivalry.2014.desc:0 "Judging by the exclamations from the crowd, they can hardly believe their eyes as I roll away from [challenger.GetFirstNamePossessive] [challenger.Custom('signature_weapon')] and disarm [challenger.GetHerHim] in one, swift movement. I know it was a dangerous move, but sometimes you have to take great risks to achieve glorious victories."
  martial_chivalry.2014.a:0 "My triumph will not soon be forgotten!"
@@ -205,4 +205,4 @@
  martial_chivalry_special.1604.succcess:0 "Your $master_of_horse_court_position$ has tamed your temperamental horse!"
  martial_chivalry_special.1604.t.2:0 "Horse Untamed"
  martial_chivalry_special.1604.failure:0 "Your $master_of_horse_court_position$ has failed at taming the horse."
- 
+

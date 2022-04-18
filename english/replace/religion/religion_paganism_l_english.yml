@@ -2,11 +2,11 @@
 l_english:
 
  #Generic Pagan/Common Pagan Localization
- paganism_religion:0 "Paganism"
- paganism_religion_adj:0 "Pagan"
- paganism_religion_adherent:0 "Pagan"
- paganism_religion_adherent_plural:0 "Pagans"
- paganism_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
+ paganism_religion:0 "Paganismo"
+ paganism_religion_adj:0 "Pagão"
+ paganism_religion_adherent:0 "Pagão"
+ paganism_religion_adherent_plural:0 "Pagãos"
+ paganism_religion_desc:0 "Comumente definido por uma reverência pela natureza, culto aos ancestrais e uma crença em espíritos, muitas religiões nativas são consideradas várias formas de paganismo."
 
  paganism_high_god_name:0 "Mother Earth"
  paganism_high_god_name_2:0 "$paganism_high_god_name$" # Optional translation alt
@@ -29,7 +29,7 @@ l_english:
  paganism_mother_earth_father_sky:0 "Mother Earth and Father Sky"
  paganism_mother_earth_father_sky_2:0 "$paganism_mother_earth_father_sky$" # Optional translation alt
  paganism_mother_earth_father_sky_3:0 "$paganism_mother_earth_father_sky$" # Optional translation alt
- 
+
 
  paganism_creator_god_name:0 "$paganism_high_god_name$"
  paganism_creator_god_name_possessive:0 "$paganism_high_god_name_possessive$"
@@ -698,7 +698,7 @@ l_english:
  akom_religion_adherent:1 "Akan"
  akom_religion_adherent_plural:1 "Akans"
  akom_religion_desc:0 "The various faiths of the Akan peoples worship the children of the creator and mother Earth."
- 
+
  akom_high_god_name:0 "Nyame"
  akom_high_god_name_2:0 "$akom_high_god_name$" # Optional translation alt
  akom_high_god_name_possessive:0 "Nyame's"
@@ -752,7 +752,7 @@ l_english:
  west_african_orisha_religion_adherent:2 "Yoruba"
  west_african_orisha_religion_adherent_plural:2 "Yoruba"
  west_african_orisha_religion_desc:1 "Though he created the universe, the high god of the Yoruba pantheon remains distant from mortal affairs. Practitioners instead pray to the òrìṣà, innumerable spirits sent by the higher divinities to guide humanity along their chosen path."
- 
+
  yoruba_high_god_name:0 "Ọlọrun"
  yoruba_high_god_name_2:0 "$yoruba_high_god_name$" # Optional translation alt
  yoruba_high_god_name_possessive:0 "Ọlọrun's"
@@ -1058,7 +1058,7 @@ l_english:
  bon_death_deity_possessive_name:0 "$bon_devil_name_possessive$"
  witchgodname_bon_sidpa_gyalmo:0 "Sidpa Gyalmo"
  witchgodname_bon_sidpa_gyalmo_possessive:0 "Sidpa Gyalmo's"
- 
+
  bon_devotee_male:1 "Gelongma"
  bon_devotee_male_plural:1 "Gelongmas"
  bon_devotee_female:0 "$bon_devotee_male$"
@@ -1261,14 +1261,14 @@ l_english:
  hellenic_pagan_old_adj:0 "Old Hellenic"
  hellenic_pagan_old_adherent:0 "Old Hellenist"
  hellenic_pagan_old_adherent_plural:0 "Old Hellenists"
- 
+
  #Siberian shamanism — Ob-Ugric-ish
  siberian_religion:0 "Siberian"
  siberian_religion_adj:0 "Siberian"
  siberian_religion_adherent:0 "Siberian"
  siberian_religion_adherent_plural:0 "Siberians"
  siberian_religion_desc:0 "Siberians believe in a horizontal world where men and beasts all live in clans, linked together through alliance or vengeance. Hunting is a core part of the equilibrium between taking and giving life, and with death all souls travel downstream to reincarnate in the clan they lived in previously."
- 
+
  siberian_high_god_name:1 "Numi-Turum"
  siberian_high_god_name_2:0 "$siberian_high_god_name$" # Optional translation alt
  siberian_high_god_name_possessive:1 "Numi-Turum's"
@@ -1320,7 +1320,7 @@ l_english:
  siberian_night_god_name_possessive:1 "$siberian_fertility_god_name_possessive$"
  siberian_water_god_name:1 "Kassum-Im"
  siberian_water_god_name_possessive:1 "Kassum-Im's"
- 
+
  siberian_priest_male:0 "shaman"
  siberian_priest_male_plural:0 "shamans"
  siberian_priest_female:0 "shamaness"

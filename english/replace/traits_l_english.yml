@@ -72,7 +72,7 @@
  trait_education_martial_prowess_4_desc:0 "O Campeão Famoso é conhecido, respeitado e talvez até temido em todo o reino como um modelo das práticas guerreiras de sua cultura."
  trait_education_martial_prowess_4_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] é conhecido, respeitado e talvez até temido em todo o reino como um modelo das práticas guerreiras de sua cultura."
  trait_education_learning_1:0 "Escrituário Consciente"
- trait_education_learning_1_desc:0 "Apesar de uma educação voltada para o aprendizado, o Escrituário Consciente mostra pouca aptidão para o assunto — pelo menos sabe ler..."
+ trait_education_learning_1_desc:0 "Apesar de uma educação voltada para o aprendizado, o Escriturário Consciente mostra pouca aptidão para o assunto — pelo menos sabe ler..."
  trait_education_learning_1_character_desc:0 "Apesar de uma educação voltada para o aprendizado, [ROOT.GetCharacter.GetFirstNameNoTooltip] mostra pouca aptidão para o assunto — pelo menos sabe ler..."
  trait_education_learning_2:0 "Pensador Perspicaz"
  trait_education_learning_2_desc:0 "O Pensador Perspicaz é adepto da maioria dos assuntos teológicos, mas infelizmente tanto a habilidade quanto dedicação parecem estar faltando."
@@ -656,7 +656,7 @@
  trait_blood_of_prophet_character_desc:0 "Correndo nas veias de [ROOT.GetCharacter.GetFirstNameNoTooltip] está o sangue de um profeta.."
  trait_faith_warrior:0 "Guerreiro da Fé"
  trait_faith_warrior_desc:0 "Este Personagem participou de uma Grande Guerra Santa."
- trait_faith_warrior_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] participou de uma Grande Guerra Santa.
+ trait_faith_warrior_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] participou de uma Grande Guerra Santa.""
  trait_saint:0 "Santo"
  trait_saint_desc:0 "Excepcionalmente santo; o santo é um farol de luz para todos os religiosos."
  trait_saint_character_desc:0 "Excepcionalmente santo; o santo é um farol de luz para todos os religiosos."

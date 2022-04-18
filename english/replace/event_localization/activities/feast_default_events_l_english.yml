@@ -72,7 +72,7 @@
  feast_default.1011.c:0 "[disliked_guest.GetTitledFirstNameNoTooltip], como você pode?!"
 
  feast_default.1012.t:0 "$feast_header$ Líquidos Letais"
- feast_default.1012.desc_opening:0 "My [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('guest_to_murder'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_murder'))] [guest_to_murder.GetTitledFirstNamePossessive] glad acceptance of yet another glass drowns out the splashing of my own drink as I pour it on the floor.\n\nAs [guest_to_murder.GetHerHis] breathing grows labored, and all color leaves [guest_to_murder.GetHerHis] face, I can feel the grin spreading across my own. A small laugh escapes me as [guest_to_murder.GetHerHis] body hits the table."
+ feast_default.1012.desc_opening:0 "Meu [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('guest_to_murder'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_murder'))] [guest_to_murder.GetTitledFirstNamePossessive] glad acceptance of yet another glass drowns out the splashing of my own drink as I pour it on the floor.\n\nAs [guest_to_murder.GetHerHis] breathing grows labored, and all color leaves [guest_to_murder.GetHerHis] face, I can feel the grin spreading across my own. A small laugh escapes me as [guest_to_murder.GetHerHis] body hits the table."
  feast_default.1012.a:1 "A toast to the [guest_to_murder.GetTitleTierName|U], and [guest_to_murder.GetHerHis] thirst for life!"
 
  feast_default.1013.t:0 "$feast_header$ Protector"
