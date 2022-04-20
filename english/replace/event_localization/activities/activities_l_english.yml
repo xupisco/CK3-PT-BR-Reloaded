@@ -26,7 +26,7 @@
  activity_playdate:0 "Conheça Colegas"
  activity_playdate_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Reunião de Colegas"
  activity_playdate_desc:0 "Cada criança de estatura no reino foi convidada a se divertir, conhecer outras de sua idade e brincar!"
- activity_playdate_owner:0 "Anfitrição"
+ activity_playdate_owner:0 "Anfitrião"
 
  activity_adventure_name:0 "Aventura"
  activity_adventure_desc:0 "[ACTIVITY.GetOwner.GetTitledFirstName] está se aventurando na área."

@@ -460,12 +460,12 @@
  MY_ADD_SECRET_PARTICIPANT:1 "Você será adicionado como participante em [SECRET.GetName|V]"
  THEIR_ADD_SECRET_PARTICIPANT:0 "[CHARACTER.GetUIName] será adicionado(a) como participante em [SECRET.GetName|V]"
 
- ADD_TRAIT:1 "Ganha o [trait|E] [TRAIT.GetName( GetNullCharacter )|LV]"
- ADD_MY_TRAIT:2 "Você ganha o [trait|E] [TRAIT.GetName( CHARACTER.Self )|LV]"
- ADD_THEIR_TRAIT:1 "[CHARACTER.GetShortUIName|U] ganha o [trait|E] [TRAIT.GetName( CHARACTER.Self )|LV]"
- ADDED_TRAIT:1 "Ganhou o [trait|E] [TRAIT.GetName( GetNullCharacter )|LV]"
- ADDED_MY_TRAIT:2 "Você ganhou o [trait|E] [TRAIT.GetName( CHARACTER.Self )|LV]"
- ADDED_THEIR_TRAIT:1 "[CHARACTER.GetShortUIName|U] ganhou o [trait|E] [TRAIT.GetName( CHARACTER.Self )|LV]"
+ ADD_TRAIT:1 "Ganha o [trait|E] de [TRAIT.GetName( GetNullCharacter )|LV]"
+ ADD_MY_TRAIT:2 "Você ganha o [trait|E] de [TRAIT.GetName( CHARACTER.Self )|LV]"
+ ADD_THEIR_TRAIT:1 "[CHARACTER.GetShortUIName|U] ganha o [trait|E] de [TRAIT.GetName( CHARACTER.Self )|LV]"
+ ADDED_TRAIT:1 "Ganhou o [trait|E] de [TRAIT.GetName( GetNullCharacter )|LV]"
+ ADDED_MY_TRAIT:2 "Você ganhou o [trait|E] de [TRAIT.GetName( CHARACTER.Self )|LV]"
+ ADDED_THEIR_TRAIT:1 "[CHARACTER.GetShortUIName|U] ganhou o [trait|E] de [TRAIT.GetName( CHARACTER.Self )|LV]"
 
  REMOVE_TRAIT:1 "Perde o [trait|E] [TRAIT.GetName( GetNullCharacter )|LV]"
  REMOVE_MY_TRAIT:2 "Você perde o [trait|E] [TRAIT.GetName( CHARACTER.Self )|LV]"
@@ -497,12 +497,12 @@
  SET_FOCUS_NO_EFFECT:0 "Remover Foco atual"
  SET_FOCUS_EFFECT:0 "Add Focus $FOCUSTYPE|V$"
 
- CHANGE_TRAIT_RANK:0 "Ganha o Traço [TRAIT.GetName( GetNullCharacter )|LV]"
- I_CHANGE_TRAIT_RANK:1 "Você ganha o Traço [TRAIT.GetName( CHARACTER.Self )|L]"
- THEY_CHANGE_TRAIT_RANK:0 "[CHARACTER.GetShortUIName|U] ganha o Traço [TRAIT.GetName( CHARACTER.Self )|L]"
- CHANGED_TRAIT_RANK:0 "Ganhou o Traço [TRAIT.GetName( GetNullCharacter )|L]"
- I_CHANGED_TRAIT_RANK:1 "Você ganhou o Traço [TRAIT.GetName( CHARACTER.Self )|L]"
- THEY_CHANGED_TRAIT_RANK:0 "[CHARACTER.GetShortUIName|U] ganhou o Traço [TRAIT.GetName( CHARACTER.Self )|L]"
+ CHANGE_TRAIT_RANK:0 "Ganha o Traço de [TRAIT.GetName( GetNullCharacter )|LV]"
+ I_CHANGE_TRAIT_RANK:1 "Você ganha o Traço de [TRAIT.GetName( CHARACTER.Self )|L]"
+ THEY_CHANGE_TRAIT_RANK:0 "[CHARACTER.GetShortUIName|U] ganha o Traço de [TRAIT.GetName( CHARACTER.Self )|L]"
+ CHANGED_TRAIT_RANK:0 "Ganhou o Traço de [TRAIT.GetName( GetNullCharacter )|L]"
+ I_CHANGED_TRAIT_RANK:1 "Você ganhou o Traço de [TRAIT.GetName( CHARACTER.Self )|L]"
+ THEY_CHANGED_TRAIT_RANK:0 "[CHARACTER.GetShortUIName|U] ganhou o Traço de [TRAIT.GetName( CHARACTER.Self )|L]"
 
  THEY_STRESS_IMPACT_GAIN:0 "[CHARACTER.GetShortUIName|U] ganha [stress_gain_i]$VALUE|V0$ de [stress|E] $TRAITS$"
  THEY_STRESS_IMPACT_LOSS:0 "[CHARACTER.GetShortUIName|U] perde [stress_loss_i]$VALUE|V0$ de [stress|E] $TRAITS$"
@@ -1580,24 +1580,24 @@
  INCREASED_SEDUCE_SUCCESS_CHANCE_AGAINST_MY_COURTIERS:1 "[GetScheme('seduce').GetTypeName] [scheme|E] [success_chance|E] against own [courtiers|E] and [guests|E]: #P +[EmptyScope.ScriptValue('home_advantage_perk_bonus')|0]%#!"
  INCREASED_SEDUCE_SUCCESS_CHANCE_AGAINST_THEIR_COURTIERS:1 "[GetScheme('seduce').GetTypeName] [scheme|E] [success_chance|E] against own [courtiers|E] and [guests|E]: #P +[EmptyScope.ScriptValue('home_advantage_perk_bonus')|0]%#!"
 
- CAN_NO_LONGER_CRITICALLY_FAIL_SEDUCTION_SCHEMES:2 "Can no longer [critically_fail|E] [GetScheme('seduce').GetTypeName] [schemes|E]"
- I_CAN_NO_LONGER_CRITICALLY_FAIL_SEDUCTION_SCHEMES:3 "You can no longer [critically_fail|E] [GetScheme('seduce').GetTypeName] [schemes|E]"
- THEY_CAN_NO_LONGER_CRITICALLY_FAIL_SEDUCTION_SCHEMES:2 "[CHARACTER.GetShortUIName|U] can no longer [critically_fail|E] [GetScheme('seduce').GetTypeName]  [schemes|E]"
+ CAN_NO_LONGER_CRITICALLY_FAIL_SEDUCTION_SCHEMES:2 "Não pode mais [critically_fail|E] nos [schemes|E] de [GetScheme('seduce').GetTypeName]"
+ I_CAN_NO_LONGER_CRITICALLY_FAIL_SEDUCTION_SCHEMES:3 "Você não pode mais [critically_fail|E] nos [schemes|E] de [GetScheme('seduce').GetTypeName]"
+ THEY_CAN_NO_LONGER_CRITICALLY_FAIL_SEDUCTION_SCHEMES:2 "[CHARACTER.GetShortUIName|U] não pode mais [critically_fail|E] nos [schemes|E] de [GetScheme('seduce').GetTypeName] "
 
- INCREASED_SEDUCE_SUCCESS_CHANCE_25:2 "[GetScheme('seduce').GetTypeName] [scheme|E] [success_chance|E]: #P +[EmptyScope.ScriptValue('smooth_operator_perk_bonus')|0]%#!\nCan learn #V 1#! additional [language|E] without any penalties"
- INCREASED_SEDUCE_SUCCESS_CHANCE_25_YOU:1 "[GetScheme('seduce').GetTypeName] [scheme|E] [success_chance|E]: #P +[EmptyScope.ScriptValue('smooth_operator_perk_bonus')|0]%#!\nYou can learn #V 1#! additional [language|E] without any penalties"
- INCREASED_SEDUCE_SUCCESS_CHANCE_25_THEY:1 "[GetScheme('seduce').GetTypeName] [scheme|E] [success_chance|E]: #P +[EmptyScope.ScriptValue('smooth_operator_perk_bonus')|0]%#!\nThey can learn #V 1#! additional [language|E] without any penalties"
+ INCREASED_SEDUCE_SUCCESS_CHANCE_25:2 "[success_chance|E] do [scheme|E] de [GetScheme('seduce').GetTypeName] : #P +[EmptyScope.ScriptValue('smooth_operator_perk_bonus')|0]%#!\nPode aprender #V 1#! [language|E] adicional sem nenhuma Penalidade"
+ INCREASED_SEDUCE_SUCCESS_CHANCE_25_YOU:1 "[success_chance|E] do [scheme|E] de [GetScheme('seduce').GetTypeName]: #P +[EmptyScope.ScriptValue('smooth_operator_perk_bonus')|0]%#!\nVocê pode aprender #V 1#! [language|E] adicional sem nenhuma Penalidade"
+ INCREASED_SEDUCE_SUCCESS_CHANCE_25_THEY:1 "[success_chance|E] do [scheme|E] de [GetScheme('seduce').GetTypeName]: #P +[EmptyScope.ScriptValue('smooth_operator_perk_bonus')|0]%#!\nEles podem aprender #V 1#! [language|E] adicional sem nenhuma Penalidade"
 
- ESPIONAGE_MAY_FABRICATE_HOOKS:0 "[espionage|E] may also fabricate [hooks|E]"
- ENABLE_FABRICATE_HOOK_SCHEME:1 "Enables the [GetScheme('fabricate_hook').GetTypeName] [scheme|E]"
+ ESPIONAGE_MAY_FABRICATE_HOOKS:0 "[espionage|E] também pode fabricar [hooks|E]"
+ ENABLE_FABRICATE_HOOK_SCHEME:1 "Habilita o [scheme|E] [GetScheme('fabricate_hook').GetTypeName]"
 
- ESPIONAGE_COUNCILLOR_TASK_BONUS_25:0 "[espionage|E] Progress Speed: #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!"
+ ESPIONAGE_COUNCILLOR_TASK_BONUS_25:0 "Velocidade de Progresso da [espionage|E]: #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!"
 
  ENABLE_ABDUCTION_SCHEME:1 "Enables the [GetScheme('abduct').GetTypeName] [scheme|E]"
  I_ENABLE_ABDUCTION_SCHEME:2 "You are able to use the [GetScheme('abduct').GetTypeName] [scheme|E]"
  THEY_ENABLE_ABDUCTION_SCHEME:1 "[CHARACTER.GetShortUIName|U] can use the [GetScheme('abduct').GetTypeName] [scheme|E]"
 
- DISRUPT_SCHEMES_COUNCILLOR_TASK_BONUS_25:0 "[disrupt_schemes|E] Effectiveness: #P +[EmptyScope.ScriptValue('court_of_shadows_perk_percentage')|0]%#!"
+ DISRUPT_SCHEMES_COUNCILLOR_TASK_BONUS_25:0 "Efetividade de [disrupt_schemes|E]: #P +[EmptyScope.ScriptValue('court_of_shadows_perk_percentage')|0]%#!"
 
  ENEMY_HOSTILE_SCHEME_TARGETING_COURTIER_REDUCTION:1 "Enemy [hostile_scheme|E] [success_chance|E] against your [courtiers|E]: #P -[EmptyScope.ScriptValue('prepared_for_anything_perk_secondary_percentage')|0]#!"
 
@@ -1609,19 +1609,19 @@
  I_DO_NOT_LOSE_PIETY_OR_TEMPLE_VASSAL_OPINION_FROM_TORTURE:1 "You do not lose [piety|E] or [clergy|E] [opinion|E] from [torturing|E] or [executing|E] others"
  THEY_DO_NOT_LOSE_PIETY_OR_TEMPLE_VASSAL_OPINION_FROM_TORTURE:0 "[CHARACTER.GetSheHe|U] does not lose [piety|E] or [clergy|E] [opinion|E] from [torturing|E] or [executing|E] others"
 
- INCREASED_IMPRISONMENT_CHANCE_AGAINST_OTHERS:0 "[imprison|E] Chance: #P +50%#!"
+ INCREASED_IMPRISONMENT_CHANCE_AGAINST_OTHERS:0 "Chance de [imprison|E]: #P +50%#!"
 
- COUNCIL_TASK_INCREASE_CONTROL_PROGRESS_INCREASE:0 "[increase_control|E] Progress Gain: #P +[EmptyScope.ScriptValue('strict_organization_percentage')|0]%#!"
+ COUNCIL_TASK_INCREASE_CONTROL_PROGRESS_INCREASE:0 "Ganho de Progresso em [increase_control|E]: #P +[EmptyScope.ScriptValue('strict_organization_percentage')|0]%#!"
 
- COURTING_PERK_SUCCESS_CHANCE_BONUS:2 "[GetScheme('courting').GetTypeName] [success_chance|E]: #P +[EmptyScope.ScriptValue('courtship_court_success_chance_bonus_value')|0]%#!\n[GetScheme('elope').GetTypeName] [success_chance|E]: #P +[EmptyScope.ScriptValue('elope_court_success_chance_bonus_value')|0]%#!"
+ COURTING_PERK_SUCCESS_CHANCE_BONUS:2 "[success_chance|E] do [GetScheme('courting').GetTypeName]: #P +[EmptyScope.ScriptValue('courtship_court_success_chance_bonus_value')|0]%#!\n[success_chance|E] do [GetScheme('elope').GetTypeName]: #P +[EmptyScope.ScriptValue('elope_court_success_chance_bonus_value')|0]%#!"
 
- MARRIAGE_ACCEPTANCE_FOR_SELF_AND_EXTENDED_FAMILY:1 "[marriage|E] Acceptance for self: #P +[EmptyScope.ScriptValue('promising_prospects_self_value')|0]#!\n[marriage|E] Acceptance for [close_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!\n[marriage|E] Acceptance for [extended_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!"
- MARRIAGE_ACCEPTANCE_FOR_ME_AND_MY_EXTENDED_FAMILY:2 "[marriage|E] Acceptance for yourself: #P +[EmptyScope.ScriptValue('promising_prospects_self_value')|0]#!\n[marriage|E] Acceptance for your [close_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!\n[marriage|E] Acceptance for your [extended_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!"
- MARRIAGE_ACCEPTANCE_FOR_THEM_AND_THEIR_EXTENDED_FAMILY:1 "[marriage|E] Acceptance for [CHARACTER.GetHerselfHimself]: #P +[EmptyScope.ScriptValue('promising_prospects_self_value')|0]#!\n[marriage|E] Acceptance for [CHARACTER.GetHerHis] [close_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!\n[marriage|E] Acceptance for [CHARACTER.GetHerHis] [extended_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!"
+ MARRIAGE_ACCEPTANCE_FOR_SELF_AND_EXTENDED_FAMILY:1 "Aceitação do [marriage|E] para você mesmo: #P +[EmptyScope.ScriptValue('promising_prospects_self_value')|0]#!\nAceitação do [marriage|E] para sua [close_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!\nAceitação do [marriage|E] para sua [extended_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!"
+ MARRIAGE_ACCEPTANCE_FOR_ME_AND_MY_EXTENDED_FAMILY:2 "Aceitação do [marriage|E] para você mesmo: #P +[EmptyScope.ScriptValue('promising_prospects_self_value')|0]#!\nAceitação do [marriage|E] para sua [close_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!\nAceitação do [marriage|E] para sua [extended_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!"
+ MARRIAGE_ACCEPTANCE_FOR_THEM_AND_THEIR_EXTENDED_FAMILY:1 "Aceitação do [marriage|E] para [CHARACTER.GetHerselfHimself]: #P +[EmptyScope.ScriptValue('promising_prospects_self_value')|0]#!\nAceitação do [marriage|E] para [CHARACTER.GetHerHis] [close_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!\nAceitação do [marriage|E] para [CHARACTER.GetHerHis] [extended_family|E]: #P +[EmptyScope.ScriptValue('promising_prospects_other_value')|0]#!"
 
- PEACE_OFFER_ACCEPTANCE:0 "[peace|E] Acceptance: #P +[EmptyScope.ScriptValue('peacemaker_value')|0]#!"
+ PEACE_OFFER_ACCEPTANCE:0 "Aceitação de [peace|E]: #P +[EmptyScope.ScriptValue('peacemaker_value')|0]#!"
 
- SEND_GIFT_OPINION_GAIN_DOUBLED:0 "Opinion Gain from $gift_interaction$: #P +100%#!"
+ SEND_GIFT_OPINION_GAIN_DOUBLED:0 "Opinião obtida ao $gift_interaction$: #P +100%#!"
 
  UNLOCK_DUCAL_CONQUEST_CB:0 "Desbloqueie o [ducal_conquest_casus_belli|E]"
  I_AM_ABLE_TO_USE_DUCAL_CONQUEST_CB:1 "Você é capaz de usar o [ducal_conquest_casus_belli|E]"
@@ -1631,7 +1631,7 @@
  I_AM_ABLE_TO_USE_FORCED_VASSALAGE_CB:1 "Você é capaz de usar o [vassalize_casus_belli|E]"
  THEY_ARE_ABLE_TO_USE_THE_FORCED_VASSALAGE_CB:0 "[CHARACTER.GetShortUIName|U] é capaz de usar o [vassalize_casus_belli|E]"
 
- FOREIGN_AFFAIRS_TASK_EFFECTIVENESS:0 "[foreign_affairs|E] Effectiveness: #P +[EmptyScope.ScriptValue('adaptive_traditions_perk_impact_percent')|0]%#!"
+ FOREIGN_AFFAIRS_TASK_EFFECTIVENESS:0 "Efetividade das [foreign_affairs|E]: #P +[EmptyScope.ScriptValue('adaptive_traditions_perk_impact_percent')|0]%#!"
 
  SELECT_GENETIC_TRAIT_FOR_BLOODLINE:0 "Selecione um Traço [congenital|E] para se tornar mais comum na Dinastia:\n$BULLET_WITH_TAB$[GetTrait('beauty_good_1').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('intellect_good_1').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('physique_good_1').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('fecund').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('giant').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('dwarf').GetName( GetNullCharacter )]"
 
@@ -1668,7 +1668,7 @@
 
  EACH_FRIEND_ADDS_RANDOM_SKILL_POINT:3 "Cada um dos seus [friend|E] Relations gives you #P 2#! random [skill|E] points (To the Maximum of [EmptyScope.ScriptValue('friendly_counsel_max')|0])"
 
- EACH_LIVING_CHILD_ADDS_RANDOM_SKILL_POINT:3 "Each living child gives you #P 1#! random [skill|E] point (Maximum of [EmptyScope.ScriptValue('sound_foundations_max')|0])"
+ EACH_LIVING_CHILD_ADDS_RANDOM_SKILL_POINT:3 "Cada criança fornece um [skill|E] #P 1#! ponto aleatório (Máximo de [EmptyScope.ScriptValue('sound_foundations_max')|0])"
 
  OFFER_VASSALIZATION_ACCEPTANCE_INCREASE:0 "Aceitação ao [offer_vassalization|E]: #P +[EmptyScope.ScriptValue('true_ruler_value')|0]#!"
 
@@ -1678,39 +1678,39 @@
 
  CAN_USE_THE_SELL_TITLES_DECISION:0 "Pode usar a [decision|E] de [sell_titles|E]"
 
- COLLECT_TAXES_EFFECTIVENESS_GAIN:0 "[collect_taxes|E] Effectiveness: #P +[EmptyScope.ScriptValue('tax_man_perk_percentage')|0]%#!"
+ COLLECT_TAXES_EFFECTIVENESS_GAIN:0 "Efetividade ao [collect_taxes|E]: #P +[EmptyScope.ScriptValue('tax_man_perk_percentage')|0]%#!"
 
- CHILDREN_HAVE_CHANCE_OF_IMPROVEMENT:0 "[wards|E] can get additional [skills|E], and can become [friends|E] with their [guardian|E]"
- CHILDREN_I_EDUCATE_HAVE_CHANCE_OF_IMPROVEMENT:3 "Your [wards|E] can get additional [skills|E], and can become your [friends|E]\n[GetScheme('learn_language').GetTypeName] [success_chance|E]: #P +25%#!"
+ CHILDREN_HAVE_CHANCE_OF_IMPROVEMENT:0 "[wards|E] pode ganhar [skills|E] adicionais, e ficarem [friends|E] do seu [guardian|E]"
+ CHILDREN_I_EDUCATE_HAVE_CHANCE_OF_IMPROVEMENT:3 "Seus [wards|E] podem ganhar [skills|E] adicionais, e ficarem seus [friends|E]\n[success_chance|E] de [GetScheme('learn_language').GetTypeName]: #P +25%#!"
  CHILDREN_THEY_EDUCATE_HAVE_CHANCE_OF_IMPROVEMENT:0 "[CHARACTER.GetShortUINamePossessive] [wards|E] can get additional [skills|E], and can become [CHARACTER.GetHerHis] [friends|E]"
 
- open_minded_perk_effect:1 "Can learn #V 2#! additional [languages|E] without any penalties"
- my_open_minded_perk_effect:1 "You can learn #V 2#! additional [languages|E] without any penalties"
- their_open_minded_perk_effect:1 "They can learn #V 2#! additional [languages|E] without any penalties"
+ open_minded_perk_effect:1 "Pode aprender #V 2#! [languages|E] adicionais sem nenhuma penalidade"
+ my_open_minded_perk_effect:1 "Você pode aprender #V 2#! [languages|E] adicionais sem nenhuma penalidade"
+ their_open_minded_perk_effect:1 "Eles podem aprender #V 2#! [languages|E] adicionais sem nenhuma penalidade"
 
  CHEAPER_COURT_PHYSICIAN_AND_BETTER_OUTCOMES:2 "A [GetCourtPositionType('court_physician_court_position').GetName()] costs less to hire\n[GetCourtPositionType('court_physician_court_position').GetName()] treatments have better outcomes"
 
- MENTAL_BREAK_SPACING:0 "Time between [mental_breaks|E]: #P +3#! years"
+ MENTAL_BREAK_SPACING:0 "Tempo entre [mental_breaks|E]: #P +3#! years"
 
- UNLOCKS_CELIBACY_DECISIONS:0 "Unlocks the [embrace_celibacy|E] and [abandon_celibacy|E] [decisions|E]"
- I_CAN_USE_CELIBACY_DECISIONS:1 "You can take the [embrace_celibacy|E] and [abandon_celibacy|E] [decisions|E]"
- THEY_CAN_USE_CELIBACY_DECISIONS:0 "[CHARACTER.GetShortUIName|U] can take the [embrace_celibacy|E] and [abandon_celibacy|E] [decisions|E]"
+ UNLOCKS_CELIBACY_DECISIONS:0 "Desbloqueia as [decisions|E] de [embrace_celibacy|E] e [abandon_celibacy|E]"
+ I_CAN_USE_CELIBACY_DECISIONS:1 "Você pode tomar as [decisions|E] de [embrace_celibacy|E] e [abandon_celibacy|E]"
+ THEY_CAN_USE_CELIBACY_DECISIONS:0 "[CHARACTER.GetShortUIName|U] pode tomar as [decisions|E] de [embrace_celibacy|E] e [abandon_celibacy|E]"
 
- RECEIVE_WARNING_OF_NATURAL_DEATH:0 "Receive a warning when [character_death_death|E] of natural causes is 1 year away"
+ RECEIVE_WARNING_OF_NATURAL_DEATH:0 "Receba um aviso quando [character_death_death|E] por causas naturais está a 1 ano de distância"
  I_WILL_RECEIVE_WARNING_OF_NATURAL_DEATH:1 "When [character_death_death|E] of natural causes is #V 1#! year away, you will receive a warning"
  THEY_WILL_RECEIVE_WARNING_OF_NATURAL_DEATH:0 "When [character_death_death|E] of natural causes is #V 1#! year away, [CHARACTER.GetShortUIName] will receive a warning"
 
- CONVERT_COUNTY_NO_NEGATIVE_FERVOR_MODIFIERS:3 "[convert_county|E]: The time it takes to convert a [county|E] is no longer increased if that [faith|E] has higher [fervor|E] than your Faith"
+ CONVERT_COUNTY_NO_NEGATIVE_FERVOR_MODIFIERS:3 "[convert_county|E]: O tempo que leva para converter um [county|E] não é mais aumentado se a [faith|E] tiver [fervor|E] maior que a sua Fé"
 
  REDUCED_DISEASE_FREQUENCY_AT_COURT:0 "Menor chance de contrair [illnesses|E]\nDiminui a chance de um [courtiers|E] contrair [illnesses|E]"
 
- UNLOCKS_COMMISSION_EPIC_DECISION:0 "Unlocks the [commission_epic|E] [decision|E]"
- I_CAN_TAKE_THE_COMMISSION_EPIC_DECISION:1 "You can take the [commission_epic|E] [decision|E]"
- THEY_CAN_TAKE_THE_COMMISSION_EPIC_DECISION:0 "[CHARACTER.GetShortUIName|U] can take the [commission_epic|E] [decision|E]"
+ UNLOCKS_COMMISSION_EPIC_DECISION:0 "Desbloqueia a [decision|E] de [commission_epic|E]"
+ I_CAN_TAKE_THE_COMMISSION_EPIC_DECISION:1 "Você pode tomar a [decision|E] de [commission_epic|E]"
+ THEY_CAN_TAKE_THE_COMMISSION_EPIC_DECISION:0 "[CHARACTER.GetShortUIName|U] pode tomar a [decision|E] de [commission_epic|E]"
 
- UNLOCKS_DEMAND_PAYMENT_INTERACTION:0 "Unlocks the [demand_payment|E] Interaction"
- I_CAN_DEMAND_PAYMENT_FOR_HOOKS:1 "You can [demand_payment|E] for [hooks|E]"
- THEY_CAN_DEMAND_PAYMENT_FOR_HOOKS:0 "[CHARACTER.GetShortUIName|U] can [demand_payment|E] for [hooks|E]"
+ UNLOCKS_DEMAND_PAYMENT_INTERACTION:0 "Desbloqueia a Interação [demand_payment|E]"
+ I_CAN_DEMAND_PAYMENT_FOR_HOOKS:1 "Você pode [demand_payment|E] por [hooks|E]"
+ THEY_CAN_DEMAND_PAYMENT_FOR_HOOKS:0 "[CHARACTER.GetShortUIName|U] pode [demand_payment|E] por [hooks|E]"
 
  UNLOCKS_CLAIM_THRONE_INTERACTION:1 "Unlocks the [GetScheme('claim_throne').GetTypeName] [scheme|E]"
  I_CAN_USE_THE_CLAIM_THRONE_INTERACTION:2 "You can use the [GetScheme('claim_throne').GetTypeName] [scheme|E] against your [liege|E]"
@@ -1767,7 +1767,7 @@
  ALL_DYNASTY_MEMBERS_HAVE_MURDER_SAVE:2 "Major chance to [prevented_murder_prevent|E] one [GetScheme('murder').GetTypeName] [scheme|E] against each [dynasty|E] Member\n[interaction|E] Acceptance from [intimidated_i][intimidated|E] or [terrified_i][cowed|E]: #P +100%#!"
  LEGACY_DYNASTY_MEMBERS_GAIN_BONUS_TROOPS_WHEN_VARANGIAN_ADVENTURING:0 "Receive bonus troops above the cap when [varangian_adventuring|E]\n[dynast_interaction|E]: #V Send to the Varangian Guard#!\n#weak The [dynast] gains the ability to pay [prestige] [prestige_i] in order to send away unlanded adult [dynasty] members to potentially gain [skills] and [traits]#!"
 
- SET_ABSOLUTE_COUNTY_CONTROL:0 "Permito o [absolute_control|E] para [counties|E]"
+ SET_ABSOLUTE_COUNTY_CONTROL:0 "Permite o [absolute_control|E] para [counties|E]"
 
  intrigue_skulduggery_focus_effect:0 "Aceitação do [agent|E]: #P +10#!"
  stewardship_duty_focus_effect:0 "Aceitação do [agent|E] inimigo: #P -5#!"

@@ -8,7 +8,7 @@
  DISBAND_NO_ARMIES:0 "$DISBAND_ALL_ARMIES$\n@warning_icon!#X Nenhum Exército para Debandar#!"
  DISBAND_NO_DISBANDABLE_ARMIES:0 "@warning_icon!#X Nenhum Exército para Debandar#!"
  DISBAND_ALL_CONFIRM_TITLE:0 "Debandar todos os Exércitos"
- DISBAND_ALL_CONFIRM:0 "Todos os [armies|E] Convocados e se Reunindo serão debandados."
+ DISBAND_ALL_CONFIRM:0 "Todos os [armies|E] Convocados serão debandados."
  DISBAND_ALL_CONFIRM_ACCEPT:0 "Debandar Tudo"
  LEVIES_LABEL:1 "[levies|E]"
  LEVIES_MAX:0 "$RAISE_MAX|V$"

@@ -30,7 +30,7 @@
  rivalry.1001.levelheaded:0 "It does not matter whether it's to sabotage my rule or to deliver a smarting insult, [rival.GetSheHe] is always there, waiting."
  rivalry.1001.desc.fallback:0 "It feels as though no matter where I go or what I do, [rival.GetTitledFirstName] manages to let [rival.GetHerHis] presence be known. It is a shadow constantly darkening my every day."
  rivalry.1001.a:1 "Curse you, [rival.GetFirstNameNoTooltip]!"
- 
+
  rivalry.1010.t:0 "Spiteful Acts"
  rivalry.1010.desc:0 "[rival.GetTitledFirstNamePossessive] [rival.Custom('InsultBehavior')] has always bothered me, but"
  rivalry.1010.desc.patient:0 "Even I can only abide so much of [rival.GetTitledFirstNamePossessive] [rival.Custom('InsultBehavior')] before it just becomes too much to handle, and"
@@ -51,10 +51,10 @@
  rivalry.1011.desc.rumors:0 "Outrageous rumors about my [ROOT.GetCharacter.Custom('quirk_neg_noun')] have been circulating all over court. As I walk the halls I am dogged by unkind whispers and cruel snickering. This underhanded tactic is exactly the kind of low behavior I would expect [from_rival.GetTitledFirstName] to stoop to!"
  rivalry.1011.a:0 "I will get back at [from_rival.GetHerHim] for this!"
 
- rivalry.1012.t:0 "Foolish Fancies"
- rivalry.1012.desc.poem:0 "I have just learned that [from_rival.GetTitledFirstName] has written a slanderous poem in an attempt to mock me for my [ROOT.GetCharacter.Custom('quirk_neg_noun')]! However, [from_rival.GetHerHis] poem is so poorly written that everyone has instead been mocking [from_rival.GetFirstName] for wasting good paper on [rival.GetHerHis] drivel!"
- rivalry.1012.desc.rumors:0 "I have just learned that [from_rival.GetTitledFirstName] has been attempting to spread slanderous rumors about the kinds of things I supposedly do behind closed doors. The [from_rival.Custom('quirk_neg_adjective')] wretch must have a very warped view of me, since the rumors were so outlandish and unbelievable that everyone has dismissed them outright. Instead, they are gossiping about how [from_rival.GetFirstName] stooped to such spiteful and petty measures."
- rivalry.1012.a:0 "Serves that wastrel right!"
+ rivalry.1012.t:0 "Fantasias Tolas"
+ rivalry.1012.desc.poem:0 "Acabei de aprender que [from_rival.GetTitledFirstName] escreveu um poema calunioso na tentativa de zombar de mim por minha [ROOT.GetCharacter.Custom('quirk_neg_noun')]! Entretanto, [from_rival.GetHerHis] poema é tão mal escrito que todo mundo está zombando de [from_rival.GetFirstName] por desperdiçar um bom papel em [rival.GetHerHis] bobagem!"
+ rivalry.1012.desc.rumors:0 "Acabei de aprender que [from_rival.GetTitledFirstName] tem tentado espalhar rumores caluniosos sobre o tipo de coisas que supostamente faço a portas fechadas. O [from_rival.Custom('quirk_neg_adjective')] miserável deve ter uma visão muito distorcida de mim, já que os rumores eram tão estranhos e inacreditáveis ​​que todos os descartaram imediatamente. Em vez disso, eles estão fofocando sobre como [from_rival.GetFirstName] inclinou-se para tais medidas maldosas e mesquinhas."
+ rivalry.1012.a:0 "Serve bem para aquele Vagabundo!"
 
  rivalry.1013.t:0 "Rumors Planted"
  rivalry.1013.desc:0 "The scandalous rumors about [rival.GetTitledFirstName] I worked to spread among the court have become the new favorite topic for gossip and speculation. I've heard that [rival.GetTitledFirstName] has become increasingly vexed and frustrated trying to put a stop to them!"
@@ -225,4 +225,4 @@
  rivalry.3004.fallback:0 "\n\n[rival.GetSheHe|U] seems to behave the opposite of how I would in every situation!"
  rivalry.3004.a:0 "Does [rival.GetSheHe] do it only to spite me?!"
 
- 
+

@@ -137,23 +137,23 @@
 
 # Court positions
  action_reactive_advice_court_positions:0 "$open_tutorial_lesson$$ra_court_pos_open_view$"
- action_reactive_advice_court_positions_desc:0 "Open this for an introduction to Court Positions"
+ action_reactive_advice_court_positions_desc:0 "Abra isto para uma introdução às Posições da Corte"
  action_reactive_advice_court_positions_click:0 "$click_to_open_lesson$"
 
- ra_court_pos_open_view:0 "Court Positions"
- ra_court_pos_open_view_desc:0 "[court_positions|E] are assignments and honors you can give to your [courtiers|E] and [vassals|E].\n\nEach gives you a benefit, at the cost of a monthly salary. For example, the [GetCourtPositionType('court_physician_court_position').GetName()] will keep you and your [court|E] healthy."
- ra_court_pos_open_view_trigger:0 "Open the Court Positions tab (highlighted)"
+ ra_court_pos_open_view:0 "Posições na Corte"
+ ra_court_pos_open_view_desc:0 "[court_positions|E] são atribuições e honras que você pode dar ao seus [courtiers|E] e [vassals|E].\n\nCada um lhe dá um benefício, ao custo de um salário mensal. Por exemplo, o [GetCourtPositionType('court_physician_court_position').GetName()] vai manter você e sua [court|E] saudável."
+ ra_court_pos_open_view_trigger:0 "Abra a guia Posições do Tribunal (destacado)"
  ra_court_pos_appointing:0 "$ra_court_pos_open_view$"
- ra_court_pos_appointing_desc:1 "You can appoint new [court_positions|E] by clicking the one of the empty portraits for a vacant Court Position.\n\nA Character with a high [aptitude|E] for the Position will give you a greater bonus.\n\nWhen you appoint a Position to someone, it also affects their [opinion|E] of you.\n\nA Position may be more ceremonial where Aptitude is not as important, and can instead be given to give to dissatisfied [vassal|E]."
+ ra_court_pos_appointing_desc:1 "Você pode nomear novas [court_positions|E] clicando em um dos retratos vazios para uma Posição vago na Corte.\n\nUm Personagem com alta [aptitude|E] para a Posição lhe dará um bônus maior.\n\nQuando você nomeia um cargo para alguém, isso também afeta sua [opinion|E] sobre você.\n\nUma Posição pode ser mais cerimonial onde a Aptidão não é tão importante e pode ser dada para dar a um [vassal|E] insatisfeito."
  ra_court_pos_salary:0 "$ra_court_pos_open_view$"
- ra_court_pos_salary_desc:1 "Each [court_position|E] costs you a monthly salary. Make sure that you do not go into [debt|E] by handing out Court Positions!"
+ ra_court_pos_salary_desc:1 "Cada [court_position|E] custa um salário mensal. Certifique-se de não entrar em [debt|E] distribuindo Posições na Corte!"
 
 # Inventory
  action_reactive_advice_artifact_inventory:0 "$open_tutorial_lesson$$ra_artifact_inventory_general$"
- action_reactive_advice_artifact_inventory_desc:0 "Open this for an introduction to Inventory Artifacts"
+ action_reactive_advice_artifact_inventory_desc:0 "Abra isto para uma introdução aos Artefatos de Inventário"
  action_reactive_advice_artifact_inventory_click:0 "$click_to_open_lesson$"
 
- ra_artifact_inventory_general:0 "Inventory"
+ ra_artifact_inventory_general:0 "Inventário"
  ra_artifact_inventory_general_desc:0 "You have acquired your first [inventory_artifact|E]. These [artifacts|E] are carried on your person and provide various benefits."
  ra_artifact_inventory_open_step:0 "$ra_artifact_inventory_general$"
  ra_artifact_inventory_open_step_desc:0 "[inventory_artifacts|E] are stored in your Inventory, let us open it now."

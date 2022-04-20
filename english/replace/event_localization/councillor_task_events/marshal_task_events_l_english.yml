@@ -3,7 +3,7 @@
  marshal_task.0301.desc:0 "My [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], has been showing off a promising new recruit.\n\n"[commander.GetSheHe|U] may not be of as noble stock as you, my [councillor.Custom2('RelationToMe', ROOT.Char)], but on my name I swear that [commander.GetTitledFirstName] is someone you would want on your side.""
  marshal_task.0301.a:0 "Very well, [commander.GetFirstNameNoTooltip] shall serve me."
  marshal_task.0301.b:0 "Get this dreg out of my [ROOT.Char.Custom('ResidenceBuilding')]!"
- 
+
  marshal_task.0302.opening:0 "[councillor.Custom2('AppropriateGreeting', ROOT.Char)]"
  marshal_task.0302.desc:1 "I have seen [commander.GetTitledFirstName] display a propensity for [commander.Custom('CommanderTraitSkillDescription')]."
  marshal_task.0302.desc.known:0 "It is one of my specialties, and I could teach [commander.GetHerHim] how to best make use of these skills."
@@ -42,7 +42,7 @@
  marshal_task.2001.ending:0 "\n\nMy [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], managed to stop the bleeding, but it will be a while before [commander.GetFirstName] recovers."
  marshal_task.2001.a:0 "They were using real weapons?!"
  marshal_task.2001.notification:0 "Warrior Wounded in Training"
- 
+
  marshal_task.2101.notification:0 "[commander.GetShortUINameNoTooltip] Gained Trait: [commander.Custom('CommanderTraitBeingTaught')]"
  marshal_task.2102.notification:0 "Knight Improved: [commander.GetShortUIName]"
  marshal_task.0302.notification.a:0 "Commander Significantly Improved: [commander.GetShortUIName]"
@@ -70,10 +70,10 @@
  marshal_task.2101.a:0 "Make it so."
  marshal_task.2101.b:0 "[commander.GetFirstName] should focus more on personal combat!"
 
- marshal_task.3001.t:0 "Local Resistance"
- marshal_task.3001.desc:0 "My honored [councillor.Custom2('RelationToMe', ROOT.Char)],\n While my efforts to reorganize the [county.GetName] are progressing apace, not everyone is as convinced of their benefits.\nI seem to have stepped on the toes of several mayors and village elders. Every mayor and village elder, that is."
- marshal_task.3001.a:0 "What have you done, [councillor.GetFirstNameNoTooltip]..."
- marshal_task.3001.notification:0 "Loss of Popular Respect"
+ marshal_task.3001.t:0 "Resistência Local"
+ marshal_task.3001.desc:0 "Meu honrado [councillor.Custom2('RelationToMe', ROOT.Char)],\n Enquanto meus esforços para reorganizar o [county.GetName] estão progredindo rapidamente, nem todos estão tão convencidos de seus benefícios.\nEu pareço ter pisado no calo de vários prefeitos e anciãos da aldeia. Cada prefeito e ancião da aldeia, isto é."
+ marshal_task.3001.a:0 "O que é que você fez, [councillor.GetFirstNameNoTooltip]..."
+ marshal_task.3001.notification:0 "Perda de Respeito Popular"
 
  marshal_task.3002.desc:0 "My honored [councillor.Custom2('RelationToMe', ROOT.Char)]...\n\nIt seems that I have made some errors in judgment. The reforms I have introduced in the [county.GetName] were meant to strengthen your grip on the region, but instead people seem to barely know who their [ROOT.Char.GetTitleTierName] is..."
  marshal_task.3002.a:0 "You made things #EMP even worse?!#!"

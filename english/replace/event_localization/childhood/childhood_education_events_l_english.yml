@@ -1,38 +1,38 @@
 ﻿l_english:
- childhood_education.0004.t:0 "The Fickleness of Youth"
- childhood_education.0004.opening:0 "My ward, [ward.GetTitledFirstName], has changed [ward.GetHerHis] focus of study.\n\n"
- childhood_education.0004.desc1:0 "To think that [ward.GetSheHe] now aspires to delve into the art of [ward.Custom('education_focus_child')], a field of study which I excel at... It warms my heart!"
- childhood_education.0004.desc2:0 "To think that [ward.GetSheHe] would abandon our joint interest for the art of [ROOT.Char.Custom('education_focus')]!"
- childhood_education.0004.desc_fallback:0 "[ward.GetSheHe|U] now pursues knowledge in the art of [ward.Custom('education_focus_child')]."
- childhood_education.0004.a:0 "[ward.GetTitledFirstNameNoTooltip] is now studying [ward.Custom('education_focus_child')]!"
+ childhood_education.0004.t:0 "A Inconstância da Juventude"
+ childhood_education.0004.opening:0 "Meu Aprendiz, [ward.GetTitledFirstName], mudou o Fodo do [ward.GetHerHis] estudo.\n\n"
+ childhood_education.0004.desc1:0 "Pensar que [ward.GetSheHe] agora aspira a mergulhar na arte de [ward.Custom('education_focus_child')], um campo de estudo no qual eu sou excelente... Aquece meu coração!"
+ childhood_education.0004.desc2:0 "Pensar que [ward.GetSheHe] abandonaria nosso interesse comum pela arte de [ROOT.Char.Custom('education_focus')]!"
+ childhood_education.0004.desc_fallback:0 "[ward.GetSheHe|U] agora persegue o conhecimento na arte de [ward.Custom('education_focus_child')]."
+ childhood_education.0004.a:0 "[ward.GetTitledFirstNameNoTooltip] agora está estudando[ward.Custom('education_focus_child')]!"
 
- childhood_education.1011.t:0 "It Is Who I Am"
- childhood_education.1011.desc:0 "[guardian.GetTitledFirstName] has taught me so much about the ways of [guardian.GetHerHis] people— of #EMP our#! people, for not only do I profess to the [guardian.GetFaith.GetAdjective] faith, I see myself as fully [guardian.GetCulture.GetName]."
- childhood_education.1011.a:0 "It is the only way I wish to live."
+ childhood_education.1011.t:0 "É Quem eu Sou"
+ childhood_education.1011.desc:0 "[guardian.GetTitledFirstName] me ensinou muito sobre as formas das [guardian.GetHerHis] pessoas — das #EMP nossas#! pessoas, pois não só professo a Fé [guardian.GetFaith.GetAdjective], Eu me vejo como totalmente um [guardian.GetCulture.GetName]."
+ childhood_education.1011.a:0 "É a única maneira que desejo Viver."
 
- childhood_education.1012.t:0 "A Blessed Day"
- childhood_education.1012.desc:0 "With [ward.GetHerHis] ongoing education in the faith and practices of my people, [ward.GetTitledFirstName] has told me that [ward.GetSheHe] feels like a good, [guardian.GetFaith.GetAdjective] [guardian.GetCulture.GetName]."
- childhood_education.1012.a:0 "At last, [ward.GetSheHe] sees the light!"
+ childhood_education.1012.t:0 "Um Dia Abençoado"
+ childhood_education.1012.desc:0 "Com [ward.GetHerHis] educação permanente na Fé e nas práticas do meu povo, [ward.GetTitledFirstName] me disse que [ward.GetSheHe] parece um(a) bom(a), [guardian.GetCulture.GetName] de [guardian.GetFaith.GetAdjective]."
+ childhood_education.1012.a:0 "Finalmente, [ward.GetSheHe] vê a luz!"
 
- child_culture_and_faith_converted.parent.message:1 "Your [ward.Custom('GetDaughterSon')] [ward.GetTitledFirstNamePossessive] beliefs and culture have changed under the tutelage of [guardian.GetTitledFirstName]"
+ child_culture_and_faith_converted.parent.message:1 "As Crenças E Cultura de seu(ua) [ward.Custom('GetDaughterSon')], [ward.GetTitledFirstName], mudaram sob a Tutela de [guardian.GetTitledFirstName]"
 
- childhood_education.1021.t:0 "In Faith, Truth"
- childhood_education.1021.desc:0 "[guardian.GetTitledFirstNamePossessive] tutelage has taught me much, and I feel I understand the true nature of the world.\n\nHow did I ever doubt that [guardian.GetFaith.GetName] had all the answers?"
- childhood_education.1021.a:0 "I have found my true faith."
+ childhood_education.1021.t:0 "Na Fé, a Verdade"
+ childhood_education.1021.desc:0 "A Tutela de [guardian.GetTitledFirstName] me ensinou muito, e sinto que entendo a verdadeira natureza do mundo.\n\nComo duvidei que [guardian.GetFaith.GetName] tinha todas as respostas?"
+ childhood_education.1021.a:0 "Encontrei minha verdadeira Fé."
 
- childhood_education.1022.t:0 "In Faith, Truth"
- childhood_education.1022.desc:0 "After all my lectures and all my shared wisdom, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('ward'))], [ward.GetTitledFirstName], has finally embraced the true faith.\n\nI always knew [ward.GetSheHe] would make a good little [ROOT.Char.GetFaith.GetAdjective] one day."
- childhood_education.1022.a:1 "[ROOT.Char.GetFaith.KnowledgeGodName] guided my hand."
+ childhood_education.1022.t:0 "Na Fé, a Verdade"
+ childhood_education.1022.desc:0 "Depois de todas as minhas palestras e toda a minha sabedoria compartilhada, meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('ward'))], [ward.GetTitledFirstName], finalmente abraçou a verdadeira Fé.\n\nEu sempre soube que [ward.GetSheHe] seria um(a) bom(a) [ROOT.Char.GetFaith.GetAdjective] algum dia."
+ childhood_education.1022.a:1 "[ROOT.Char.GetFaith.KnowledgeGodName] guiou a minha mão."
 
  child_faith_converted.parent.message:1 "Your [ward.Custom('GetDaughterSon')] [ward.GetTitledFirstNamePossessive] beliefs have changed under the tutelage of [guardian.GetTitledFirstName]"
 
- childhood_education.1031.t:0 "Nature and Nurture"
- childhood_education.1031.desc:0 "I may have been born [ward.GetCulture.GetName], but I cannot deny that I no longer know what that even means. After [guardian.GetTitledFirstNamePossessive] tutelage, I feel [guardian.GetCulture.GetName] through and through."
- childhood_education.1031.a:0 "It is who I am."
+ childhood_education.1031.t:0 "Natureza e Nutrição"
+ childhood_education.1031.desc:0 "Eu posso ter nascido [ward.GetCulture.GetName], mas não posso negar que não sei mais o que isso significa. Depois da Tutela de [guardian.GetTitledFirstName], Eu sinto a(o) [guardian.GetCulture.GetName] por completo."
+ childhood_education.1031.a:0 "É Quem eu Sou."
 
- childhood_education.1032.t:0 "Nature and Nurture"
- childhood_education.1032.desc:0 "After my long tutelage of young [ward.GetTitledFirstName], I was pleased to no end when [ward.GetSheHe] told me that [ward.GetSheHe] considers [ward.GetHerselfHimself] [guardian.GetCulture.GetName]!"
- childhood_education.1032.a:0 "And indeed [ward.GetSheHe] is!"
+ childhood_education.1032.t:0 "Natureza e Nutrição"
+ childhood_education.1032.desc:0 "Após minha longa Tutela do(a) jovem [ward.GetTitledFirstName], Fiquei satisfeito quando [ward.GetSheHe] me disse que se considera um(a) [guardian.GetCulture.GetName]!"
+ childhood_education.1032.a:0 "E realmente [ward.GetSheHe] é!"
 
  child_culture_converted.parent.message:1 "Your [ward.Custom('GetDaughterSon')] [ward.GetTitledFirstNamePossessive] culture has changed under the tutelage of [guardian.GetTitledFirstName]"
 

@@ -36,7 +36,7 @@
  murder_save.0004.t:1 "$murder_save_header$ Accosted"
  murder_save.0004.desc:0 "[target.GetTitledFirstName] is still alive!\n\nMy hired thugs ambushed [target.GetHerHis] retinue as planned, but failed to overpower them! They might have been able to seize the [target.GetTitleTierName] had it not been for that vicious and thrice-damned warhorse [target.GetSheHe] is so proud of!"
  murder_save_failure_warhorse_tt:0 "[target.GetFirstNamePossessiveNoTooltip] warhorse dies from its wounds"
- 
+
  murder_save.1004.opening:0 "I am traveling with my retinue when a shout comes from a copse of trees. "Attack! Go for the [ROOT.Char.GetTitleTierName]!" An ambush!\n\nThese are no mere bandits after my gold, but thugs after my life! However, my trusted [ROOT.Char.Custom('HorseStoryMareStallion')] knows what to do! [ROOT.Char.Custom('HorseStorySheHe')|U] rears and kicks to keep me from their swinging blades as my guards rally to fight them off."
  murder_save.1004.warhorse_dies:0 "\n\nIt is only when the fighting has subsided that [ROOT.Char.Custom('WarhorseStoryName')] buckles underneath me, and I discover [ROOT.Char.Custom('HorseStoryHerHis')] deep wounds. [ROOT.Char.Custom('HorseStorySheHe')|U] truly protected me until the very last..."
  murder_save.1004.a:0 "These thugs were in someone's employment, but whose?"
@@ -87,7 +87,7 @@
  murder_save.0009.b:0 "What has been lost, I can rebuild."
  murder_save.targets_guile_legacy_save_used_up:0 "[target.GetShortUIName|U] cannot be saved by [GetDynastyPerk( 'guile_legacy_5' ).GetName] again"
 
- murder_save.1009.opening:0 "An attempt on my life has been foiled!"
+ murder_save.1009.opening:0 "Um atentado contra minha vida foi frustrado!"
  murder_save.1009.owner_discovered:0 "\n\n[owner.GetTitledFirstName] had laid careful plans, but those did not account for the fact that [owner.GetHerHis] plot was infiltrated by supporters of House [target.GetHouse.GetNameNoTooltip]!"
  murder_save.1009.owner_not_discovered:0 "\n\nThankfully, whoever laid this vicious plot did not account for their scheme to be infiltrated by agents virtuously loyal to House [target.GetHouse.GetNameNoTooltip]!"
  murder_save.1009.end:0 "\n\nThe plot fell apart, even as it was being put into motion, and my life is still safe."
