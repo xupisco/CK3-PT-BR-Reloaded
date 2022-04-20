@@ -3,13 +3,13 @@
  historical_commander_trait.reject.tt:1 "#F You will look elsewhere for inspiration #!"
 
  #Hannibal
- historical_commander_trait.0001.t:0 ""The Enemy of Rome""
- historical_commander_trait.0001.desc:1 "While studying the tactics of ancient generals I was [ROOT.Char.Custom('surprised_reaction')] to learn about the exploits of Hannibal Barca during the Second Punic War:\n\n#F Known as 'The Enemy of Rome', Hannibal's crowning achievement was the Battle of Cannae, where his army of roughly 50,000 outmaneuvered and encircled the larger 86,000 strong Roman army. Surrounded and unable to retreat, only 3,000 Romans survived the massacre.#!"
- historical_commander_trait.0001.a:0 "Like Hannibal, I will annihilate my enemies!"
- historical_commander_trait.0001.b:0 "Hannibal was a true master of Fabian tactics."
- historical_commander_trait.0001.c:0 "Versatility was Hannibal's greatest strength."
- historical_commander_trait.0001.d:0 "Bah! He was a fool, fighting his hopeless war."
- historical_commander_trait.0001.d.good:0 "Brutality is not a trait to be envied, even in war."
+ historical_commander_trait.0001.t:0 ""O Inimigo de Roma""
+ historical_commander_trait.0001.desc:1 "Enquanto estudava as táticas dos antigos generais eu estava [ROOT.Char.Custom('surprised_reaction')] para aprender sobre as façanhas de Hannibal Barca durante a Segunda Guerra Púnica:\n\n#F Conhecido como 'O Inimigo de Roma', a maior conquista de Aníbal foi a Batalha de Canas, onde seu exército de cerca de 50.000 homens superou e cercou o maior exército romano de 86.000 homens. Cercados e incapazes de recuar, apenas 3.000 romanos sobreviveram ao massacre.#!"
+ historical_commander_trait.0001.a:0 "Como Hannibal, vou aniquilar meus inimigos!"
+ historical_commander_trait.0001.b:0 "Hannibal era um verdadeiro mestre das táticas fabianas."
+ historical_commander_trait.0001.c:0 "A versatilidade era a maior força de Hannibal."
+ historical_commander_trait.0001.d:0 "Bah! Ele era um tolo, lutando em sua guerra sem esperança."
+ historical_commander_trait.0001.d.good:0 "A brutalidade não é uma característica a ser invejada, mesmo na Guerra."
  #Caesar
  historical_commander_trait.0002.t:0 "Caesar's Triumph"
  historical_commander_trait.0002.desc:0 "While studying the tactics of ancient generals I was amused to learn about Julius Caesar's exploits during his conquest of Gaul.\n\n#F During his siege of Alesia, Caesar determined that direct assault on the well-fortified city would be too costly. He instead ordered his army build his own fortress which surrounded the entire city, trapping the enemy garrison inside to starve while simultaneously preventing reinforcements from relieving the defenders.#!"

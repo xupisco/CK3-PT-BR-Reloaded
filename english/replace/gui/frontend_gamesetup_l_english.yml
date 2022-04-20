@@ -1,8 +1,8 @@
 ﻿l_english:
- SELECT_CHARACTER_ON_MAP:0 "Choose a Character on the Map."
+ SELECT_CHARACTER_ON_MAP:0 "Escolha um Personagem no mapa."
  PICK_ANY_CHARACTER:4 "Jogue como qualquer Governante em #light_background;bold [GameSetup.GetSelectedBookmark.GetDate.GetYear]#!, ou #bold crie o seu próprio!#!"
- BOOKMARK_DISABLED:0 "This Bookmark is disabled"
- BOOKMARK_NOT_PICKED_CHARACTER:0 "Choose a Character in the Bookmark before starting the game. Or, choose freely by clicking 'Choose any Character'."
+ BOOKMARK_DISABLED:0 "Este Marcador está Desativado"
+ BOOKMARK_NOT_PICKED_CHARACTER:0 "Escolha um Personagem no Marcador antes de iniciar o jogo. Ou escolha livremente clicando em 'Escolher qualquer Personagem'."
  SINGLEPLAYER:0 "Single Player"
 
  GAMESETUP_TUTORIAL_PROMPT_HEADER:1 "Bem-vindo ao Crusader Kings III"

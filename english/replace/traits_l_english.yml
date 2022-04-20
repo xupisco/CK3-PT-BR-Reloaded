@@ -210,7 +210,7 @@
  trait_generous:0 "Generoso"
  trait_generous_desc:0 "Atos de benevolência e caridade não são estranhos a esse Personagem."
  trait_generous_character_desc:0 "Atos de benevolência e caridade não são estranhos para [ROOT.GetCharacter.GetFirstNameNoTooltip]."
- trait_greedy:0 "Ambicioso"
+ trait_greedy:0 "Ganancioso"
  trait_greedy_desc:0 "Este Personagem mantém um aperto firme em sua bolsa e está sempre procurando maneiras de ampliá-la."
  trait_greedy_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] mantém um aperto firme em sua bolsa e está sempre procurando maneiras de ampliá-la."
  trait_diligent:0 "Diligente"

@@ -92,7 +92,7 @@
  NOT_I_AM_IN_CIVIL_WAR:1 "You are #bold not#! in a Civil War"
  THEY_IN_CIVIL_WAR:0 "[CHARACTER.GetUIName] is in a Civil War"
  NOT_THEY_IN_CIVIL_WAR:0 "[CHARACTER.GetUIName] is #bold not#! in a Civil War"
- 
+
  IS_IN_ONGOING_GREAT_HOLY_WAR:0 "Is in an ongoing [great_holy_war|E]"
  NOT_IS_IN_ONGOING_GREAT_HOLY_WAR:0 "Is #bold not#! in an ongoing [great_holy_war|E]"
  I_AM_IN_ONGOING_GREAT_HOLY_WAR:0 "You are in an ongoing [great_holy_war|E]"
@@ -222,7 +222,7 @@
  IS_NOT_COMMANDING_AN_ARMY:0 "Is #bold not#! commanding an army"
  I_AM_NOT_COMMANDING_AN_ARMY:1 "You are #bold not#! commanding an army"
  CHARACTER_IS_NOT_COMMANDING_AN_ARMY:0 "[CHARACTER.GetShortUIName|V] is #bold not#! commanding an army"
- 
+
  IS_IN_AN_ARMY:0 "Is in an army"
  I_AM_IN_AN_ARMY:0 "You are in an army"
  CHARACTER_IS_IN_AN_ARMY:0 "[CHARACTER.GetShortUIName|V] is in an army"
@@ -273,35 +273,35 @@
  THEY_HAVE_COUCILLOR_FOR_SKILL_TRIGGER:0 "[CHARACTER.GetShortUIName|V] has a $SKILL|V$ Councillor"
  NOT_THEY_HAVE_COUCILLOR_FOR_SKILL_TRIGGER:0 "[CHARACTER.GetShortUIName|V] does #bold not#! have a $SKILL|V$ Councillor"
 
- IS_AT_WAR_TRIGGER:0 "Is at [war|E]"
- I_AM_AT_WAR_TRIGGER:1 "You are at [war|E]"
- THEY_ARE_AT_WAR_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is at [war|E]"
- NOT_THEY_ARE_AT_WAR_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is #bold not#! at [war|E]"
+ IS_AT_WAR_TRIGGER:0 "Está em [war|E]"
+ I_AM_AT_WAR_TRIGGER:1 "Você está em [war|E]"
+ THEY_ARE_AT_WAR_TRIGGER:0 "[CHARACTER.GetShortUIName|V] está em [war|E]"
+ NOT_THEY_ARE_AT_WAR_TRIGGER:0 "[CHARACTER.GetShortUIName|V] #bold não#! está em [war|E]"
 
- IS_HOUSE_HEAD:0 "Is a [house_head|E]"
- NOT_IS_HOUSE_HEAD:0 "Is not a [house_head|E]"
- I_AM_HOUSE_HEAD:1 "You are a [house_head|E]"
- NOT_I_AM_HOUSE_HEAD:1 "You are not a [house_head|E]"
- THEY_ARE_HOUSE_HEAD:0 "[CHARACTER.GetShortUIName|V] is a [house_head|E]"
- NOT_THEY_ARE_HOUSE_HEAD:0 "[CHARACTER.GetShortUIName|V] is not a [house_head|E]"
+ IS_HOUSE_HEAD:0 "É o [house_head|E]"
+ NOT_IS_HOUSE_HEAD:0 "Não é o [house_head|E]"
+ I_AM_HOUSE_HEAD:1 "Você é o [house_head|E]"
+ NOT_I_AM_HOUSE_HEAD:1 "Você não é o [house_head|E]"
+ THEY_ARE_HOUSE_HEAD:0 "[CHARACTER.GetShortUIName|V] é o [house_head|E]"
+ NOT_THEY_ARE_HOUSE_HEAD:0 "[CHARACTER.GetShortUIName|V] não é o [house_head|E]"
 
- IS_IN_ACTIVITY_TRIGGER:0 "Is at an [activity|E]"
- I_AM_IN_ACTIVITY_TRIGGER:1 "You are at an [activity|E] already"
- THEY_ARE_IN_ACTIVITY_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is at an [activity|E] already"
+ IS_IN_ACTIVITY_TRIGGER:0 "Está em uma [activity|E]"
+ I_AM_IN_ACTIVITY_TRIGGER:1 "Você está já está em uma [activity|E]"
+ THEY_ARE_IN_ACTIVITY_TRIGGER:0 "[CHARACTER.GetShortUIName|V] já está em uma [activity|E]"
 
  THEY_HAVE_CHARACTER_FLAG_TRIGGER:0 "[CHARACTER.GetShortUIName|V] has the $FLAG|V$ flag"
  NOT_THEY_HAVE_CHARACTER_FLAG_TRIGGER:0 "[CHARACTER.GetShortUIName|V] does #bold not#! have the $FLAG|V$ flag"
 
- I_HAVE_A_HOOK_ON:1 "You have a [hook|E] on [TARGET_CHARACTER.GetShortUIName]"
- I_DO_NOT_HAVE_A_HOOK_ON:1 "You do #bold not#! have a [hook|E] on [TARGET_CHARACTER.GetShortUIName]"
- HAS_A_HOOK_ON:0 "Has a [hook|E] on [TARGET_CHARACTER.GetShortUIName]"
- CHARACTER_HAS_A_HOOK_ON:0 "[CHARACTER.GetShortUIName|U] has a [hook|E] on [TARGET_CHARACTER.GetShortUIName]"
- CHARACTER_DOES_NOT_HAVE_A_HOOK_ON:0 "[CHARACTER.GetShortUIName|U] does #bold not#! have a [hook|E] on [TARGET_CHARACTER.GetShortUIName]"
- DOES_NOT_HAVE_A_HOOK_ON:0 "Does #bold not#! have a [hook|E] on [TARGET_CHARACTER.GetShortUIName]"
+ I_HAVE_A_HOOK_ON:1 "Você tem um [hook|E] em [TARGET_CHARACTER.GetShortUIName]"
+ I_DO_NOT_HAVE_A_HOOK_ON:1 "Você #bold não#! tem um [hook|E] em [TARGET_CHARACTER.GetShortUIName]"
+ HAS_A_HOOK_ON:0 "Tem um [hook|E] em [TARGET_CHARACTER.GetShortUIName]"
+ CHARACTER_HAS_A_HOOK_ON:0 "[CHARACTER.GetShortUIName|U] tem um [hook|E] e [TARGET_CHARACTER.GetShortUIName]"
+ CHARACTER_DOES_NOT_HAVE_A_HOOK_ON:0 "[CHARACTER.GetShortUIName|U] #bold não#! tem um [hook|E] em [TARGET_CHARACTER.GetShortUIName]"
+ DOES_NOT_HAVE_A_HOOK_ON:0 "#bold não#! tem um [hook|E] em [TARGET_CHARACTER.GetShortUIName]"
 
- HAS_HOOK_FROM_SECRET_GLOBAL:0 "Has a [hook|E] based on [SECRET.GetName]"
- HAS_HOOK_FROM_SECRET_FIRST:1 "You have a [hook|E] based on [SECRET.GetName]"
- HAS_HOOK_FROM_SECRET_THIRD:0 "[CHARACTER.GetUIName] has a [hook|E] based on [SECRET.GetName]"
+ HAS_HOOK_FROM_SECRET_GLOBAL:0 "Tem um [hook|E] baseado em [SECRET.GetName]"
+ HAS_HOOK_FROM_SECRET_FIRST:1 "Você tem um [hook|E] baseado em [SECRET.GetName]"
+ HAS_HOOK_FROM_SECRET_THIRD:0 "[CHARACTER.GetUIName] tem um [hook|E] baseado em [SECRET.GetName]"
 
  HAS_REALM_LAW_TRIGGER:0 "Has the Law [LAW.GetName|V]"
  NOT_HAS_REALM_LAW_TRIGGER:0 "Does NOT have the Law [LAW.GetName|V]"
@@ -607,7 +607,7 @@
  IS_NOT_A_GUEST_OF_CHARACTER:0 "Is #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [guest|E]"
  CHARACTER_IS_NOT_A_GUEST_OF_CHARACTER:0 "[CHARACTER.GetShortUIName|U] is #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [guest|E]"
  I_AM_NOT_A_GUEST_OF_CHARACTER:1 "You are #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [guest|E]"
- 
+
  IS_FOREIGN_COURT_OR_POOL_GUEST_TRIGGER:0 "Is either at a foreign court or a guest"
  IS_A_COURTIER_TRIGGER:0 "Is a [courtier|E]"
  IS_A_COURTIER_OF_CHARACTER:0 "Is [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E]"
@@ -651,7 +651,7 @@
  IS_NOT_MARRIED_MATRILINEALLY:0 "Is #bold not#! in a [matrilineal|E] marriage"
  CHARACTER_IS_NOT_MARRIED_MATRILINEALLY:0 "[CHARACTER.GetShortUIName|U] is #bold not#! in a [matrilineal|E] marriage"
  I_AM_NOT_MARRIED_MATRILINEALLY:1 "You are #bold not#! in a [matrilineal|E] marriage"
- 
+
  IS_BETROTHED_PATRILINEALLY:0 "Is in a [patrilineal|E] betrothal"
  CHARACTER_IS_BETROTHED_PATRILINEALLY:0 "[CHARACTER.GetShortUIName|U] is in a [patrilineal|E] betrothal"
  I_AM_BETROTHED_PATRILINEALLY:0 "You are in a [patrilineal|E] betrothal"
@@ -707,28 +707,28 @@
  AGE_IS_NOT_LESS_THAN:0 "Is #bold not#! under $NUM|V0$ years old"
  MY_AGE_IS_NOT_LESS_THAN:0 "You are #bold not#! under $NUM|V0$ years old"
  THEIR_AGE_IS_NOT_LESS_THAN:0 "[CHARACTER.GetShortUIName|U] is #bold not#! under $NUM|V0$ years old"
- 
+
  TARGET_IS_DE_JURE_LIEGE_OR_ABOVE_TRIGGER:0 "[TARGET_CHARACTER.GetShortUIName]"
- 
+
  DREAD_TRIGGER_GLOBAL:0 "Has at least $NUM|V0$ [dread|E]"
  DREAD_TRIGGER_FIRST:0 "You have at least $NUM|V0$ [dread|E]"
  DREAD_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|U] has at least $NUM|V0$ [dread|E]"
  NOT_DREAD_TRIGGER_GLOBAL:1 "Has less than $NUM|E$ [dread|E]"
  NOT_DREAD_TRIGGER_FIRST:1 "You have less than $NUM|E$ [dread|E]"
  NOT_DREAD_TRIGGER_THIRD:1 "[CHARACTER.GetShortUIName|U] has less than $NUM|E$ [dread|E]"
- 
+
  TYRANNY_TRIGGER_GLOBAL:0 "Has at least $NUM|V0$ [tyranny|E]"
  TYRANNY_TRIGGER_FIRST:0 "You have at least $NUM|V0$ [tyranny|E]"
  TYRANNY_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|U] has at least $NUM|V0$ [tyranny|E]"
  NOT_TYRANNY_TRIGGER_GLOBAL:1 "Has less than $NUM|E$ [tyranny|E]"
  NOT_TYRANNY_TRIGGER_FIRST:1 "You have less than $NUM|E$ [tyranny|E]"
  NOT_TYRANNY_TRIGGER_THIRD:1 "[CHARACTER.GetShortUIName|U] has less than $NUM|E$ [tyranny|E]"
- 
+
  WOMENMEN_ARE_ALLOWED_TO_BE_WARRIORS_IN_FAITH:0 "[CHARACTER.GetWomenMen|U] are allowed to be combatants in [TARGET_CHARACTER.GetFaith.GetName]"
  WOMENMEN_ARE_NOT_ALLOWED_TO_BE_WARRIORS_IN_FAITH:0 "[CHARACTER.GetWomenMen|U] are #bold not#! allowed to be combatants in [TARGET_CHARACTER.GetFaith.GetName]"
  WOMENMEN_ARE_ALLOWED_TO_BE_WARRIORS_IN_CULTURE:0 "The [TARGET_CHARACTER.GetCulture.GetName] [culture|E] allows [CHARACTER.GetWomenMen] to be combatants"
  WOMENMEN_ARE_NOT_ALLOWED_TO_BE_WARRIORS_IN_CULTURE:0 "The [TARGET_CHARACTER.GetCulture.GetName] [culture|E] does #bold not#! allow [CHARACTER.GetWomenMen] to be combatants"
- 
+
  #has_imprisonment_reason
  HAS_AN_IMPRISONMENT_REASON_ON_CHARACTER:0 "Has a valid [imprisonment_reason|E] on [TARGET_CHARACTER.GetShortUIName]"
  YOU_HAVE_AN_IMPRISONMENT_REASON_ON_CHARACTER:0 "You have a valid [imprisonment_reason|E] on [TARGET_CHARACTER.GetShortUIName]"
@@ -737,7 +737,7 @@
  YOU_DO_NOT_HAVE_AN_IMPRISONMENT_REASON_ON_CHARACTER:0 "You do #bold not#! have a valid [imprisonment_reason|E] on [TARGET_CHARACTER.GetShortUIName]"
  THEY_DOES_NOT_HAVE_AN_IMPRISONMENT_REASON_ON_CHARACTER:0 "[CHARACTER.GetShortUIName|U] does #bold not#! have a valid [imprisonment_reason|E] on [TARGET_CHARACTER.GetShortUIName]"
  has_imprisonment_reason_no_subject:0 "You have a valid [imprisonment_reason|E] on them"
- 
+
  MISSING_UNIQUE_ANCESTORS_TRIGGER_GLOBAL:0 "Is missing at least $NUM|V0$ unique ancestors"
  MISSING_UNIQUE_ANCESTORS_TRIGGER_FIRST:0 "You are missing at least $NUM|V0$ unique ancestors"
  MISSING_UNIQUE_ANCESTORS_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|U] is missing at least $NUM|V0$ unique ancestors"
@@ -748,7 +748,7 @@
  character_this_equal:1 "Target is [CHARACTER.GetShortUIName]"
  character_scope_equal:1 "Target is [CHARACTER.GetShortUIName]"
  none_this_equal:1 "Target is [CHARACTER.GetShortUIName]"
- 
+
  #completely_controls
  YOU_COMPLETELY_CONTROL_TITLE_DESC:0 "You [completely_control|E] [TARGET_TITLE.GetNameNoTier]"
  YOU_DO_NOT_COMPLETELY_CONTROL_TITLE_DESC:0 "You do #bold not#! [completely_control|E] [TARGET_TITLE.GetNameNoTier]"
@@ -819,7 +819,7 @@
  BELONGS_TO_CULTURE_TRIGGER:0 "Is of the [CHARACTER.Culture.GetName] [culture|E]"
 
  SAME_SEX_AS_CHARACTER_TRIGGER:0 "Is the same sex as [CHARACTER.GetShortUIName|U]"
- 
+
  has_any_secrets_trigger:0 "[CHARACTER.GetShortUIName|U] has any [secrets|E]"
  has_any_nickname_trigger:0 "Has a nickname"
  PRISON_TOTAL_DAYS:0 "Total of days spent in [prison|E]: $DAYS|V$"
@@ -894,8 +894,8 @@
  ANY_COURT_POSITION_EMPLOYER:0 "Any court position employer"
  ANY_COURT_POSITION_HOLDER:0 "Any court position holder"
 
- HAS_ROYAL_COURT:0 "Have a Royal Court"
- NOT_HAS_ROYAL_COURT:0 "Doesn't have a Royal Court"
+ HAS_ROYAL_COURT:0 "Ter uma Corte Real"
+ NOT_HAS_ROYAL_COURT:0 "Não tem uma Corte Real"
  YOU_THEY_HAS_ROYAL_COURT:0 "[CHARACTER.GetShortUIName|U] [LocalPlayerString(CHARACTER, 'have', 'has')] have a Royal Court"
  NOT_YOU_THEY_HAS_ROYAL_COURT:0 "[CHARACTER.GetShortUIName|U] don't have a Royal Court"
  ENGAGED_IN_SINGLE_COMBAT:0 "You are currently in a [single_combat_duel|E]"

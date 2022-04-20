@@ -50,7 +50,7 @@
  action_can_choose_lifestyle_click:0 "#I Clique para escolher um Estilo de Vida#!"
  action_can_spend_perk_point:1 "[perks|E] disponíveis ([actor.GetTotalPerkPoints])"
  action_can_spend_perk_point_label:2 "Você deve desbloquear Vantagens"
- action_can_spend_perk_point_desc:2 "Você pode desbloquear uma [perks|E] do seu [lifestyle|E].\n\n#help Cada Vantagem de Estilo de Vida dá a você um bônus de alguma forma. Eles são desbloqueados à medida que você ganha [experience|E].#!"
+ action_can_spend_perk_point_desc:2 "Você pode desbloquear [perks|E] do seu [lifestyle|E].\n\n#help Cada Vantagem de Estilo de Vida dá a você um bônus de alguma forma. Eles são desbloqueados à medida que você ganha [experience|E].#!"
  action_can_spend_perk_point_click:1 "#I Clique para desbloquear uma nova Vantagem#!"
 
  action_lifestyle_diplo:0 "$action_can_spend_perk_point$"
@@ -416,15 +416,15 @@
  action_heir_in_line_of_succession_for_title_combined_unimportant:0 "$action_in_line_of_succession_for_title_combined_unimportant$"
  action_heir_in_line_of_succession_for_title_unimportant:0 "$action_in_line_of_succession_for_title_unimportant$"
 
- action_low_control_in_county:0 "Low county control in [landed_title.GetNameNoTierNoTooltip]"
- action_low_control_in_county_combined_group_label:1 "Low control in counties"
- action_low_control_in_county_combined_group_name:0 "Low [control|E] in multiple [counties|E]"
- action_low_control_in_county_desc:2 "Your [control|E] of the [landed_title.GetName] is low, reducing the [taxes|e] and [levies|e] that you receive from it.$action_low_control_in_county_HELP$"
- action_low_control_in_county_combined_group_description:2 "Your [control|E] in several [counties|E] is low, reducing the [taxes|E] and [levies|E] that you receive from them. $action_low_control_in_county_HELP$"
+ action_low_control_in_county:0 "Baixo Controle do Condado em [landed_title.GetNameNoTierNoTooltip]"
+ action_low_control_in_county_combined_group_label:1 "Baixo Controle nos Condados"
+ action_low_control_in_county_combined_group_name:0 "Baixo [control|E] em múltiplos [counties|E]"
+ action_low_control_in_county_desc:2 "Seu [control|E] em [landed_title.GetName] está baixo, reduzindo os [taxes|e] e [levies|e] que você recebe dele.$action_low_control_in_county_HELP$"
+ action_low_control_in_county_combined_group_description:2 "Seu [control|E] em vários [counties|E] está baixo, reduzindo os [taxes|E] e [levies|E] que você recebe deles. $action_low_control_in_county_HELP$"
  action_low_control_in_county_label:0 "$action_low_control_in_county$"
  action_low_control_in_county_combined_label:0 "[landed_title.GetNameNoTooltip]"
- action_low_control_in_county_click:1 "#I Clique para exibir o [county|E]# afetado!"
- action_low_control_in_county_HELP:0 "\n\n#help You can assign [marshal|E] to the [increase_control|E] task to increase County Control.#!"
+ action_low_control_in_county_click:1 "#I Clique para exibir o [county|E]#! afetado"
+ action_low_control_in_county_HELP:0 "\n\n#help Você pode atribuir um [marshal|E] para a Tarefa de [increase_control|E] para aumentar o Controle do Condado.#!"
 
 
  action_not_rightful_liege:1 "Not rightful liege of [recipient.GetShortUINameNoTooltip]"

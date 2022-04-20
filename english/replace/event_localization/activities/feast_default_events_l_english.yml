@@ -175,14 +175,14 @@
  feast_default.2002.c:0 "This has [crush_3.GetFirstNameNoTooltip] written all over it."
  feast_default.2002.potential_lover_tt:0 "If you are correct, it will be far easier to make them your [lover|E]"
 
- feast_default.2003.t:0 "$feast_header$ Mutual Spirits"
- feast_default.2003.desc:0 "What started as an ordinary feast became an exceptional one thanks to the presence of [other_guest.GetTitledFirstName]!\n\nWe spoke all evening about all manner of subjects, and as things would have it we seem to have a lot in common! I had such a good time with [other_guest.GetHerHim]."
- feast_default.2003.a:0 "What a good evening!"
+ feast_default.2003.t:0 "$feast_header$ Espíritos Mútuos"
+ feast_default.2003.desc:0 "O que começou como uma festa ordinária tornou-se excepcional graças à presença de [other_guest.GetTitledFirstName]!\n\nConversamos a noite toda sobre todos os tipos de assuntos e, como as coisas querem, parece que temos muito em comum! Eu tive um tempo tão bom com [other_guest.GetHerHim]."
+ feast_default.2003.a:0 "Que boa tarde!"
 
- feast_default.2005.t:0 "$feast_header$ All Over My New [ROOT.Char.Custom('GetClothingArticle')|U]"
- feast_default.2005.desc:0 "We could all tell [drunk.GetTitledFirstName] had too much to drink, even though [drunk.GetSheHe] insisted on showing us how sober [drunk.GetSheHe] was.\n\nSimply rising from [drunk.GetHerHis] seat proved too much for [drunk.GetHerHim], and now I am covered in stinking vomit!"
- feast_default.2005.a:0 ""You ought to be ashamed of yourself, [drunk.GetFirstNameNoTooltip]!""
- feast_default.2005.b:0 ""Ha! What a show you put on!""
+ feast_default.2005.t:0 "$feast_header$ Tudo sobre o meu novo [ROOT.Char.Custom('GetClothingArticle')|U]"
+ feast_default.2005.desc:0 "Todos nós poderíamos dizer que [drunk.GetTitledFirstName] bebeu demais, embora [drunk.GetSheHe] insiste em nos mostrar quão sóbrios está.\n\nSimplesmente subindo em sua cadeira pro o quanto, e agora estou coberto de vômito fedorento!"
+ feast_default.2005.a:0 ""Você deveria ter vergonha de si mesmo(a), [drunk.GetFirstNameNoTooltip]!""
+ feast_default.2005.b:0 ""Ha! Que show você deu!""
 
  feast_default.2006.t:1 "$feast_header$ The Eager [befriending_guest.GetTitleTierName|U]"
  feast_default.2006.desc:0 "As [befriending_guest.Custom2('MyCharacterIntroduction', ROOT.Char )] once more interrupts a conversation with loud laughter, I can no longer deny that [befriending_guest.GetSheHe] is acting strange.\n\n[befriending_guest.GetSheHe|U] never strays far from me, joins me in every conversation, expresses appreciation at everything I say..."

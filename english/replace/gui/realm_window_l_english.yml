@@ -1,16 +1,16 @@
 ﻿l_english:
  REALM_WINDOW_GOVERNMENT:0 "[realm|E]: [Character.GetGovernment.GetRealmName]"
  REALM_WINDOW_GOVERNMENT_TOOLTIP:0 "#T [government|E]: [Character.GetGovernment.GetName] #! \n[Character.GetGovernment.GetRuleInfo][Character.GetGovernment.GetFlagInfo][Character.GetGovernment.GetHoldingInfo]\n#F [Character.GetGovernment.GetDescription]#!"
- REALM_WINDOW_LIEGE_REALM:0 "Vassal Realm in the [Character.GetLiege.GetPrimaryTitle.GetNameNoTooltip|V]"
+ REALM_WINDOW_LIEGE_REALM:0 "Reino Vassalo em [Character.GetLiege.GetPrimaryTitle.GetNameNoTooltip|V]"
 
  RULER:0 "[ruler|E]"
 
  TITLES:0 "[titles|E]"
- DIPLOMACY:0 "Diplomacy"
- MY_REALM:0 "My Realm"
+ DIPLOMACY:0 "Diplomacia"
+ MY_REALM:0 "Meu Reino"
 
  DOMAIN_LIMIT_TOOLTIP_HEADER:0 "#T [domain|E]: [CHARACTER.GetDomainSize]/[CHARACTER.GetDomainLimit] [holdings|E]#!"
- DOMAIN_LIMIT_EXCEEDED_TOOLTIP:0 "@warning_icon!#X Above [domain_limit|E]. Deixe os seus [vassals|E] governar alguns de seus [domain|E]s pela Concessão de Títulos.#!\n"
+ DOMAIN_LIMIT_EXCEEDED_TOOLTIP:0 "@warning_icon!#X Acima do [domain_limit|E]. Deixe os seus [vassals|E] governar alguns de seus [domain|E]s pela Concessão de Títulos.#!\n"
  DOMAIN_LIMIT_GRACE_PERIOD_LIST:1 "[recently_acquired_holdings|E]:\n[CHARACTER.GetDomainLimitGracePeriodHoldings]"
  DOMAIN_LIMIT_GRACE_PERIOD_SINGULAR_LIST:1 "[recently_acquired_holding|E]:\n[CHARACTER.GetDomainLimitGracePeriodHoldings]"
  GRACE_PERIOD_TITLE_ENTRY:0 "- [TITLE.GetName] (expira em [DATE.GetStringShort|V])"
@@ -31,8 +31,8 @@
  STRENGTH_RATIO_LEVEL_4:0 "Muito Inferior"
  MILITARY_STRENGTH_RATIO:0 "[CHARACTER.GetShortUIName|U] tem $VALUE|V%0$ do seu número de Soldados"
  MILITARY_STRENGTH_RATIO_NO_STRENGTH:0 "Não temos soldados"
- REALTIVE_STENGTH_ONE_MAA:1 "Os [men_at_arms|E] deles são na maiorira [MEN_AT_ARMS_TYPE.GetName|L]."
- REALTIVE_STENGTH_TWO_MAA:1 "Os [men_at_arms|E] são na maiorira [MEN_AT_ARMS_TYPE.GetName|L] e [MEN_AT_ARMS_TYPE_2.GetName|L]."
+ REALTIVE_STENGTH_ONE_MAA:1 "Os [men_at_arms|E] deles são na maioria [MEN_AT_ARMS_TYPE.GetName|L]."
+ REALTIVE_STENGTH_TWO_MAA:1 "Os [men_at_arms|E] são na maioria [MEN_AT_ARMS_TYPE.GetName|L] e [MEN_AT_ARMS_TYPE_2.GetName|L]."
  LIST_LEVIES_STRING:1 "@soldier_icon![levies|E]: $CURRENT|0V$/$MAX|0V$ "
  LIST_KNIGHTS_STRING:2 "[knight_i][CHARACTER.Custom( 'KnightCulturePlural' )]: $NUM|0V$ "
  LIST_MAA_STRING:0 "[men_at_arms|E]: $CURRENT|0V$/$MAX|0V$"
@@ -65,7 +65,7 @@
  REALM_WINDOW_SIZE:2 "Tamanho do Reino: [Character.RealmSize|V]"
  REALM_WINDOW_SIZE_TT:3 "#T [realm_size|E]: [Character.RealmSize|V] [counties|E]\n#!Counties in [Character.GetShortUINamePossessive] [domain|E]: [Character.NumberOfDirectlyHeldCounties|V]\nCounties in [vassal|E] Realms: [Subtract_int32(Character.RealmSize, Character.NumberOfDirectlyHeldCounties)|V] "
  DIFFERENT_CULTURE_THAN_LIEGE:0 "Cultura diferente do Soberano"
- DIFFERENT_RELIGION_THAN_LIEGE:0 "Religião diferente do Soberado"
+ DIFFERENT_RELIGION_THAN_LIEGE:0 "Religião diferente do Soberano"
 
  LIEGE_STRENGTH_RATIO:0 "[soldiers|E] totais comparado com o Soberano"
  REALM_OF_CHARACTER:0 "Reino de [CHARACTER.GetUIName]"

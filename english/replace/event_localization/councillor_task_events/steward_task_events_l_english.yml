@@ -1,8 +1,8 @@
 ﻿l_english:
 
  steward_task.0001.t:0 "De Jure County Convinced"
- steward_task.0001.desc:0 "Grave news have reached me today: the people of [county.GetNameNoTier] reclaim their belonging to the more grand and prestigious [councillor_liege.GetPrimaryTitle.GetNameNoTierNoTooltip]!\n\nSwayed by the mellifluous promises of [councillor.GetTitledFirstName] and seduced by the splendor of [councillor_liege.GetTitledFirstNamePossessive] court, they now expect me to simply surrender the county to my meddlesome neighbor!\n\nI should consider my next move carefully. Losing land is never ideal, but the locals will be extremely displeased with me if I don't let them go."
- steward_task.0001.a:0 "I have no choice. I shall concede it."
+ steward_task.0001.desc:0 "Chegaram hoje notícias graves: o povo de [county.GetNameNoTier] reclaim their belonging to the more grand and prestigious [councillor_liege.GetPrimaryTitle.GetNameNoTierNoTooltip]!\n\nSwayed by the mellifluous promises of [councillor.GetTitledFirstName] and seduced by the splendor of [councillor_liege.GetTitledFirstNamePossessive] court, they now expect me to simply surrender the county to my meddlesome neighbor!\n\nI should consider my next move carefully. Losing land is never ideal, but the locals will be extremely displeased with me if I don't let them go."
+ steward_task.0001.a:0 "Eu não tenho escolha. Eu vou conceder."
  steward_task.0001.b:0 "Outrageous! I will not allow it!"
  steward_task.0001.liege_changed:0 "Released to De Jure Liege"
  steward_task.0001.liege_changed.tt:0 "Your liege [ROOT.Char.GetTitledFirstName] has relented to your subjects' protestations and released the [county.GetNameNoTooltip] to its De Jure ruler, your new liege [councillor_liege.GetTitledFirstName]."
@@ -32,13 +32,13 @@
  steward_task.1002.a:0 "We must know of them to tax them, [councillor.GetFirstNameNoTooltip]!"
  steward_task.1002.notification:0 "Useless Census"
 
- steward_task.1003.end:0 "\n\nWith the new fees introduced, many people in the [county.GetName] are refusing to rely on my arbiters to settle disputes!"
- steward_task.1003.a:0 "Are you losing control, [councillor.GetFirstNameNoTooltip]?"
- steward_task.1003.notification:0 "No Sheriffs Appointed"
+ steward_task.1003.end:0 "\n\nCom as novas taxas introduzidas, muitas pessoas em [county.GetName] estão se recusando a confiar em meus árbitros para resolver disputas!"
+ steward_task.1003.a:0 "Você está perdendo o Controle, [councillor.GetFirstNameNoTooltip]?"
+ steward_task.1003.notification:0 "Nenhum Xerife nomeado"
 
- steward_task.1004.end:0 "\n\nWith the new tolls introduced in the [county.GetName], more and more people are turning to smuggling instead of legal trade!"
- steward_task.1004.a:0 "They are practically stealing from the [ROOT.Char.GetTitleTierName]'s pockets!"
- steward_task.1004.notification:0 "Excessive Tariffs"
+ steward_task.1004.end:0 "\n\nCom as novas tarifas introduzidas em [county.GetName], mais e mais pessoas estão se voltando para o contrabando em vez do comércio legal!"
+ steward_task.1004.a:0 "Eles estão praticamente roubando dos bolsos de [ROOT.Char.GetTitleTierName]!"
+ steward_task.1004.notification:0 "Tarifas Excessivas"
 
  steward_task.2001.t:0 "Lack of Workers"
  steward_task.2001.desc:0 "The peasants are complaining about the interference of my [councillor.GetCouncilTitle] in the [county.GetName]! [councillor.GetTitledFirstNamePossessive] diversion of workers from all over the [county.GetTitleTierName] means that other construction projects already under way are rarely finished."
@@ -73,7 +73,7 @@
  steward_task.3002.desc:0 "[councillor.GetTitledFirstName] is facing unexpected troubles in the [county.GetName]. Locals are refusing to cooperate with the new [ROOT.Char.GetCulture.GetName] administration. Complaints come in that the efforts of my [councillor.GetCouncilTitle] are far more disruptive than they are helpful."
  steward_task.3002.a:0 "This is all necessary, I am afraid."
  steward_task.3002.notification:0 "[ROOT.Char.GetCulture] Administration Fails"
- 
+
  steward_task.3101.t:0 "Welcome Administration"
  steward_task.3101.desc:0 "My [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], has been working to establish an administration built on [ROOT.Char.GetCulture.GetName] principles in the [county.GetName].\n\n[councillor.GetHerHis|U] efforts seem to be well-received among the locals, as their lives are becoming both easier and safer."
  steward_task.3101.a:0 "I was right to put my trust in [councillor.GetTitledFirstName]!"

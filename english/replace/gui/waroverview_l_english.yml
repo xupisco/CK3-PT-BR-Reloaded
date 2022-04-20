@@ -13,7 +13,7 @@
  WARSCORE_TOOLTIP_HEADER:0 "#T [war_score|E] total:#! $WARSCORE|0%=+$"
  IMPRISONMENT_WARSCORE_TOOLTIP_HEADER:0 "#T [war_score|E] dos Prisioneiros:#! $WARSCORE|0%=+$"
  BATTLES_WARSCORE_TOOLTIP_HEADER:0 "#T [war_score|E] das [battles|E]:#! $WARSCORE|0%=+$"
- OCCUPATION_WARSCORE_TOOLTIP_HEADER:0 "#T [war_score|E] dos [holdings|E] ocupados:#! $WARSCORE|0%=+$"
+ OCCUPATION_WARSCORE_TOOLTIP_HEADER:0 "#T [war_score|E] das [holdings|E] ocupadas:#! $WARSCORE|0%=+$"
  TICKING_WARSCORE_TOOLTIP_HEADER:0 "#T [war_score|E] dos [objectives|E] obtidos:#! $WARSCORE|0%=+$"
  NO_IMPRISONMENT_WARSCORE:0 "#weak Nenhum prisioneiro importante levado#!"
  NO_BATTLES_WARSCORE:0 "#weak Nenhuma Batalha travada#!"

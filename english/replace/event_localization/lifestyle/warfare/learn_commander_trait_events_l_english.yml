@@ -1,18 +1,18 @@
 ﻿l_english:
  #Random Trait Acquisition Events
  #Choose whether to become aggressive_attacker, unyielding_defender or flexible_leader
- learn_commander_trait.0002.t:0 "A Fine Balance"
- learn_commander_trait.0002.desc:0 "In the heat of combat, decisiveness is often what separates victory from defeat.\n\nWhen the time comes, I know how I will act."
- learn_commander_trait.0002.a:0 "I will strike, and never relent!"
- learn_commander_trait.0002.b:0 "I stand my ground."
- learn_commander_trait.0002.c:0 "I remain alert, acting as the given situation requires."
- 
+ learn_commander_trait.0002.t:0 "Um Bom Equilíbrio"
+ learn_commander_trait.0002.desc:0 "No calor do combate, a determinação é muitas vezes o que separa a vitória da derrota.\n\nQuando chegar a hora, eu sei como vou agir."
+ learn_commander_trait.0002.a:0 "Eu vou atacar, e nunca ceder!"
+ learn_commander_trait.0002.b:0 "Eu mantenho minha posição."
+ learn_commander_trait.0002.c:0 "Permaneço alerta, agindo conforme a situação exige."
+
  #Choose whether to become a Logistician, a Military Engineer, or forder
- learn_commander_trait.0003.t:0 "In Enemy Territory"
- learn_commander_trait.0003.desc:0 "A war is determined by its battles, but battles are determined by their preparations.\n\nBeing caught without plan or direction is a good way to lose."
- learn_commander_trait.0003.a:0 "My armies must always be well-supplied."
- learn_commander_trait.0003.b:0 "No castle will hinder my efforts for long."
- learn_commander_trait.0003.c:0 "Across rivers I strike with the certainty of high tide."
+ learn_commander_trait.0003.t:0 "Em Território Inimigo"
+ learn_commander_trait.0003.desc:0 "Uma guerra é determinada por suas batalhas, mas as batalhas são determinadas por seus preparativos.\n\nSer pego sem plano ou direção é uma boa maneira de perder."
+ learn_commander_trait.0003.a:0 "Meus Exércitos devem estar sempre bem abastecidos."
+ learn_commander_trait.0003.b:0 "Nenhum castelo impedirá meus esforços por muito tempo."
+ learn_commander_trait.0003.c:0 "Atravessando rios, golpeio com a certeza da maré alta."
 
  #Choose whether to become a Reaver or Reckless
  learn_commander_trait.0004.t:0 "The Tide of Battle"

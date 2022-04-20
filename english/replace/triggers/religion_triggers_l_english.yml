@@ -38,9 +38,9 @@
  IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "The [doctrines] of [FAITH.GetName] allows [rulers] to grant [titles] to [CHARACTER.GetWomenMen]"
  NOT_IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "The [doctrines] of [FAITH.GetName] does #bold not#! allow [rulers] to grant [titles] to [TARGET_CHARACTER.GetWomenMen]"
 
- I_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "Your [realm|E] contains at least $VALUE|0V$ [FAITH.GetName] [holy_sites|E] with [FAITH.GetAdjectiveNoTooltip] [holders|E]"
- I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "Your [realm|E] does #bold not#! contain at least $VALUE|0V$ [FAITH.GetName] [holy_sites|E] with [FAITH.GetAdjectiveNoTooltip] [holders|E]"
- 
+ I_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "Seu [realm|E] contém pelo menos $VALUE|0V$ [holy_sites|E] de [FAITH.GetName] com [holders|E] da Fé [FAITH.GetAdjectiveNoTooltip] "
+ I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "Seu [realm|E] #bold não#! contém pelo menos $VALUE|0V$ [holy_sites|E] de [FAITH.GetName] com [holders|E] da Fé [FAITH.GetAdjectiveNoTooltip]"
+
  NOT_RELIGION_TAG_TRIGGER:0 "Your [faith] is #bold not#! part of $RELIGION|V$"
 
  CAN_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName] allows [bastards|E] to be [legitimized|E]"

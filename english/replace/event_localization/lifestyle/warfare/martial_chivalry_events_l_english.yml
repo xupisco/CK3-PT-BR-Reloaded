@@ -1,16 +1,16 @@
 ﻿l_english:
  #A practice duel gone terribly wrong, Peter Vilberg
- martial_chivalry.0001.t:0 "An Unworthy Challenge"
- martial_chivalry.0001.opening:0 "At first I thought the simple footman a fool for stepping onto the training field."
- martial_chivalry.0001.hard_fight:0 "However, the battle proved more hard fought than I expected, and it gradually became clear that [duel_opponent.GetSheHe] would be unable to stop [duel_opponent.GetHerHis] wild and vicious strikes from hurting me!"
- martial_chivalry.0001.easy_fight:0 "\n\nAlthough [duel_opponent.GetTitledFirstName] seemed no threat at first, it quickly became clear that [duel_opponent.GetSheHe] would be unable to stop [duel_opponent.GetHerHis] wild and vicious strikes from hurting me!"
- martial_chivalry.0001.conclusion:0 "Disarming [duel_opponent.GetHerHim] suddenly became a matter of life and death.\n\nI tried not to show my relief when [duel_opponent.GetHerHis] sword finally hit the ground."
- martial_chivalry.0001.a:0 "I could use more people like you!"
- martial_chivalry.0001.a.tt:1 "[duel_opponent.GetTitledFirstName] will hopefully come to serve you well."
- martial_chivalry.0001.b:0 "This peasant — and my soldiers — will get a lecture on honor."
- martial_chivalry.0001.b.tt:1 "Your soldiers would also benefit from an explanation of the rights and wrongs of personal combat."
- martial_chivalry.0001.c:0 "I strike [duel_opponent.GetHerHim] down where [duel_opponent.GetSheHe] stands."
- martial_chivalry.0001.c.tt:0 "Decapitation in a single strike is a sure way of making an impression on the footmen — and the nobles — present."
+ martial_chivalry.0001.t:0 "Um Desafio Indigno"
+ martial_chivalry.0001.opening:0 "A princípio, achei o simples lacaio um tolo por entrar no campo de treinamento."
+ martial_chivalry.0001.hard_fight:0 "No entanto, a batalha provou ser mais dura do que eu esperava, e gradualmente ficou claro que [duel_opponent.GetSheHe] seria incapaz de parar seus ataques selvagens e cruéis de me machucar!"
+ martial_chivalry.0001.easy_fight:0 "\n\nEmbora [duel_opponent.GetTitledFirstName] parecia nenhuma ameaça no início, logo ficou claro que [duel_opponent.GetSheHe] seria incapaz de parar seus ataques selvagens e cruéis de me machucar!"
+ martial_chivalry.0001.conclusion:0 "Desarma-lo de repente se tornou uma questão de vida ou morte.\n\nTentei não mostrar meu alívio quando sua espada finalmente atingiu o chão."
+ martial_chivalry.0001.a:0 "Eu poderia usar mais pessoas como você!"
+ martial_chivalry.0001.a.tt:1 "[duel_opponent.GetTitledFirstName] espero que venha para atendê-lo bem."
+ martial_chivalry.0001.b:0 "Este camponês - e meus soldados - receberão uma palestra sobre honra."
+ martial_chivalry.0001.b.tt:1 "Seus soldados também se beneficiariam de uma explicação sobre os acertos e erros do combate pessoal."
+ martial_chivalry.0001.c:0 "Eu o(a) derrubo ali mesmo onde está"
+ martial_chivalry.0001.c.tt:0 "A decapitação em um único golpe é uma maneira segura de impressionar os lacaios - e os nobres - presentes."
 
 
  #Horse Riding Accident, by Petter Vilberg

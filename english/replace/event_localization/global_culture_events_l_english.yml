@@ -5,14 +5,14 @@
  global_culture.custom.trigger:0 "You do not control at least 80% of all [CHARACTER.GetCulture.GetName] counties"
 
  # Visigoth Split
- global_culture.0002.t:0 "Fate of the Visigoths"
- global_culture.0002.desc:0 "Long ago, our ancestors migrated to the Iberian peninsula and built their first settlements. We have lived here for generations since then, the land shaping us as much as we have shaped the land.\n\nIt is time to ask ourselves, are we still Visigoths? Or are we something new entirely?"
- global_culture.0002.a:0 "The times are changing, and we must change with them."
- global_culture.0002.b:0 "We will not abandon the traditions of our ancestors!"
+ global_culture.0002.t:0 "Destino dos Visigodos"
+ global_culture.0002.desc:0 "Há muito tempo, nossos ancestrais migraram para a Península Ibérica e construíram seus primeiros assentamentos. Vivemos aqui há gerações desde então, a terra nos moldando tanto quanto nós moldamos a terra.\n\nÉ hora de nos perguntarmos, ainda somos visigodos? Ou somos algo inteiramente novo?"
+ global_culture.0002.a:0 "Os tempos estão mudando, e devemos mudar com eles."
+ global_culture.0002.b:0 "Não abandonaremos as tradições de nossos ancestrais!"
 
  global_culture.0005.t:0 "$global_culture.0002.t$"
- global_culture.0005.desc:0 "When the Visigoths first migrated into the Iberian peninsula, they were foreigners in a new and strange land.\n\nThis changed over many generations, as land shaped them as much as they shaped the land itself. Over time the various communities of Visigoths grew distinct and separate from one another.\n\nDespite their shared heritage these new communities — [castilian.GetName], [catalan.GetName], [occitan.GetName], and [andalusian.GetName] — no longer recognize each other as kin."
- global_culture.0005.a:0 "Only time will tell how this impacts the region."
+ global_culture.0005.desc:0 "Quando os visigodos migraram pela primeira vez para a península ibérica, eles eram estrangeiros em uma terra nova e estranha.\n\nIsso mudou ao longo de muitas gerações, pois a terra os moldou tanto quanto moldou a própria terra. Com o tempo, as várias comunidades de visigodos tornaram-se distintas e separadas umas das outras.\n\nApesar de sua herança compartilhada, essas novas comunidades — [castilian.GetName], [catalan.GetName], [occitan.GetName], e [andalusian.GetName] — já não se reconhecem como parentes."
+ global_culture.0005.a:0 "Só o tempo dirá como isso afeta a região."
 
  # Norse Split
  global_culture.0012.t:0 "Fate of the Norsemen"

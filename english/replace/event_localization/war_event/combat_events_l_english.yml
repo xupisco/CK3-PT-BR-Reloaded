@@ -22,11 +22,11 @@
  combat_event.0005.message:0 "Enraged by [enemy_commander.GetHerHis] loss in battle, [enemy_commander.GetTitledFirstName] has sworn revenge upon me!"
 
   # Combatants Taken Prisoner
- combat_event.1002.pow_message.t:0 "Enemy Combatants Captured"
- combat_event.1002.pow_message.desc.single:2 "Your forces captured [primary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)|U]"
- combat_event.1002.pow_message.desc.double:2 "Your forces captured [primary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)|U] and [secondary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)]"
- combat_event.1002.pow_message.desc.multiple:2 "Your forces captured [primary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)|U] and [ROOT.Var('num_other_relevant_captured_combatants').GetValue|V0] others"
- combat_event.1002.pow_message.desc.end:0 "after winning the Battle of [combat_location.GetName]!"
+ combat_event.1002.pow_message.t:0 "Combatentes Inimigos Capturados"
+ combat_event.1002.pow_message.desc.single:2 "Suas forças capturaram [primary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)|U]"
+ combat_event.1002.pow_message.desc.double:2 "Suas forças capturaram [primary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)|U] e [secondary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)]"
+ combat_event.1002.pow_message.desc.multiple:2 "Suas forças capturaram [primary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)|U] e [ROOT.Var('num_other_relevant_captured_combatants').GetValue|V0] outros"
+ combat_event.1002.pow_message.desc.end:0 "após vencer a Batalha de [combat_location.GetName]!"
 
  combat_event.1003.pow_message.t:0 "Allied Combatants Captured"
  combat_event.1003.pow_message.desc.single:1 "[primary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)|U] was taken prisoner"
