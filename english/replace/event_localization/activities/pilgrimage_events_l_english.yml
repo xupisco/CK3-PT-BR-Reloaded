@@ -109,6 +109,7 @@
  pilgrimage.2009.a:0 "Vou resolver isso. Que [ROOT.Char.GetFaith.HighGodNameAlternate] tenha misericórdia."
  pilgrimage.2009.b:0 "É claramente desejo de [ROOT.Char.GetFaith.HighGodName] que eu volte atrás."
 
+
  # Meet a mystic
  pilgrimage.2010.t:0 "$pilgrimage_header$ O Místico"
  pilgrimage.2010.desc:0 "[mystic.GetTitledFirstName] é uma das pessoas estranhas que conheci nesta jornada. ele(a) parece ser um(a) crente firme, mas também expõe a verdadeira natureza de [ROOT.Char.GetFaith.HighGodName] e o que tudo isso significa. À noite, a tenda dele(a) é iluminada pelas velas dentro, e ocasionalmente cânticos estranhos e incensos incomuns fluem da tenda.\n\nEstou totalmente despreparado quando [mystic.GetFirstNameNoTooltip] me convida a entrar."
