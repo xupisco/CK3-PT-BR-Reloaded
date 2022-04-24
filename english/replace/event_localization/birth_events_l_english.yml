@@ -23,8 +23,8 @@
  birth.1001.children.desc:0 "two perfect little children!\n\n"
  birth.1001.same_gender_heir.desc:0 "One day, child, you will carry on my legacy. What name would befit a [ROOT.Char.GetTitleAsNameNoTooltip]?"
  birth.1001.other_gender_heir.desc:0 "One day, child, you will carry on my legacy. What name would befit such a mighty [child.GetLadyLord]?"
- birth.1001.end_fallback.desc:0 "Who will you become, my child, and what shall I call you?"
- birth.1001.twins_heir.desc:0 "My sweet children. One of you will grow up to carry on my legacy, and the other will always remain in [ROOT.Char.GetPlayerHeir.GetHerHis] shadow. I hope you will love each other, come what may."
+ birth.1001.end_fallback.desc:0 "Quem você vai se tornar, meu/minha filho(a), e como devo chamá-lo(a)?"
+ birth.1001.twins_heir.desc:0 "Meus queridos filhos. Um de vocês crescerá para continuar meu legado, e o outro sempre permanecerá em sua sombra. Espero que vocês se amem, aconteça o que acontecer."
  birth.1001.twins.desc:0 "Who will you become, my dears, and what shall I call you?"
  birth.1001.taltos.desc:0 "The [child.Custom('GetBirthOmen')] my [child.Custom('GetDaughterSon')] bears clearly marks [child.GetHerHim] as a [child.Custom('GetTaltosTerm')], chosen by [child.GetFaith.PantheonTerm] to serve a specific calling. While I do not yet know what that calling is, I must still bestow a suitable name upon my child."
  birth.1001.taltos_unfaithful.desc:0 "My [child.Custom('GetDaughterSon')] has a [child.Custom('GetBirthOmen')], which the [child.GetFaith.GetAdjective] [child.Custom('DefaultPriestTitlePlural')] claim marks [child.GetHerHim] for something special. I do not understand, but I must still decide on a name for my [child.Custom('GetDaughterSon')]..."
@@ -50,15 +50,15 @@
  birth.1002.b.tt:0 "The world at large is none the wiser to their true parentage."
  birth.1002.c:0 "I wonder where [real_father.GetFirstNameNoTooltip] is right now..."
 
- birth.1003.loves_mother.desc:1 "Oh, [mother.GetFirstName], you have been so brave! So strong! Words cannot describe my love for you, and now we have"
+ birth.1003.loves_mother.desc:1 "Oh, [mother.GetFirstName], você tem sido tão corajosa! Tão forte! Palavras não podem descrever meu amor por você, e agora temos"
  birth.1003.likes_mother.desc:0 "With a tired yet blissful smile, [mother.GetFirstName] presents me with"
  birth.1003.dislikes_mother.desc:1 "Praise [ROOT.Char.GetFaith.FertilityGodName], [mother.GetFirstNameNoTooltip] has given birth to"
- birth.1003.sondaughter.desc:0 "perfect little [child.Custom('GetDaughterSon')]!\n\n"
- birth.1003.daughters.desc:0 "perfect little girls!\n\n"
- birth.1003.sons.desc:0 "perfect little boys!\n\n"
- birth.1003.children.desc:0 "perfect little children!\n\n"
- birth.1003.a:0 "May you grow to be strong and wise, my [child.Custom('GetDaughterSon')]."
- birth.1003.b:0 "May you grow strong and wise!"
+ birth.1003.sondaughter.desc:0 "pequenino(a) [child.Custom('GetDaughterSon')]!\n\n"
+ birth.1003.daughters.desc:0 "meninas perfeitas!\n\n"
+ birth.1003.sons.desc:0 "meninos perfeitos!\n\n"
+ birth.1003.children.desc:0 "crianças perfeitas!\n\n"
+ birth.1003.a:0 "Que você cresça para ser forte e sábio, meu/minha [child.Custom('GetDaughterSon')]."
+ birth.1003.b:0 "Que você cresça forte e sábio(a)!"
 
  birth.1005.t:0 "Fatherless"
  birth.1005.desc.twin:0 "My beautiful children are resting, unaware of the challenging life they have been born into. The world does not know who their father is, and they might never know themselves."
@@ -220,7 +220,7 @@
 
  birth.9003.desc:0 "I gently pick up the babe from [suggester.GetTitledFirstNamePossessive] arms and look into [child.GetHerHis] perfect little eyes. Who will you become?"
  birth.9003.a:0 "Much better."
- 
+
  birth.9004.t:0 "What's in a Name?"
  birth.9004.desc.me:0 "[ROOT.Char.GetFirstNameNoTooltip].\n\nSuch a drab name, I sometimes think, pondering how it will read to future historians.\n\nYet I am a [ROOT.Char.GetTitleAsNameNoTooltip], and if I wish to be called differently, surely I need only let the world know?"
  birth.9004.desc: "[child.GetFirstNameNoTooltip].\n\nInitially I was fond of the name, but now it seems strange to my ears. What will [child.GetSheHe] think of [child.GetHerHis] name once grown up?\n\nMaybe I should change it to something better?"

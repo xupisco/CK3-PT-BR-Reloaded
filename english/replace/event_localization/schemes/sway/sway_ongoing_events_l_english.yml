@@ -1,10 +1,10 @@
 ﻿l_english:
- sway_ongoing.1001.t:0 "Sway: [target.GetCulture.GetNameNoTooltip] Culture"
+ sway_ongoing.1001.t:0 "Persuadir: Cultura [target.GetCulture.GetNameNoTooltip]"
  sway_ongoing.1001.desc:2 "A commoner of [target.GetCulture.GetNameNoTooltip] heritage has been accosted in the streets of [capital.GetNameNoTooltip] over some minor offense.\n\nBy making a statement in their defense I could perhaps convince [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)], the equally-[target.GetCulture.GetNameNoTooltip] of my good character, but I might risk alienating my [ROOT.Char.GetCulture.GetNameNoTooltip] peers..."
  sway_ongoing.1001.a:1 "The [target.GetCulture.GetCollectiveNounNoTooltip] are good people."
  sway_ongoing.1001.b:1 "[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip] are of superior moral fiber!"
 
- sway_ongoing.1002.t:0 "Sway: Compliments"
+ sway_ongoing.1002.t:0 "Persuadir: Elogios"
  sway_ongoing.1002.desc:0 "To make [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] more susceptible to my attempts at approaching [target.GetHerHim] I can include a compliment in my next missive to [target.GetHerHis] court.\n\nI will be sure to mention [target.GetHerHis]..."
  sway_ongoing.1002.success.tt:0 "At the discretion of [friend.GetTitledFirstNameNoTooltip]:"
  sway_ongoing.1002.b:0 "I will keep it short and professional."
@@ -16,17 +16,17 @@
  sway_ongoing.1004.desc:0 "Our recent correspondence has left much to desire. Please refrain from personal remarks in the future."
  sway_ongoing.1004.a:0 "Oh no..."
 
- sway_ongoing.1005.t:0 "Sway: The Good [target.GetTitleAsNameNoTooltip]"
+ sway_ongoing.1005.t:0 "Persuadir: O bom [target.GetTitleAsNameNoTooltip]"
  sway_ongoing.1005.desc:0 "While hosting lords and ladies from realms near and far, some opportunities to portray [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)], in a good light have presented themselves.\n\n"My [ROOT.Char.GetLadyLord], pray tell, who is the most [target.Custom('FormalComplimentAdjective')] person you have heard of?""
  sway_ongoing.1005.a:0 "[target.GetTitledFirstNameNoTooltip], without a doubt!"
  sway_ongoing.1005.b:0 "Well, me, of course!"
 
- sway_ongoing.1006.t:0 "Sway: Infiltrators"
+ sway_ongoing.1006.t:0 "Persuadir: Infiltrados"
  sway_ongoing.1006.desc:0 "It has come to my attention that some local commoners are moving to [capital.GetNameNoTooltip], the capital of [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)].\n\nLocals, newly settled or not, praising me can surely do no harm to [target.GetHerHis] perception of me..."
  sway_ongoing.1006.a:0 ""Take this gold, and make sure you're heard.""
  sway_ongoing.1006.b:0 "It is not worth it."
 
- sway_ongoing.5001.t:0 "Sway: Getting Personal"
+ sway_ongoing.5001.t:0 "Persuadir: Ficando Pessoal"
  sway_ongoing.5001.desc:0 "In our recent communication [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] expressed a want to focus on [target.GetHerHis] ambitions and interests more.\n\nI #EMP could#! make sure that our coming letters contain more on a topic close to [target.GetHerHis] heart..."
  sway_ongoing.5001.diplomacy_lifestyle:0 "I think [target.GetSheHe] likes to focus on diplomatic matters."
  sway_ongoing.5001.martial_lifestyle:0 "I have heard that [target.GetSheHe] appreciates feats of war."
@@ -36,7 +36,7 @@
  sway_ongoing.5001.a.tt:0 "I will subtly include this topic in coming letters"
  sway_ongoing.5001.b:0 "It is not my place."
 
- sway_ongoing.5002.t:0 "Getting Personal"
+ sway_ongoing.5002.t:0 "Ficando Pessoal"
  sway_ongoing.5002.desc_opening:0 "In our latest correspondence [owner.Custom2('MyCharacterIntroductionNoComma', target)] made a mention in passing about"
  sway_ongoing.5002.desc_diplomacy:0 "a recent conversation [owner.GetSheHe] had"
  sway_ongoing.5002.desc_martial:0 "the state of [owner.GetHerHis] troops"
@@ -87,7 +87,7 @@
  sway_ongoing.5010.desc_target_discovered:0 "In recent correspondence [owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] has expressed clear suspicion about my actual level of knowledge regarding [owner.Custom('LifestyleFocusTopic')].\n\nAs I read their latest letter I realize my ruse is uncovered — [owner.GetSheHe] goes on and on about "a clear lack of understanding" and "a shameful display of foolishness.""
  sway_ongoing.5010.desc_owner_discovered:0 "In recent correspondence [owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] has shown a shameful lack of understanding of [owner.Custom('LifestyleFocusTopic')].\n\nAnd if even I know that [owner.GetSheHe] is spouting nonsense, then it is #EMP bad!#!"
 
- sway_ongoing.5011.t:0 "Sway: The Visit"
+ sway_ongoing.5011.t:0 "Persuadir: A Visita"
  sway_ongoing.5011.desc_opening:0 "I am passing through [capital.GetNameNoTooltip], the capital of [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)], when I receive an invitation to visit [target.GetHerHis] [target.Custom('ResidenceBuilding')].\n\nAs I arrive"
  sway_ongoing.5011.desc_friendly:0 "[target.GetSheHe] welcomes me with open arms"
  sway_ongoing.5011.desc_dislike:0 "[target.GetSheHe] welcomes me with a frown"

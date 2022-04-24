@@ -30,7 +30,7 @@
  start_spying:0 "Espionar #weak (Esquema)#!"
  start_murder_interaction:0 "Assassinar #weak (Esquema)#!"
  start_murder_interaction_notification:0 "Assassinar"
- start_abduct:0 "Abduzir #weak (Esquema)#!"
+ start_abduct:0 "Raptar #weak (Esquema)#!"
  start_abduct_notification:0 "Abduzir"
  abduct_own_children_block:0 "Você não tem um Traço que permita usar [hostile_schemes|E] contra seus próprios filhos #weak (Como [GetTrait('sadistic').GetName(GetNullCharacter)])#!"
  break_up_with_lover_interaction:0 "Romper com o Amante"

@@ -44,18 +44,18 @@
  coming_of_age.0001.tt.7:1 "You won't forget [victim.GetTitledFirstNameNoTooltip] anytime soon: #N -5 opinion#!"
  coming_of_age.0001.tt.9:1 "You won't forget [bully.GetTitledFirstNameNoTooltip] anytime soon: #N -10 opinion#!"
 
- coming_of_age.1001.t:0 "[educated_child.GetFirstNameNoTooltip] Comes of Age"
- coming_of_age.1001.desc_university:0 "With [educated_child.GetHerHis] coming of age, the time [educated_child.GetFirstName] will be spending at the University is at an end.\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')] [educated_child.Custom('DescribingEducationOutcome')]"
- coming_of_age.1001.desc:0 "With [educated_child.GetHerHis] coming of age, my tuition of [educated_child.GetFirstName] is at an end.\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')] [educated_child.Custom('DescribingEducationOutcome')]"
+ coming_of_age.1001.t:0 "[educated_child.GetFirstNameNoTooltip] Chega na Idade"
+ coming_of_age.1001.desc_university:0 "Com sua chegada a Idade, o tempo como [educated_child.GetFirstName] vai gastar na Universidade está no fim.\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')] [educated_child.Custom('DescribingEducationOutcome')]"
+ coming_of_age.1001.desc:0 "Com sua chegada a Idade, minha Tutela com [educated_child.GetFirstName] está no fim.\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')] [educated_child.Custom('DescribingEducationOutcome')]"
  coming_of_age.1001.patronaged_spouse_plus_1.desc:0 "\n\n[patronage_spouse_tutor.GetTitledFirstNamePossessive] contributions towards [educated_child.GetFirstNamePossessive] education cannot go unmentioned. [patronage_spouse_tutor.GetHerHis|U] guidance has helped the child reach further than I could have alone."
  coming_of_age.1001.patronaged_spouse_plus_2_or_more.desc:0 "\n\n[patronage_spouse_tutor.GetTitledFirstName] has also given the child invaluable guidance. [educated_child.GetFirstName] would never have reached this far without [patronage_spouse_tutor.GetHerHim]."
  coming_of_age.1001.a:0 "They grow up fast."
 
- coming_of_age.1002.t:0 "[educated_child.GetFirstNameNoTooltip] Comes of Age"
+ coming_of_age.1002.t:0 "[educated_child.GetFirstNameNoTooltip] Chega na Idade"
  coming_of_age.1002.desc:0 "I am proud to see my [educated_child.Custom('GetDaughterSon')] no longer as a child, but as an adult.\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')] [educated_child.Custom('DescribingEducationOutcome')]"
  coming_of_age.1002.patronaged_spouse_plus_1.desc:0 "\n\n[patronage_spouse_tutor.GetTitledFirstNamePossessive] contributions towards [educated_child.GetFirstNamePossessive] education cannot go unmentioned. [patronage_spouse_tutor.GetHerHis|U] lessons have given [educated_child.GetFirstName] valuable knowledge for [educated_child.GetHerHis] future life."
  coming_of_age.1002.patronaged_spouse_plus_2_or_more.desc:0 "\n\n[patronage_spouse_tutor.GetTitledFirstName] has given the child invaluable guidance. [educated_child.GetFirstName] would never have reached this far without [patronage_spouse_tutor.GetHerHim]."
- 
+
  coming_of_age.1003.t:0 "Education at an End"
  coming_of_age.1003.standard:0 "My Ward, [educated_child.GetTitledFirstName], has come of age, and it is time [educated_child.GetSheHe] left my care.\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')] [educated_child.Custom('DescribingEducationOutcome')]"
  coming_of_age.1003.rank_1:0 "\n\nI am sure [educated_child.GetHerHis] parents will just be happy that [educated_child.GetHerHis] education is complete."

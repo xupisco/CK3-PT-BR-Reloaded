@@ -525,7 +525,7 @@
  STRESS_IMPACT_GAIN_CRITICAL:0 "Ganha [stress_critical_i]$VALUE|V0$ de [stress|E] (crítico) $TRAITS$"
 
  ADD_GUEST_COURTIER_EFFECT:0 "[COURTIER.GetUIName], da Corte de [EMPLOYER.GetShortUIName], torna-se um convidado na Corte de [HOST.GetShortUIName]"
- STRESS_IMPACT_TRAIT_LIST:3 "porque [Select_CString( CHARACTER.IsLocalPlayer, 'você', 'eles' )] são $TRAITS$"
+ STRESS_IMPACT_TRAIT_LIST:3 "porque [Select_CString( CHARACTER.IsLocalPlayer, 'você', 'eles' )] é $TRAITS$"
  STRESS_IMPACT_ONLY:0 "apenas "
  STRESS_IMPACT_INCREASED:0 ""
 

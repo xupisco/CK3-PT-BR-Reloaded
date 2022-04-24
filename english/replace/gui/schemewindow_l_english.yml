@@ -10,7 +10,7 @@
  SCHEME_WINDOW_CANCEL_SCHEME:0 "Abandonar Esquema"
  SCHEME_WINDOW_CANNOT_CANCEL_SCHEME:0 "Você não pode abandonar Schemes que estão finalizados ou congelados"
  SCHEME_WINDOW_CANCEL_CONFIRMATION_TITLE:0 "Abandonar Esquema"
- SCHEME_WINDOW_CANCEL_CONFIRMATION_TEXT:0 "O [SCHEME.GetName] contra [CHARACTER.GetShortUIName] será abandonano.\n\n[SCHEME.GetCooldownInfo]"
+ SCHEME_WINDOW_CANCEL_CONFIRMATION_TEXT:0 "[SCHEME.GetName] contra [CHARACTER.GetShortUIName] será abandonado.\n\n[SCHEME.GetCooldownInfo]"
  SCHEME_WINDOW_CANCEL_CONFIRMATION_ACCEPT:0 "Abandonar"
  SCHEME_COOLDOWN_INFO:0 "Você não pode iniciar outro [SCHEME.GetSchemeType.GetTypeName] contra [SCHEME.GetTarget.GetHerHim] por $TIME|V$."
  SCHEME_WINDOW_PROGRESS_TOOLTIP:0 "#T [SchemeItem.GetProgressDescription]#! \n[Scheme.GetChangeDesc]"
