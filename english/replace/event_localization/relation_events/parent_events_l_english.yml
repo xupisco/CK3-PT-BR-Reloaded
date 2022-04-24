@@ -1,15 +1,15 @@
 ﻿l_english:
- parent_meddling_tt:0 "My [parent.Custom('MotherFather')] expects to have a say in my decisions"
- parent_meddling_decrease_tt:0 "My [parent.Custom('MotherFather')] is pleased that I follow [parent.GetHerHis] advice"
- parent.1001.t:0 "[parent.Custom('MotherFather')|U]ly Advice"
- parent.1001.desc:1 "My [parent.Custom('MotherFather')] has many things to say about the $knight_culture_player_plural_no_tooltip_lowercase$ of my realm, commenting on everything from how they train, to what they should be preparing for in the field.\n\nEven the $knight_culture_player_plural_no_tooltip$ admit that what [parent.GetSheHe] says makes much sense, too."
+ parent_meddling_tt:0 "[parent.Custom('MotherFather')|U] espera ter uma palavra a dizer nas minhas Decisões"
+ parent_meddling_decrease_tt:0 "[parent.Custom('MotherFather')|U] está feliz que eu sigo seus conselhos"
+ parent.1001.t:0 "Conselho tipo de [parent.Custom('MotherFather')|U]"
+ parent.1001.desc:1 "[parent.Custom('MotherFather')] tem muitas coisas a dizer sobre $knight_culture_player_plural_no_tooltip_lowercase$ do meu Reino, comentando sobre tudo, desde como treinam, até para o que devem se preparar em campo.\n\nAté mesmo $knight_culture_player_plural_no_tooltip$ admitir que o que [parent.GetSheHe] diz faz muito sentido, também."
  parent.1001.a:1 ""So how #EMP should#! the $knight_culture_player_plural_no_tooltip_lowercase$ be organized, [parent.Custom('MotherFather')]?""
- parent.1001.b:0 "I alone decide how they fight!"
- 
+ parent.1001.b:0 "Só eu decido como eles lutam!"
+
  parent.1002.desc:0 "My [parent.Custom('MotherFather')] is a wise [parent.GetWomanMan], deeply understanding of people's needs and desires.\n\n[parent.GetSheHe|U] often offers me guidance when dealing with others."
  parent.1002.a:0 "I need all the advice I can get, to be honest."
  parent.1002.b:0 ""My court is mine to rule, [parent.Custom('MotherFather')].""
- 
+
  parent.1003.desc:0 "My [parent.Custom('MotherFather')] often spends hours pointing out little details I miss at my court.\n\nTwo servants who used to fight now gossip, the castellan seems more quiet than usual, a candelabra has been moved to the other side of the hall..."
  parent.1003.a:0 "Better to know, than to regret not knowing."
  parent.1003.b:0 ""I will not have you feed my worries, [parent.Custom('MotherFather')].""
@@ -17,7 +17,7 @@
  parent.1004.desc:0 "Sometimes I think that my [parent.Custom('MotherFather')] has a better overview of my treasury than even my steward. A gold piece seems to be worth twice as much when [parent.GetSheHe] tells me how to spend it!"
  parent.1004.a:0 ""Please guide me to prudent choices, [parent.Custom('MotherFather')].""
  parent.1004.b:0 "My realm, my treasury!"
- 
+
  parent.1005.desc:0 "There are wise men and women in my realm, but I doubt that a single one of them could best my [parent.Custom('MotherFather')] in debate. [parent.GetSheHe|U] always has a surprising perspective or another layer of knowledge to reveal!"
  parent.1005.a:0 ""Share your wisdom with me, [parent.Custom('MotherFather')]!""
  parent.1005.b:0 "The words dazzle, but are they all that wise?"
@@ -25,19 +25,19 @@
  parent.1006.t:0 "A Guiding Hand"
  parent.1006.desc:0 "My [parent.Custom('MotherFather')] has taken great interest in the going-ons in [county.GetNameNoTier] lately.\n\n[parent.GetSheHe|U] has even begun corresponding with barons and mayors, instructing them in proper management!"
  parent.1006.a:0 "Good work, [parent.Custom('MotherFather')]."
- 
- parent.1007.t:0 "Mediating [parent.Custom('MotherFather')|U]"
- parent.1007.desc_opening:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('courtier'))], [courtier.GetTitledFirstName], has made [courtier.GetHerHis] disdain for me quite clear.\n\n"
- parent.1007.courtier_1:0 "I caught [courtier.GetHerHim] in the middle of a tale about a blunder I had #EMP supposedly#! committed during a feast. A feast I did not even attend!"
- parent.1007.courtier_2:0 "I came across [courtier.GetHerHim] and another courtier walking the hallways. The moment [courtier.GetTitledFirstNameNoTooltip] saw me [courtier.GetSheHe] made a point of pausing the gossip until I had passed. It is not even the first occurrence of such an insult!"
- parent.1007.desc_end:0 "\n\nEver the mediating presence, my [parent.Custom('MotherFather')] has offered to clear the air between us."
- parent.1007.a:0 "[parent.Custom('MotherFather')|U]'s help is always welcome."
- parent.1007.b:0 "I will keep these people in check by myself!"
 
- parent.1009.t:0 "A New Relation"
- parent.1009.desc:0 "One of my [parent.Custom('MotherFather')]'s old acquaintances, [new_courtier.GetTitledFirstName], has arrived at court, at [parent.GetHerHis] invitation.\n\nMy [parent.Custom('MotherFather')] makes no end of hinting at the good influence [new_courtier.GetFirstNameNoTooltip] could exert on the realm if [new_courtier.GetSheHe] was offered a position at court."
- parent.1009.a:0 "I am sure we can find something for [new_courtier.GetHerHim] to do."
- parent.1009.b:0 "No, [new_courtier.GetSheHe] will not have a home here."
+ parent.1007.t:0 "[parent.Custom('MotherFather')|U] Mediador(a)"
+ parent.1007.desc_opening:0 "Meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('courtier'))], [courtier.GetTitledFirstName], deixou bem claro seu desdém por mim.\n\n"
+ parent.1007.courtier_1:0 "Eu peguei uma conversa [courtier.GetHerHim] no meio de um conto sobre um erro que eu #EMP supostamente#! tenha cometido durante uma festa. Uma festa que eu nem participei!"
+ parent.1007.courtier_2:0 "Eu me deparei com [courtier.GetHerHim] e outro Membro da Corte andando pelos corredores. Quando [courtier.GetTitledFirstNameNoTooltip] me viu [courtier.GetSheHe] fez questão de pausar a fofoca até eu ter passado. Não é nem mesmo a primeira vez que acontece tal insulto!"
+ parent.1007.desc_end:0 "\n\nSempre na presença mediadora, meu/minha [parent.Custom('MotherFather')] se ofereceu para limpar o ar entre nós."
+ parent.1007.a:0 "A Ajuda de [parent.Custom('MotherFather')|U] é sempre bem-vinda."
+ parent.1007.b:0 "Vou manter essas pessoas sob controle sozinho!"
+
+ parent.1009.t:0 "Uma Nova Relação"
+ parent.1009.desc:0 "Um dos velhos conhecidos do meu/minha [parent.Custom('MotherFather')], [new_courtier.GetTitledFirstName], chegou na Corte, a seu convite.\n\n[parent.Custom('MotherFather')] não deixa de insinuar a boa influência que [new_courtier.GetFirstNameNoTooltip] poderia exercer sobre o Reino se [new_courtier.GetSheHe] receber um cargo na Corte."
+ parent.1009.a:0 "Tenho certeza de que podemos encontrar algo para [new_courtier.GetHerHim] fazer."
+ parent.1009.b:0 "Não, [new_courtier.GetSheHe] não terá uma casa aqui."
 
  parent.1010.t:0 "Relaxing Relations"
  parent.1010.desc:0 "Lately the burden of rule has been more acute than usual, and my [parent.Custom('MotherFather')] seems to have taken notice.\n\n[parent.GetSheHe|U] insists I spend the day in the gardens, with assurances that [parent.GetSheHe] will handle my responsibilities in the meantime."
@@ -53,7 +53,7 @@
  parent.2003.desc:0 "I thought the feud between my [parent.Custom('MotherFather')] and my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hated_courtier'))], [hated_courtier.GetTitledFirstName], would never end.\n\nWell, now it has. My [parent.Custom('MotherFather')] has banished [hated_courtier.GetFirstNameNoTooltip] from my realm!"
  parent.2003.a:0 "How dare [parent.GetSheHe]?! It is #EMP my#! realm!"
  parent.2003.b:0 "Good riddance."
- 
+
  parent.2004.t:0 "A Constant Nuisance"
  parent.2004.opening:0 "My [parent.Custom('MotherFather')] has taken to following me everywhere, voicing [parent.GetHerHis] opinions on everything I do and trying to offer guidance."
  parent.2004.malicious:0 "\n\n[parent.GetSheHe|U] needles me mercilessly, claiming that the harsh treatment is for my own good, while denying the smile I sometimes see playing across [parent.GetHerHis] lips."

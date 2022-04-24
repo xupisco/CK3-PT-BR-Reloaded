@@ -371,15 +371,15 @@
 
  #Support loc functions & keys
  CharacterIntroductionSupportNoComma_titledfirstnameoftitle:0 "[ROOT.Char.GetName]"
- CharacterIntroductionSupportNoComma_firstnamedynastyname_a_noblewoman_from_liege_title:0 "[ROOT.Char.GetFullName], a noblewoman from [ROOT.Char.GetLiege.GetPrimaryTitle.GetNameNoTierNoTooltip]"
- CharacterIntroductionSupportNoComma_firstnamedynastyname_a_nobleman_from_liege_title:0 "[ROOT.Char.GetFullName], a nobleman from [ROOT.Char.GetLiege.GetPrimaryTitle.GetNameNoTierNoTooltip]"
- CharacterIntroductionSupportNoComma_firstname_a_commoner_from_liege_title:0 "[ROOT.Char.GetFirstName], a commoner from [ROOT.Char.GetLiege.GetPrimaryTitle.GetNameNoTierNoTooltip]"
- CharacterIntroductionSupportNoComma_firstnamedynastyname_a_noblewoman_from_current_location:0 "[ROOT.Char.GetFullName], a noblewoman from [ROOT.Char.GetCurrentLocation.GetTitle.GetNameNoTierNoTooltip]"
- CharacterIntroductionSupportNoComma_firstnamedynastyname_a_nobleman_from_current_location:0 "[ROOT.Char.GetFullName], a nobleman from [ROOT.Char.GetCurrentLocation.GetTitle.GetNameNoTierNoTooltip]"
- CharacterIntroductionSupportNoComma_firstname_a_commoner_from_current_location:0 "[ROOT.Char.GetFirstName], a commoner from [ROOT.Char.GetCurrentLocation.GetTitle.GetNameNoTierNoTooltip]"
- CharacterIntroductionSupportNoComma_firstnamedynastyname_a_noblewoman:0 "[ROOT.Char.GetFullName], a noblewoman"
- CharacterIntroductionSupportNoComma_firstnamedynastyname_a_nobleman:0 "[ROOT.Char.GetFullName], a nobleman"
- CharacterIntroductionSupportNoComma_firstname_a_commoner:0 "[ROOT.Char.GetFirstName], a commoner"
+ CharacterIntroductionSupportNoComma_firstnamedynastyname_a_noblewoman_from_liege_title:0 "[ROOT.Char.GetFullName], uma Nobre de [ROOT.Char.GetLiege.GetPrimaryTitle.GetNameNoTierNoTooltip]"
+ CharacterIntroductionSupportNoComma_firstnamedynastyname_a_nobleman_from_liege_title:0 "[ROOT.Char.GetFullName], um Nobre de [ROOT.Char.GetLiege.GetPrimaryTitle.GetNameNoTierNoTooltip]"
+ CharacterIntroductionSupportNoComma_firstname_a_commoner_from_liege_title:0 "[ROOT.Char.GetFirstName], um Plebeu de [ROOT.Char.GetLiege.GetPrimaryTitle.GetNameNoTierNoTooltip]"
+ CharacterIntroductionSupportNoComma_firstnamedynastyname_a_noblewoman_from_current_location:0 "[ROOT.Char.GetFullName], uma Nobre de [ROOT.Char.GetCurrentLocation.GetTitle.GetNameNoTierNoTooltip]"
+ CharacterIntroductionSupportNoComma_firstnamedynastyname_a_nobleman_from_current_location:0 "[ROOT.Char.GetFullName], um Nobre de [ROOT.Char.GetCurrentLocation.GetTitle.GetNameNoTierNoTooltip]"
+ CharacterIntroductionSupportNoComma_firstname_a_commoner_from_current_location:0 "[ROOT.Char.GetFirstName], um Plebeu de [ROOT.Char.GetCurrentLocation.GetTitle.GetNameNoTierNoTooltip]"
+ CharacterIntroductionSupportNoComma_firstnamedynastyname_a_noblewoman:0 "[ROOT.Char.GetFullName], uma Nobre"
+ CharacterIntroductionSupportNoComma_firstnamedynastyname_a_nobleman:0 "[ROOT.Char.GetFullName], um Nobre"
+ CharacterIntroductionSupportNoComma_firstname_a_commoner:0 "[ROOT.Char.GetFirstName], um Plebeu"
  CharacterIntroductionSupportNoComma_fallback:0 "[ROOT.Char.Custom2('CharacterIntroductionSupportNoComma', SCOPE.sC('second'))]"
 
 
@@ -423,7 +423,7 @@
  soldier_friend:0 "#D Soldado-Amigo (Oculto)#!"
 
  #Frame playable
- FRAME_RELATION_ME:1 "#T Este é você#!"
+ FRAME_RELATION_ME:1 "#T Este é Você#!"
  FRAME_RELATION_MY_HEIR:2 "#T Este é o seu [player_heir|E]#!"
 
  #Frame dynasty

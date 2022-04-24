@@ -420,19 +420,19 @@
 
  child_personality.3003.message:0 "My [ROOT.Char.Custom2('RelationToMe',personality_child)] [personality_child.GetTitledFirstName] is always up to something!"
 
- child_personality.3004.t:0 "A Brewing Troublemaker"
- child_personality.3004.desc:0 "While I have come to expect mischief from my [ROOT.GetCharacter.Custom2('RelationToMe' , personality_child) ] [personality_child.GetTitledFirstName], [personality_child.GetHerHis] creativity keeps me on my toes. When it is not a prank, it is a brawl, a disgruntled tutor or grazed knees from an adventure gone wrong."
- child_personality.3004.a:0 "Never a dull moment!"
+ child_personality.3004.t:0 "Um Encrenqueiro em Potencial"
+ child_personality.3004.desc:0 "Embora eu tenha esperado maldades de meu/minha [ROOT.GetCharacter.Custom2('RelationToMe' , personality_child) ] [personality_child.GetTitledFirstName], [personality_child.GetHerHis] criatividade me mantém na ponta dos pés. Quando não é uma brincadeira, é uma briga, um tutor descontente ou joelhos esfolados de uma aventura que deu errado."
+ child_personality.3004.a:0 "Nunca um momento maçante!"
 
 #Bossy
- child_personality.3005.t:0 "A Ruler in the Making"
- child_personality.3005.desc:0 "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('guardian'))] [guardian.GetFirstName] keeps asking me to let the other children pick what games to play sometimes, but why should I, when I always know which one is the best? I am so sick of [guardian.GetHerHim] and all the other grown-ups telling me what to do!"
- child_personality.3005.a:0 "They're not the boss of me!"
+ child_personality.3005.t:0 "Um Governante em Formação"
+ child_personality.3005.desc:0 "Meu [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('guardian'))] [guardian.GetFirstName] fica me pedindo para deixar as outras crianças escolherem quais jogos jogar às vezes, mas por que eu deveria, quando sempre sei qual é o melhor? eu estou tão cansado [guardian.GetHerHim] e todos os outros adultos me dizendo o que fazer!"
+ child_personality.3005.a:0 "Eles não são meu Chefe!"
 
- child_personality.3005.message:0 "My [ROOT.Char.Custom2('RelationToMe',personality_child)] [personality_child.GetTitledFirstName] truly knows what [personality_child.GetSheHe] wants!"
+ child_personality.3005.message:0 "Meu/Minha [ROOT.Char.Custom2('RelationToMe',personality_child)] [personality_child.GetTitledFirstName] realmente sabe o que [personality_child.GetSheHe] quer!"
 
- child_personality.3006.desc:0 "There is no end to the opinions and wants of my [ROOT.GetCharacter.Custom2('RelationToMe' , personality_child) ], [personality_child.GetTitledFirstName]. Half of the time, [personality_child.GetSheHe] is trying to tell me what to do, instead of the other way around!"
- child_personality.3006.a:0 "Formidable or aggravating — it's a fine line to walk."
+ child_personality.3006.desc:0 "Não há fim para as opiniões e desejos do meu [ROOT.GetCharacter.Custom2('RelationToMe' , personality_child) ], [personality_child.GetTitledFirstName]. Metade do tempo, [personality_child.GetSheHe] está tentando me dizer o que fazer, em vez do contrário!"
+ child_personality.3006.a:0 "Formidável ou agravante - é uma linha tênue para caminhar."
 
  #Charming
  child_personality.3007.t:0 "Trabalhe de forma mais Inteligente, não mais Difícil"

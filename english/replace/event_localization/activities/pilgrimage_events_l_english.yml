@@ -42,9 +42,9 @@
  pilgrimage.1001.desc.medium:0 "\n\nEnquanto eu vou com [ROOT.Char.GetFaith.HighGodNameAlternate], meu Reino deve esperar, por mais tempo que eu esteja fora."
  pilgrimage.1001.desc.long:0 "\n\nMeu destino fica longe de casa, mas a serviço de [ROOT.Char.GetFaith.DivineRealm], até meu próprio Reino deve esperar."
  pilgrimage.1001.desc.very_long:0 "\n\nEstarei fora por um longo tempo, e só posso rezar para que [ROOT.Char.GetFaith.HighGodNameAlternate] cuide do meu Reino também."
- pilgrimage.1001.a:0 "É hora de partir." 
+ pilgrimage.1001.a:0 "É hora de partir."
 
- # Generic Pilgrimage Journey Events 
+ # Generic Pilgrimage Journey Events
 
  pilgrimage.2001.t:0 "$pilgrimage_header$ Bandidos!"
  pilgrimage.2001.desc:0 "Acordo com o barulho do caos no acampamento, mas levo apenas alguns momentos para perceber o que está acontecendo.\n\nEstamos sob ataque!\n\nBandidos estão cercando nossas barracas e carroças, enquanto nossos guardas fazem o que podem resistir."
@@ -117,14 +117,14 @@
  pilgrimage.2010.a.tt:0 "Você entra na barraca"
  pilgrimage.2010.b:0 "Não, obrigado, isso tudo cheira a heresia para mim!"
 
- pilgrimage.2011.desc:0 "Dentro da barraca de [mystic.GetTitledFirstName] sou recebido por cheiros fortes e um ar extremamente quente e pesado. "É importante que voltemos nosso olhar para dentro de nós mesmos", explica ele(a) e se senta.\n\ n"Eu quero que você feche os olhos e se concentre, como eu faço. Deixe [ROOT.Char.GetFaith.PantheonTerm] fluir através de você. Alcance o êxtase da divindade!""
+ pilgrimage.2011.desc:0 "Dentro da barraca de [mystic.GetTitledFirstName] sou recebido por cheiros fortes e um ar extremamente quente e pesado. "É importante que voltemos nosso olhar para dentro de nós mesmos", explica ele(a) e se senta.\n\n"Eu quero que você feche os olhos e se concentre, como eu faço. Deixe [ROOT.Char.GetFaith.PantheonTerm] fluir através de você. Alcance o êxtase da divindade!""
  pilgrimage.2011.a:0 "Sim! Eu posso sentir minha conexão com [ROOT.Char.GetFaith.HighGodNameAlternate]!"
  pilgrimage.2011.a.tt:0 "Você experimenta o êxtase da divindade"
  pilgrimage.2011.b:0 "Isto é tão confortável, eu poderia simplesmente adormecer..."
  pilgrimage.2011.b.tt:0 "Você tem uma soneca agradável"
  pilgrimage.2011.c:0 "Diga-me, como isso tem alguma coisa a ver com [ROOT.Char.GetFaith.HighGodName]?"
  pilgrimage.2011.c.tt:0 "Você envolve o(a) místico(a) no debate"
- 
+
  pilgrimage.2012.desc:0 "Não consigo lembrar o que aconteceu depois que entrei na tenda mística. Tudo o que consigo lembrar são imagens vagas e uma sensação de tontura.\n\nAgora me pergunto se ele(a) já esteve aqui de forma alguma..."
  pilgrimage.2012.a:0 "ele(a) teve muitas ideias estranhas."
 
@@ -339,7 +339,7 @@
 
    # Buddhism
  pilgrimage.5401.t:0 "$pilgrimage_header$ Bodh Gaya"
- pilgrimage.5401.desc:0 "Cheguei ao lugar mais sagrado do mundo para os budistas, Bodh Gaya é o lugar onde [ROOT.Char.GetFaith.HighGodName] [ROOT.Char.GetFaith.HighGodHerselfHimself] alcançou a iluminação sob a Árvore Bodhi.\n\nDesde então, o O elaborado Templo Mahabodi foi construído ao redor da árvore sagrada, e peregrinos de todo o mundo se reúnem aqui para aprender mais sobre a história de [ROOT.Char.GetFaith.HighGodNameAlternate] e celebrar a vida de [ROOT.Char.GetFaith.HighGodHerHis].
+ pilgrimage.5401.desc:0 "Cheguei ao lugar mais sagrado do mundo para os budistas, Bodh Gaya é o lugar onde [ROOT.Char.GetFaith.HighGodName] [ROOT.Char.GetFaith.HighGodHerselfHimself] alcançou a iluminação sob a Árvore Bodhi.\n\nDesde então, o O elaborado Templo Mahabodi foi construído ao redor da árvore sagrada, e peregrinos de todo o mundo se reúnem aqui para aprender mais sobre a história de [ROOT.Char.GetFaith.HighGodNameAlternate] e celebrar a vida de [ROOT.Char.GetFaith.HighGodHerHis]."
  pilgrimage.5401.a:0 "$pilgrimage.4001.a$"
  pilgrimage.5401.b:0 "$pilgrimage.4001.b$"
 
@@ -349,7 +349,7 @@
  pilgrimage.5411.b:0 "$pilgrimage.4001.b$"
 
  pilgrimage.5421.t:0 "$pilgrimage_header$ Sarnath"
- pilgrimage.5421.desc:0 "Minha jornada finalmente me levou a Sarnath, o local onde [ROOT.Char.GetFaith.HighGodName] primeiro ensinou as quatro nobres verdades aos seguidores de [ROOT.Char.GetFaith.HighGodHerHis], bem como os ensinamentos associados a ela.\n\ nFoi aqui que foi fundada a primeira escola budista, que ainda hoje atrai peregrinos de todo o mundo."
+ pilgrimage.5421.desc:0 "Minha jornada finalmente me levou a Sarnath, o local onde [ROOT.Char.GetFaith.HighGodName] primeiro ensinou as quatro nobres verdades aos seguidores de [ROOT.Char.GetFaith.HighGodHerHis], bem como os ensinamentos associados a ela.\n\nFoi aqui que foi fundada a primeira escola budista, que ainda hoje atrai peregrinos de todo o mundo."
  pilgrimage.5421.a:0 "$pilgrimage.4001.a$"
  pilgrimage.5421.b:0 "$pilgrimage.4001.b$"
 
@@ -358,7 +358,7 @@
  pilgrimage.5501.desc:1 "De acordo com o Nirvana Kanda, vinte dos vinte e quatro tirthankaras jainistas alcançaram Moksha aqui na montanha de Shikharji. Uma história tão célebre fez deste lugar o local de peregrinação mais importante da comunidade jainista, e enquanto meu olhar vagueia dos picos mais altos aos mais baixos, me pego refletindo sobre minha própria jornada aqui e o que isso significa para minha vida."
  pilgrimage.5501.a:0 "$pilgrimage.4001.a$"
  pilgrimage.5501.b:0 "$pilgrimage.4001.b$"
-  
+
  # Zoroastrian
  pilgrimage.5601.t:0 "$pilgrimage_header$ A Consciência Divina"
  pilgrimage.5601.desc:0 "Enquanto estou nas encostas do Monte Ushi-darena, a vista da parte mais baixa se espalha diante de mim. Diante da visão inspiradora, não posso deixar de pensar em como Zoroastro alcançou a iluminação aqui, recebendo o conhecimento de Ahura Mazda para se espalhar para o mundo abaixo. Como a maioria dos peregrinos aqui, não sinto nenhuma centelha divina de profecia, mas mesmo assim não posso deixar de me maravilhar com o que estava diante de mim."

@@ -26,15 +26,15 @@
  marshal_task.1003.a:0 "What have you done, [councillor.GetFirstNameNoTooltip]..."
  marshal_task.1003.notification:0 "Guards Drafted for Levy"
 
- marshal_task.1101.t:0 "Well-organized Service"
- marshal_task.1101.desc:0 "With careful vetting and selection of levy soldiers, my [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], has ensured that not a single farm in the [county.GetName] goes untended.\n\nThe records [councillor.GetSheHe] has kept will come in very handy come tax season as well..."
- marshal_task.1101.a:0 "Great work, [councillor.GetFirstNameNoTooltip]."
- marshal_task.1101.notification:0 "Well-organized Levy Service"
+ marshal_task.1101.t:0 "Serviço Bem Organizado"
+ marshal_task.1101.desc:0 "Com uma avaliação cuidadosa e seleção de Soldados para as Tropas, meu [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], assegurou que nem uma única exploração em [county.GetName] não seja cuidada.\n\nOs registros que [councillor.GetSheHe] manteve será muito útil na temporada de impostos também..."
+ marshal_task.1101.a:0 "Ótimo trabalho, [councillor.GetFirstNameNoTooltip]."
+ marshal_task.1101.notification:0 "Serviço de Tropas Bem Organizado"
 
- marshal_task.1102.t:0 "Increased Military Presence"
- marshal_task.1102.desc:0 "[councillor.GetTitledFirstNamePossessive] work to reorganize my levies has moved on to the [county.GetName], where the increased military presence has worked wonders.\n\nBandits have been rooted out, and smugglers and kidnappers are too afraid to operate."
- marshal_task.1102.a:0 "My subjects can always feel safe."
- marshal_task.1102.notification:0 "Increased Military Presence"
+ marshal_task.1102.t:0 "Maior Presença Militar"
+ marshal_task.1102.desc:0 "O trabalho de [councillor.GetTitledFirstName] para reorganizar minhas Tripas passou para [county.GetName], onde o aumento da presença militar fez maravilhas.\n\nBandidos foram erradicados, e contrabandistas e sequestradores estão com muito medo de operar."
+ marshal_task.1102.a:0 "Meus súditos sempre podem se sentir seguros."
+ marshal_task.1102.notification:0 "Maior Presença Militar"
  #### END (Jonas W)
 
  marshal_task.2001.t:0 "Commander Wounded"

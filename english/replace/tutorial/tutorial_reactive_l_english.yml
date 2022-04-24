@@ -121,19 +121,19 @@
  reactive_advice_tooltip_modes_desc:1 "Modos de Dicas controlam #EMP como#! você acessa um [highlighted_text|E] e informações nas dicas #weak (em outras palavras, como travar as dicas para que você possa mover o mouse sobre elas)#!.\n\nO modo padrão é chamado #V Bloqueio por Tempo#!. Com este modo, as Dicas serão bloqueadas após um tempo definido indicado por uma pequena barra de progresso."
  reactive_advice_tooltip_modes_2_desc:0 "Se você é um jogador experiente, ou simplesmente prefere não ter suas Dicas travadas automaticamente, recomendamos experimentar #V Bloqueio por Ação#!. Com este modo, você pressiona o botão #V do meio do mouse#! para travar as Dicas.\n\n#I Você altera os modos de Dica indo para o #V Menu do Jogo#!, depois em #V Settings#!, e ai na seção #V Game#! — a opção #V Modo das dicas#! vai estar lá.#!"
 
- action_perk_bonus_cap_modes:0 "Maximum Perk Bonus Reached"
- action_perk_bonus_cap_modes_desc:0 "You've reached the maximum bonus amount that a perk can give. Some perks, like [GetPerk('sound_foundations_perk').GetName(GetPlayer)], have a maximum amount of skill points that they can grant."
+ action_perk_bonus_cap_modes:0 "Bônus Máximo de Vantagem Atingido"
+ action_perk_bonus_cap_modes_desc:0 "Você atingiu o valor máximo de bônus que um benefício pode dar. Algumas vantagens, como [GetPerk('sound_foundations_perk').GetName(GetPlayer)], têm uma quantidade máxima de pontos de habilidade que eles podem conceder."
  action_perk_bonus_cap_modes_click:0 "$click_to_open_lesson$"
  reactive_advice_perk_bonus_cap:0 "$action_perk_bonus_cap_modes$"
- reactive_advice_perk_bonus_cap_desc:0 "$action_perk_bonus_cap_modes_desc$ While over the limit, the bonus will no longer increase, and will not decrease until you're under the limit."
+ reactive_advice_perk_bonus_cap_desc:0 "$action_perk_bonus_cap_modes_desc$ enquanto estiver acima do limite, o bônus não aumentará mais e não diminuirá até que você esteja abaixo do limite."
  reactive_advice_perk_bonus_cap_step_1:0 "$action_perk_bonus_cap_modes$"
 
  action_reactive_advice_varangian_adventure:0 "$open_tutorial_lesson$$reactive_advice_varangian_adventure_step_1$"
- action_reactive_advice_varangian_adventure_desc:0 "You are able to start a Varangian Adventure.\nOpen this to learn more about this special kind of war."
+ action_reactive_advice_varangian_adventure_desc:0 "Você é capaz de iniciar uma Aventura Varangiana.\nAbra isso para saber mais sobre esse tipo especial de Guerra."
  action_reactive_advice_varangian_adventure_click:0 "$click_to_open_lesson$"
  reactive_advice_varangian_adventure:0 "$game_concept_varangian_adventures$"
  reactive_advice_varangian_adventure_step_1:0 "$game_concept_varangian_adventures$"
- reactive_advice_varangian_adventure_desc:0 "You are able to declare a [varangian_adventure|E].\n\nFor the duration of the $culture_era_tribal$ [era|E] this type of war is available to allow you to start a new life in a distant land, far from the cold shores of your homeland.\n\nSuccessful $game_concept_varangian_adventures$ will not only relocate your realm to a foreign location, it will also leave all your existing lands independent, including your vassals.\n\nYour first [varangian_adventure|E] undertaken as a $north_germanic_group$ ruler will also call on additional troops from owned same-[faith|E] same-[culture|E] counties in [GetGeographicalRegion('dlc_fp1_region_core_mainland_scandinavia').GetName] to help you conquer your new home."
+ reactive_advice_varangian_adventure_desc:0 "Você pode declarar uma [varangian_adventure|E].\n\nPela duração da [era|E] $culture_era_tribal$ este tipo de Guerra está disponível para permitir que você comece uma nova vida em uma terra distante, longe das costas frias de sua terra natal.\n\nUma $game_concept_varangian_adventures$ bem sucedida não apenas mudará seu Reino para um local estrangeiro, mas também deixará todas as suas terras existentes independentes, incluindo seus Vassalos.\n\nSua primeira [varangian_adventure|E] realizada como um governante $north_germanic_group$ também convocará Tropas adicionais dos Condados da mesma [faith|E] e da mesma [culture|E] em [GetGeographicalRegion('dlc_fp1_region_core_mainland_scandinavia').GetName] para ajudá-lo a conquistar sua nova casa."
 
 # Court positions
  action_reactive_advice_court_positions:0 "$open_tutorial_lesson$$ra_court_pos_open_view$"
@@ -154,9 +154,9 @@
  action_reactive_advice_artifact_inventory_click:0 "$click_to_open_lesson$"
 
  ra_artifact_inventory_general:0 "Inventário"
- ra_artifact_inventory_general_desc:0 "You have acquired your first [inventory_artifact|E]. These [artifacts|E] are carried on your person and provide various benefits."
+ ra_artifact_inventory_general_desc:0 "Você adquiriu seu primeiro [inventory_artifact|E]. Estes [artifacts|E] são carregados por você e fornecem vários benefícios."
  ra_artifact_inventory_open_step:0 "$ra_artifact_inventory_general$"
- ra_artifact_inventory_open_step_desc:0 "[inventory_artifacts|E] are stored in your Inventory, let us open it now."
- ra_artifact_inventory_open_step_open:0 "Open the Inventory (highlighted)"
+ ra_artifact_inventory_open_step_desc:0 "[inventory_artifacts|E] estão armazenados em seu Inventário, vamos abri-lo agora."
+ ra_artifact_inventory_open_step_open:0 "Abra o Inventário (destacado)"
  ra_artifact_inventory_welcome:0 "$ra_artifact_inventory_general$"
- ra_artifact_inventory_welcome_desc:0 "In your Inventory, you can equip [inventory_artifacts|E] in order to get various benefits, such as increasing a certain [skill|E] or increasing your [prestige|E].\n\nYou can also [repair|E] or [reforge|E] [inventory_artifacts|E], which will restore their [durability|E] and prevent them from being destroyed as time goes on.\n\nYou can also see which [artifact_claims|E] that you have, and try to take those [artifacts|E] for yourself!"
+ ra_artifact_inventory_welcome_desc:0 "Em seu Inventário, você pode equipar [inventory_artifacts|E] a fim de obter vários benefícios, como aumentar uma determinada [skill|E] ou aumentando seu [prestige|E].\n\nVocê também pode [repair|E] ou [reforge|E] [inventory_artifacts|E], que irá restaurar sua [durability|E] e impedi-los de serem destruídos com o passar do tempo.\n\nVocê também pode ver quais [artifact_claims|E] você tem, e tentar pegar esses [artifacts|E] para você mesmo!"
