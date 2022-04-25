@@ -1271,8 +1271,8 @@
  ADD_OPINION_FROM_CONTRIBUTION_THIRD:0 "[CHARACTER.GetShortUIName|U] aumenta sua Opinião sobre os Aliados com base em sua contribuição"
  ADD_OPINION_FROM_CONTRIBUTION:1 "Aumenta sua Opinião sobre os Aliados com base em sua contribuição"
  ADD_OPINION_FROM_CONTRIBUTION_FIRST_PAST:1 "Você aumenta sua Opinião sobre os Aliados com base em sua contribuição"
- ADD_OPINION_FROM_CONTRIBUTION_THIRD_PAST:0 "[CHARACTER.GetShortUIName|U] increased [CHARACTER.GetHerHis] opinion of [CHARACTER.GetHerHis] allies com base em sua contribuição"
- ADD_OPINION_FROM_CONTRIBUTION_PAST:1 "Increased [CHARACTER.GetHerHis] opinion of [CHARACTER.GetHerHis] allies com base em sua contribuição"
+ ADD_OPINION_FROM_CONTRIBUTION_THIRD_PAST:0 "[CHARACTER.GetShortUIName|U] aumentou sua Opinião sobre seus Aliados com base em sua Contribuições"
+ ADD_OPINION_FROM_CONTRIBUTION_PAST:1 "Aumentou sua Opinião sobre seus Aliados com base em suas Contribuições"
 
  I_CREATE_CADET_BRANCH:1 "Você cria um [cadet_branch|E] da sua Casa atual"
  DYNASTY_NO_NAME_GAINS_PRESTIGE_LEVEL_EFFECT:0 "Aumenta seu [dynasty_prestige_level|E] em $VALUE|+0$"
