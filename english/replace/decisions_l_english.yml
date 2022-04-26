@@ -204,7 +204,7 @@
  divine_the_stars_modifier:0 "You do not already have an astrological modifier"
 
  create_holy_order_decision:0 "Fundar Ordem Sagrada"
- create_holy_order_decision_tooltip:0 "Estabeleça uma [holy_order|E] e se tornar-se [holy_order_patron|E]"
+ create_holy_order_decision_tooltip:0 "Estabeleça uma [holy_order|E] e torne-se um [holy_order_patron|E]"
  create_holy_order_decision_desc:0 "#F Nunca pode haver muitos guerreiros dedicados a defender a verdadeira fé. Vou honrar [ROOT.Char.GetFaith.WarGodName] dando àqueles que serviriam um lar e armas!#!"
  create_holy_order_decision_confirm:0 "Fundar Ordem Sagrada"
  create_holy_order_decision_effect_message:1 "Uma [holy_order|E] para sua [faith|E] será fundada\n$EFFECT_LIST_BULLET$Você se torna o [holy_order_patron|E] da nova Ordem"

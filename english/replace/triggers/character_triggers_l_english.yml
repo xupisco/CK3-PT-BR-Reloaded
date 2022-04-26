@@ -223,12 +223,12 @@
  I_AM_NOT_COMMANDING_AN_ARMY:1 "You are #bold not#! commanding an army"
  CHARACTER_IS_NOT_COMMANDING_AN_ARMY:0 "[CHARACTER.GetShortUIName|V] is #bold not#! commanding an army"
 
- IS_IN_AN_ARMY:0 "Is in an army"
- I_AM_IN_AN_ARMY:0 "You are in an army"
- CHARACTER_IS_IN_AN_ARMY:0 "[CHARACTER.GetShortUIName|V] is in an army"
- IS_NOT_IN_AN_ARMY:0 "Is #bold not#! in an army"
- I_AM_NOT_IN_AN_ARMY:0 "You are #bold not#! in an army"
- CHARACTER_IS_NOT_IN_AN_ARMY:0 "[CHARACTER.GetShortUIName|V] is #bold not#! in an army"
+ IS_IN_AN_ARMY:0 "Está em um Exército"
+ I_AM_IN_AN_ARMY:0 "Você está em um Exército"
+ CHARACTER_IS_IN_AN_ARMY:0 "[CHARACTER.GetShortUIName|V] está em um Exército"
+ IS_NOT_IN_AN_ARMY:0 "#bold Não#! está em um Exército"
+ I_AM_NOT_IN_AN_ARMY:0 "Você #bold não#! está em um Exército"
+ CHARACTER_IS_NOT_IN_AN_ARMY:0 "[CHARACTER.GetShortUIName|V] #bold não#! está em um Exército"
 
  IS_IMPRISONED_TRIGGER:1 "Is imprisoned"
  NOT_IS_IMPRISONED_TRIGGER:1 "Is #bold not#! imprisoned"

@@ -1,11 +1,11 @@
 ﻿l_english:
- PORTRAIT_MODIFIER_DEFAULT:0 "Default"
- PORTRAIT_MODIFIER_capes:0 "Cape"
- PORTRAIT_MODIFIER_custom_clothes:0 "Clothes"
- PORTRAIT_MODIFIER_headgear:1 "Crowns"
- PORTRAIT_MODIFIER_custom_headgear:0 "Headwear"
- PORTRAIT_MODIFIER_props:0 "Prop"
- 
+ PORTRAIT_MODIFIER_DEFAULT:0 "Padrão"
+ PORTRAIT_MODIFIER_capes:0 "Capa"
+ PORTRAIT_MODIFIER_custom_clothes:0 "Roupas"
+ PORTRAIT_MODIFIER_headgear:1 "Coroas"
+ PORTRAIT_MODIFIER_custom_headgear:0 "Cabeça"
+ PORTRAIT_MODIFIER_props:0 "Suporte"
+
  # PORTRAIT_MODIFIER_clothes_western_commoners: "Western commoner"
  # PORTRAIT_MODIFIER_clothes_western_low_nobles: "Western low noble"
  # PORTRAIT_MODIFIER_clothes_western_high_nobles: "Western high noble"
@@ -490,7 +490,7 @@
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_dde_abbasid_high_nobility_01:0 "Emira's Veil"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_dde_abbasid_royalty_01:0 "Sultana's Gilded Headwrap"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_dde_abbasid_war_nobility_01:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_dde_abbasid_war_nobility_01$"
- 
+
 ###########
 ### FP1 ###
 ###########
@@ -639,7 +639,7 @@
  PORTRAIT_MODIFIER_custom_beards_male_beard_indian_02:0 "Wavy Pointy Beard"
  PORTRAIT_MODIFIER_custom_beards_male_beard_indian_03:0 "Long Straight Rough Beard"
  PORTRAIT_MODIFIER_custom_beards_no_beard:0 "No Beard"
- 
+
  ### FP1 ###
  PORTRAIT_MODIFIER_custom_beards_male_beard_fp1_01:0 "Huscarl's Braids"
  PORTRAIT_MODIFIER_custom_beards_male_beard_fp1_02:0 "Aspiring Viking"
@@ -658,7 +658,7 @@
  PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_secular_western_royalty_01:1 "Royal Cloak"
  PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_secular_western_royalty_01:0 "$PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_secular_western_royalty_01$"
  PORTRAIT_MODIFIER_custom_cloaks_male_capes_religious_catholic_head_01:0 "Catholic Head 1"
- 
+
  ### FP1 ###
  PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_secular_fp1_nobility_01:0 "Adventurer's Cloak"
  PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_secular_fp1_nobility_02:0 "Vigman's Cloak"
@@ -691,7 +691,7 @@
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_rtt_jester_01_high:0 "Jester's Hat"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_rtt_nobility_01_low:0 "Hennin"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_rtt_nobility_01_high:0 "Hennin"
- 
+
 ###########################################
 ################ Religious ################
 ###########################################
@@ -719,7 +719,7 @@
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_religious_jewish_high_01_common:0 "Jewish Religious Clothing"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_religious_steppe_high_01_common:0 "Steppe Religious Clothing"
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_religious_steppe_high_01_common:0 "$PORTRAIT_MODIFIER_custom_clothes_male_clothes_religious_steppe_high_01_common$"
- 
+
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_religious_catholic_devoted_01:0 "Habit"
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_religious_catholic_high_01:0 "Bishop's Mitre"
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_religious_dde_catholic_high_01:0 "Archbishop's Mitre"
@@ -737,7 +737,7 @@
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_religious_steppe_high_01:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_religious_steppe_high_01$"
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_religious_northern_high_01:1 "Norse Circlet"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_religious_northern_high_01:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_religious_northern_high_01$"
- 
+
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ep1_jester_01:0 "Jester's Attire"
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_ep1_jester_01:0 "$PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ep1_jester_01$"
  PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_secular_ep1_adventurer_01:1 "Explorer's Cloak"
