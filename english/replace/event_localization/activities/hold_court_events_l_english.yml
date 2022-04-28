@@ -6,10 +6,10 @@
  hold_court_header:0 "Hold Court:"
 
  # Activity Start
- hold_court.0001.t:0 "$hold_court_header$ Commencement"
- hold_court.0001.desc:0 "Sitting on my throne, I gesture for my guards to open the doors of the hall. A stream of people file in, some lining up in front of my throne while others move out of the way so they can simply observe the proceedings.\n\nAfter several moments, all movement in the chamber has ceased, all faces turned towards mine expectantly. In front of me I count [ROOT.Var('num_petitioners').GetValue|V0] petitioners lined up in an orderly row, waiting for me to call on them."
- hold_court.0001.a:0 "Gesture for the first in line to approach."
- hold_court.0001.b:0 "On second thought, it is a beautiful day outside..."
+ hold_court.0001.t:0 "$hold_court_header$ Começo"
+ hold_court.0001.desc:0 "Sentado em meu trono, faço um gesto para meus guardas abrirem as portas do salão. Um fluxo de pessoas entra em fila, algumas se alinhando na frente do meu trono enquanto outras se afastam para que possam simplesmente observar os procedimentos.\n\nDepois de vários momentos, todos os movimentos na câmara cessaram, todos os rostos se voltaram para mim com expectativa. Na minha frente eu conto [ROOT.Var('num_petitioners').GetValue|V0] peticionários alinhados em uma fila ordenada, esperando que eu os chame."
+ hold_court.0001.a:0 "Gesticulo para o primeiro da fila se aproximar."
+ hold_court.0001.b:0 "Pensando bem, está um lindo dia lá fora..."
  hold_court.0001.b.tooltip:0 "Your audience ends and you send the petitioners home"
 
  # Guest offers to share rumors from a nearby foreign realm.
@@ -54,10 +54,10 @@
  hold_court.1041.c:0 "[ROOT.Char.GetFaith.DivineRealm|U] is [ROOT.Char.GetFaith.HighGodNamePossessive] domain. [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip|U], [ROOT.Char.GetFaith.HighGodNameSheHe] entrusted to me alone."
 
  # Activity End
- hold_court.0021.t:0 "$hold_court_header$ Conclusion"
- hold_court.0021.desc:0 "As the last petitioner departs, various courtiers follow them out of the room, having business to attend elsewhere. Others remain, talking amongst themselves about the recent proceedings.\n\nSoon the ceremonial formality of the proceedings has dropped away entirely, with the hum and bustle of normal courtly life taking its place."
- hold_court.0021.a:0 "My business here is done."
- hold_court.0021.arrogant:0 "It is good to let my subjects bask in awe of of my presence."
- hold_court.0021.shy:0 "I can't wait to get back to my chambers..."
- hold_court.0021.gregarious:0 "This seems like a good opportunity to mingle with my court."
- hold_court.0021.every_guest_and_courtier:0 "Every Guest and Courtier:"
+ hold_court.0021.t:0 "$hold_court_header$ Conclusão"
+ hold_court.0021.desc:0 "Quando o último peticionário parte, vários cortesãos os seguem para fora da sala, tendo negócios para atender em outro lugar. Outros permanecem, conversando entre si sobre os procedimentos recentes.\n\nLogo a formalidade cerimonial dos procedimentos caiu completamente, com o zumbido e a agitação da vida normal da corte tomando seu lugar."
+ hold_court.0021.a:0 "Meu negócio aqui está feito."
+ hold_court.0021.arrogant:0 "É bom deixar meus súditos se deliciarem com a minha presença."
+ hold_court.0021.shy:0 "Mal posso esperar para voltar aos meus aposentos..."
+ hold_court.0021.gregarious:0 "Esta parece ser uma boa oportunidade para se misturar com a minha corte."
+ hold_court.0021.every_guest_and_courtier:0 "Cada convidado e cortesão:"
