@@ -87,7 +87,7 @@
  tooltip_combat_phase_pursuit:1 "#T [combat_phase|E] atual: [aftermath|E]#!"
  COMBAT_WIDTH_BREAKDOWN_HEADER:0 "[combat_width|E]: $VALUE|V$"
  MEN_AT_ARMS_DESC:1 "$MEN_AT_ARMS_TYPE|V$: $VALUE|0$"
- COUNTERED:0 "combatido"
+ COUNTERED:0 "Combatido"
  PURSUING:0 "Perseguindo"
  RETREATING:0 "Recuando"
  COMBAT_WIDTH_BASE_DESCRIPTION:1 "$BASE_COLON$ #weak (Metade do total de todos os [soldiers|E] no início da Batalha)#!"
