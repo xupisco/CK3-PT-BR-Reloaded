@@ -23,22 +23,22 @@
  british_isles.1002.c:0 "Hm, [restorer.GetCulture.GetNameNoTooltip] you say? Sign me up!"
 
 # Embrace English Culture, by Linnéa Thimrén
- british_isles.2001.t:0 "[embracer_former_culture.GetNameNoTooltip|U] no More"
- british_isles.2001.desc:0 "The time when we [embracer.GetCulture.GetCollectiveNounNoTooltip] considered France our homeland has long since passed. Our children are born here, surrounded by Saxons, and to them, Normandy will only ever be a blurred line beyond the misty shores of Britannia.\n\nAnd, as we make some of the local customs our own, so too the legacy of our culture spreads throughout the Saxon lands, giving birth to a new English identity."
- british_isles.2001.a:0 "Long live the English!"
+ british_isles.2001.t:0 "[embracer_former_culture.GetNameNoTooltip|U] não Mais"
+ british_isles.2001.desc:0 "O tempo em que nós [embracer.GetCulture.GetCollectiveNounNoTooltip] considerou a França nossa pátria já passou há muito tempo. Nossos filhos nascem aqui, cercados por Saxões, e para eles, a Normandia será apenas uma linha borrada além das costas enevoadas da Britânia.\n\nE, à medida que adotamos alguns dos costumes locais, também o legado de nossa cultura se espalha pelas terras saxãs, dando origem a uma nova identidade inglesa."
+ british_isles.2001.a:0 "Viva os Ingleses!"
 
- british_isles.2002.desc:0 "The [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))] [embracer.GetName], [embracer.GetHerHis] vassals, and [embracer.GetHerHis] whole family has heeded the call of Albion and embraced English culture."
- british_isles.2002.a:0 "It was only a matter of time."
- british_isles.2002.b:0 "Traitors!"
+ british_isles.2002.desc:0 "O [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))] [embracer.GetName], seus Vassalos, e toda sua Família atenderam ao chamado de Albion e abraçaram a Cultura Inglesa."
+ british_isles.2002.a:0 "Era só uma Questão de Tempo."
+ british_isles.2002.b:0 "Traidores!"
 
 # Request Laudabiliter, by Flavio Verna
- british_isles.3001.t:0 "Laudably We Declare,"
- british_isles.3001.desc:0 "Your desire to extend the sacred dominion of the Universal Church to the barbarous tribes of Ireland is a pious and righteous cause. As such, the Holy Roman Church commands that you take possession of this island and therein execute God's Will. \n\nIf you were to pass on by some misfortune before the end of this holy campaign, we extend this sacred mandate to your rightful successors. May House [scoped_ruler.GetHouse.GetBaseNameNoTooltip] carry this holy endeavor in perpetuity, until the divine will has been realized and Ireland lays united under [scoped_ruler.GetCulture.GetNameNoTooltip] rule."
- british_isles.3001.a:0 "Prepare our fleet!"
- british_isles.3002.t:0 "The Claim on Ireland"
- british_isles.3002.desc.irish:0 "By Grace of [scoped_pope.GetHerHis|U] Holiness [scoped_pope.GetFirstName], Vicar of Christ and heir to the throne of Saint Peter, [scoped_ruler.GetFullName] has been given right of divine rule over the Eire and all the tribes therein.\n\nAny Irish lord who will disobey the Papal writ and refuse to submit will face the wrath of [scoped_ruler.GetTitledFirstName], [scoped_ruler.GetHerHis] [scoped_ruler.GetCulture.GetName] armies, and God Almighty."
- british_isles.3002.a:0 "We will see about that!"
- british_isles.3002.b:0 "I see..."
+ british_isles.3001.t:0 "Louvavelmente Declaramos,"
+ british_isles.3001.desc:0 "Seu desejo de estender o domínio sagrado da Igreja Universal às tribos bárbaras da Irlanda é uma causa piedosa e justa. Como tal, a Santa Igreja Romana ordena que você tome posse desta ilha e nela execute a Vontade de Deus. \n\nSe você passar por algum infortúnio antes do final desta campanha sagrada, estendemos este mandato sagrado aos seus legítimos sucessores. Que a Cada [scoped_ruler.GetHouse.GetBaseNameNoTooltip] leve este santo esforço em perpetuidade, até que a vontade divina seja realizada e a Irlanda esteja unida sob às regras [scoped_ruler.GetCulture.GetNameNoTooltip]."
+ british_isles.3001.a:0 "Prepare nossa Frota!"
+ british_isles.3002.t:0 "O Requerimento na Irlanda"
+ british_isles.3002.desc.irish:0 "Pela Graça de sua Santidade, [scoped_pope.GetFirstName], Vigário de Cristo e herdeiro do Trono de São Pedro, [scoped_ruler.GetFullName] foi dado o direito de governo divino sobre a Irlanda e todas as tribos nela.\n\nQualquer lorde irlandês que desobedeça a ordem papal e se recuse a se submeter enfrentará a ira de [scoped_ruler.GetTitledFirstName], os Exércitos de [scoped_ruler.GetCulture.GetName], e Deus Todo-Poderoso."
+ british_isles.3002.a:0 "Veremos!"
+ british_isles.3002.b:0 "Entendo..."
 
 # Refound Dumnonia, by Ewan Cowhig Croft
  british_isles.4001.t:0 "[founder.GetPrimaryTitle.GetAdjectiveNoTooltip] Kingdom Restored"

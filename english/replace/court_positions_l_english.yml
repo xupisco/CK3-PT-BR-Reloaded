@@ -209,7 +209,7 @@
  hire_physician_decision:0 "Procurar por Médico"
  hire_physician_decision_tooltip:3 "Seus servos irão sugerir uma série de candidatos adequados para o cargo de [GetCourtPositionType('court_physician_court_position').GetName()]"
  hire_physician_decision_desc:1 "Um médico da corte é essencial para cuidar dos doentes e feridos em minha corte. Vou pedir aos meus servos que tragam vários candidatos adequados."
- hire_physician_decision_effect_tooltip:4 "Você será apresentado a um grupo de candidatos [GetCourtPositionType('court_physician_court_position').GetName()] e pode contratar um deles por uma taxa e um salário mensal de [gold_i][SCOPE.ScriptValue('court_position_physician_salary')]"
+ hire_physician_decision_effect_tooltip:4 "Você será apresentado a um grupo de candidatos para a Posição de [GetCourtPositionType('court_physician_court_position').GetName()] e pode contratar um deles por uma taxa e um salário mensal de [gold_i][SCOPE.ScriptValue('court_position_physician_salary')]"
  hire_physician_decision_confirm:0 "Iniciar a busca"
 
  antiquarian_employer_custom_effect_description:0 "Permite que você $repair_or_reforge_and_repair$ [artifacts|E]\nDesbloqueia a [decision|E] de #V $commission_artifact_decision$#!\nProtege [artifacts|E] durante [sieges|E] e [raids|E]"

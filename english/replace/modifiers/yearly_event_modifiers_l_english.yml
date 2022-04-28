@@ -1,13 +1,13 @@
 ﻿l_english:
- yearly_0001_improved_diplomacy:0 "Taking Etiquette Lessons"
- yearly_0001_improved_martial:0 "Taking Strategy Lessons"
- yearly_0001_improved_stewardship:0 "Taking Finance Lessons"
- yearly_0001_improved_intrigue:0 "Taking Intrigue Lessons"
- yearly_0001_improved_learning:0 "Taking Theology Lessons"
- yearly_0003_protected_by_liege:0 "Protected By Liege"
- yearly_0003_protected_by_liege_desc:0 "This character's liege is actively protecting them from spies and schemes."
- vassal_distrust_modifier:0 "Distrustful Vassals"
- vassal_distrust_modifier_desc:1 "This liege has shown that they have less than perfect faith in their vassals' service\nRealm [laws|E]: #N +10%#! more expensive"
+ yearly_0001_improved_diplomacy:0 "Tendo Aulas de Etiqueta"
+ yearly_0001_improved_martial:0 "Tendo Aulas de Estratégia"
+ yearly_0001_improved_stewardship:0 "Tendo Aulas de Finanças"
+ yearly_0001_improved_intrigue:0 "Tendo Aulas de Intriga"
+ yearly_0001_improved_learning:0 "Tendo Aulas de Teologia"
+ yearly_0003_protected_by_liege:0 "Protegido pelo Soberano"
+ yearly_0003_protected_by_liege_desc:0 "O Soberano deste Personagem está protegendo ativamente de Espiões e Esquemas."
+ vassal_distrust_modifier:0 "Vassalos Suspeitos"
+ vassal_distrust_modifier_desc:1 "Este Soberano mostrou que eles têm pouca confiança no serviço de seus Vassalos\n[laws|E] do Reino: #N +10%#! mais caras"
  protected_vassals_honor_modifier:0 "Protected Vassal Honor"
  protected_vassals_honor_modifier_desc:0 "This ruler stood up for their vassal's honor in a time of conflict"
  liege_looking_away_modifier:0 "Liege Looking Away"
@@ -22,7 +22,7 @@
  yearly_pious_liege_modifier_desc:0 "Religious vassals can trust that this liege will act according to their religious teachings"
  yearly_befriending_fellow_vassals_modifier:0 "Befriending Fellow Vassals"
  yearly_befriending_fellow_vassals_modifier_desc:0 "This character is putting in effort to build relationships with other vassals of their liege"
- 
+
  yearly_reduced_theocracy_tax_modifier:0 "Reduced Theocratic Tax"
  yearly_reduced_theocracy_levies_modifier:0 "Praying for Peace"
 
@@ -31,7 +31,7 @@
 
  cagots_separated_modifier:0 "Cagots Secernated"
  cagots_separated_modifier_desc:1 "The local Cagots are sequestered in their own cagoteries, separated from normal people."
- 
+
  cagots_left_in_peace_modifier:0 "Cagots Left in Peace"
  cagots_left_in_peace_modifier_desc:0 "The rest of the population wishes more had been done about the Cagots..."
 
@@ -39,7 +39,7 @@
  lunatic_accepting_of_others_modifier_desc:0 "This character is dreaming of a world where everyone lives their lives in peace."
 
  all_work_no_play_persian_modifier:0 "All Work, No Play"
- 
+
  poisonous_plants:0 "Cultivating Poisonous Plants"
  poisonous_plants_desc:0 "This character is culvating a wide range of plants, some would appear poisonous..."
  impressive_flowers:0 "Cultivating Impressive Flowers"

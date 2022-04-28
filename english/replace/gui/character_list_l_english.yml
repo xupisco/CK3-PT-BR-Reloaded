@@ -16,7 +16,7 @@
  age_diff_15_filter_option_desc:2 "Mostrar apenas Personagens com uma diferença de 15 anos ou menos"
  age_diff_15_filter_option:0 "15"
  fertility_filter:0 "Fertilidade"
- fertility_filter_option_desc:1 "Mostrar apenas personagens capazes de gerar ilhos"
+ fertility_filter_option_desc:1 "Mostrar apenas personagens capazes de gerar Filhos"
  fertility_filter_option:0 "Fértil"
  no_fertility_filter_option:0 "Infértil"
  no_fertility_filter_option_desc:0 "Mostrar apenas personagens incapazes de gerar filhos"

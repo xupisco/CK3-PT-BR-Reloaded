@@ -28,9 +28,9 @@
  steward_task.1001.a:0 "Sooner or later they will be eating steel!"
  steward_task.1001.notification:0 "Overtaxation Causes Banditry"
 
- steward_task.1002.end:0 "\n\nThe people of the [county.GetName] have begun to hide family members and farm animals from [councillor.GetTitledFirstName] and my other assessors!"
- steward_task.1002.a:0 "We must know of them to tax them, [councillor.GetFirstNameNoTooltip]!"
- steward_task.1002.notification:0 "Useless Census"
+ steward_task.1002.end:0 "\n\nO povo de [county.GetName] começaram a esconder os membros da Família e os animais da fazenda de [councillor.GetTitledFirstName] e dos meus outros assessores!"
+ steward_task.1002.a:0 "Devemos conhecê-los para tributá-los, [councillor.GetFirstNameNoTooltip]!"
+ steward_task.1002.notification:0 "Censo Inútil"
 
  steward_task.1003.end:0 "\n\nCom as novas taxas introduzidas, muitas pessoas em [county.GetName] estão se recusando a confiar em meus árbitros para resolver disputas!"
  steward_task.1003.a:0 "Você está perdendo o Controle, [councillor.GetFirstNameNoTooltip]?"

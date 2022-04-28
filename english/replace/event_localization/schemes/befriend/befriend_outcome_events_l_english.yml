@@ -63,13 +63,13 @@
  befriend_outcome.6001.begin_friendship:0 "\n\nBy the time I left, it felt as though we had known each other a lifetime already."
 
  befriend_outcome.6301.begin_friendship:0 "\n\n[target.GetSheHe|U] is not only my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))] but my friend."
- 
+
  befriend_outcome.8001.disastrous_time:0 "\n\nWhen I departed, I could swear [target.GetSheHe] sent me one of the foulest glances I have ever seen."
- 
+
  befriend_outcome.8201.disastrous_time:0 "\n\nAt one point I accidentally insulted both [target.GetHerHis] mother #EMP and#! [target.GetHerHis] favorite horse."
- 
+
  befriend_outcome.8301.disastrous_time:0 "\n\nAfter our return, [target.GetSheHe] barely wants to speak to me!"
- 
+
  befriend_outcome.9800.t:0 "Befriend: Shared Sorrow is Half Sorrow"
  befriend_outcome.9800.desc:0 "When my spies told me about [target.GetTitledFirstNamePossessive] yearly visit to"
  befriend_outcome.9800.desc_same_parent.our_parent:0 "our [target_dead_parent.Custom('MotherFather')]'s grave,"
@@ -85,17 +85,17 @@
  befriend_outcome.9900.end:0 "Unfortunately, as soon as [target.GetTitledFirstName] saw me, [target.GetSheHe] flew to [target.GetHerHis] feet and charged at me, enraged."
  befriend_outcome.9900.b:0 "...Was this a bad time?"
 
- befriend_outcome.0002.t:0 "[owner.GetTitledFirstNamePossessiveNoTooltip] Friendship"
- befriend_outcome.0002.critsucc.desc:0 "I never expected I would grow as close to [owner.GetTitledFirstName] as I have done in the past few years.\n\nOn multiple occasions, [owner.GetSheHe] has proven [owner.GetHerselfHimself] to be a reliable and forthright [owner.GetWomanMan], with only my best interests at heart."
- befriend_outcome.0002.succ.desc:0 "I have started to realize how much [owner.GetTitledFirstName] and I have in common, and how dependable [owner.GetSheHe] has proven [owner.GetHerselfHimself] to be during these last few months."
- befriend_outcome.0002.fail.desc:1 "While [owner.GetHerHis] numerous attempts to curry my favor have not gone unnoticed, I cannot feel but irritated by [owner.GetTitledFirstNamePossessive] sudden interest in me.\n\nAnd I cannot shake the feeling that the [owner.Custom('WomanManPossessive')] intentions are not pure..."
- befriend_outcome.0002.critfail.desc:1 "While [owner.GetHerHis] numerous attempts to curry my favor have not gone unnoticed, I cannot feel but irritated by [owner.GetTitledFirstNamePossessive] sudden interest in me.\n\nIf anything, [owner.GetHerHis] obsessive desire to impress me and [owner.GetHerHis] blundering displays of fabricated affection have only made me dislike [owner.GetHerHim] more."
- befriend_outcome.0002.a:0 "It is so rare to find a true friend."
- befriend_outcome.0002.b.success:0 "We should spend more time together!"
- befriend_outcome.0002.b.failure:0 "But [owner.GetSheHe] still has a certain charm..."
- befriend_outcome.0002.c.success:0 "I am still not convinced."
- befriend_outcome.0002.c.failure:0 "Why can [owner.GetSheHe] not leave me in peace?"
- befriend_outcome.0002.d:0 "I never want to see [owner.GetHerHis] face again!"
+ befriend_outcome.0002.t:0 "Amizade de [owner.GetTitledFirstNameNoTooltip]"
+ befriend_outcome.0002.critsucc.desc:0 "Eu nunca esperei que iria crescer tão perto de [owner.GetTitledFirstName] como tenho feito nos últimos anos.\n\nEm várias ocasiões, [owner.GetSheHe] provou ser uma pessoa confiável e direta, com apenas meus melhores interesses no coração."
+ befriend_outcome.0002.succ.desc:0 "Comecei a perceber o quanto [owner.GetTitledFirstName] e eu tenho em comum, e quão confiável [owner.GetSheHe] provou-se ser durante estes últimos meses."
+ befriend_outcome.0002.fail.desc:1 "Embora suas inúmeras tentativas de obter meu favor não tenham passado despercebidas, não posso me sentir senão irritado pelo interesse repentino de [owner.GetTitledFirstName] em mim.\n\nE não consigo afastar a sensação de que as suas intenções são impuras..."
+ befriend_outcome.0002.critfail.desc:1 "Embora suas inúmeras tentativas de obter meu favor não tenham passado despercebidas, não posso me sentir senão irritado pelo interesse repentino de [owner.GetTitledFirstName] em mim.\n\nSe alguma coisa, seu desejo obsessivo de me impressionar e suas demonstrações desajeitadas de afeição fabricada só me fizeram não gostar ainda mais."
+ befriend_outcome.0002.a:0 "É tão raro encontrar um Amigo verdadeiro."
+ befriend_outcome.0002.b.success:0 "Devíamos passar mais tempo juntos!"
+ befriend_outcome.0002.b.failure:0 "Mas [owner.GetSheHe] ainda tem um certo charme..."
+ befriend_outcome.0002.c.success:0 "Eu ainda não estou convencido."
+ befriend_outcome.0002.c.failure:0 "Por que [owner.GetSheHe] não pode me deixar em paz?"
+ befriend_outcome.0002.d:0 "Nunca mais quero ver a cara dele(a)!"
 
  befriend_outcome.2004.t:0 "Befriend: Kindred Minds"
  befriend_outcome.2004.spouse:0 "\n\nWhen we returned to our rooms by the end of the evening, I could feel my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))] looked a lot more comfortable and agreeable towards me."
@@ -119,7 +119,7 @@
  befriend_outcome.4004.liege:0 "[target.GetTitledFirstName] was not at all impressed by my numerous attempts to gain [target.GetHerHis] trust. Hearing the rumors circulating in [target.GetHerHis] court, I realized that [target.GetSheHe] has come to see me as just a sycophant looking to gain [target.GetHerHis] favor."
  befriend_outcome.4004.outsider:0 "Unfortunately, it seems as the differences and distance between [target.GetTitledFirstName] and me are simply too great to be overcome, regardless of my determination. After all the time I spent trying to gain [target.GetHerHis] trust, [target.GetTitledFirstNameNoTooltip] has shown no change in [target.GetHerHis] attitude towards me."
  befriend_outcome.4004.ending:0 "\n\nI am afraid there is nothing much left I can do to bridge the gap between us at this point."
- 
+
  befriend_outcome.8005.desc:0 "I was a fool to hope I could change [target.GetTitledFirstNamePossessive] mind about me. \n\n[target.GetSheHe|U] has only taken advantage of my recent openness and cordiality towards [target.GetHerHim] to openly mock me, claiming that I am nothing but a pathetic friendless [owner.GetWomanMan], all too eager to humiliate [owner.GetHerselfHimself] just for fear of loneliness."
  befriend_outcome.8005.a:0 "I should have expected it from [target.GetHerHim]."
  befriend_outcome.2005.t:0 "Befriend: Ending Strife"

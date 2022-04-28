@@ -43,7 +43,7 @@
  middle_europe_decisions.0010.b:0 "Será em Nápoles."
  middle_europe_decisions.0010.c:0 "Eu deveria considerar seriamente esta decisão."
  middle_europe_decisions.0011.desc:0 "[scoped_ruler.GetTitledFirstName] nomeou representantes da nobreza, do clero e dos burgueses para formar um novo Parlamento no Reino da Sicília.\n\nEste órgão consultivo ajudará [scoped_ruler.GetTitleTierName] e seus sucessores governar com sabedoria e eficiência, para o benefício de todos os seus súditos."
- middle_europe_decisions.0011.a:0 "Eu vejo..."
+ middle_europe_decisions.0011.a:0 "Entendo..."
 
 # Gothic Innovations, by Flavio Verna
  middle_europe_decisions.0012.t:0 "Opus Francigenum"

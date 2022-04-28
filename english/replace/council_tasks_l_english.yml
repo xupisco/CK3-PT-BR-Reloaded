@@ -42,7 +42,7 @@
  spouse_task_diplomacy_good_skilled_notification_tooltip:0 "O nível [councillor.Custom('diplomacy_skill_level')] da Habilidade de Diplomacia do seu Cônjuge levou a esta sorte."
  spouse_task_diplomacy_good_unskilled_notification_tooltip:0 "Isso aconteceu apesar do nível [councillor.Custom('diplomacy_skill_level')] da Habilidade de Diplomacia do seu Cônjuge ."
  spouse_task_martial_good_unskilled_notification_tooltip:0 "Isso aconteceu apesar do nível [councillor.Custom('martial_skill_level')] da Habilidade de Marcial do seu Cônjuge ."
- spouse_task_martial_good_skilled_notification_tooltip:0 "O nível [councillor.Custom('martial_skill_level')] da A Habilidade Marcial do seu Cônjuge levou a esta sorte."
+ spouse_task_martial_good_skilled_notification_tooltip:0 "O nível [councillor.Custom('martial_skill_level')] da Habilidade Marcial do seu Cônjuge levou a esta sorte."
  spouse_task_stewardship_good_skilled_notification_tooltip:0 "O nível [councillor.Custom('stewardship_skill_level')] da Habilidade de Administração do seu Cônjuge levou a esta sorte."
  spouse_task_stewardship_good_unskilled_notification_tooltip:0 "Isso aconteceu apesar do nível [councillor.Custom('stewardship_skill_level')] da Habilidade de Administração do seu Cônjuge."
  spouse_task_intrigue_good_unskilled_notification_tooltip:0 "Isso aconteceu apesar do nível [councillor.Custom('intrigue_skill_level')] da Habilidade de Intriga do seu Cônjuge."

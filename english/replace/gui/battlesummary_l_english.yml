@@ -1,5 +1,5 @@
 ﻿l_english:
- BS_INITIAL_SOLDIERS:1 "#T [soldiers|E]#  iniciais!"
+ BS_INITIAL_SOLDIERS:1 "#T [soldiers|E]# iniciais!"
  BS_LOSSES:1 "#T Perdas#!"
  BS_SURVIVORS:1 "#T Sobreviventes#!"
  BS_TT_ADVANTAGE:0 "#T [advantage|E] Total: $ADVANTAGE$#!\nAgiu $NUM_ACTED$ vezes"
