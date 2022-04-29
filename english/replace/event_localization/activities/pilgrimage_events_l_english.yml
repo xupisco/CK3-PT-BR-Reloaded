@@ -385,6 +385,6 @@
 
  # Generic Pilgrimage Return Events
  pilgrimage.9001.t:0 "$pilgrimage_header$ O retorno"
- pilgrimage.9001.desc:0 "Minha jornada foi longa, mas finalmente voltei para casa. Embora muito permaneça o mesmo, algo mudou na forma como [ROOT.Char.GetFaith.PriestNeuterPlural] e [ROOT.Char.GetFaith.BishopNeuterPlural] me tratam.\n\nPassei pela jornada de um santo [ROOT.Char. GetWomanMan], e eles insistem que mudou algo em mim, quer eu possa ver ou não."
+ pilgrimage.9001.desc:0 "Minha jornada foi longa, mas finalmente voltei para casa. Embora muito permaneça o mesmo, algo mudou na forma como [ROOT.Char.GetFaith.PriestNeuterPlural] e [ROOT.Char.GetFaith.BishopNeuterPlural] me tratam.\n\nPassei pela jornada de um santo [ROOT.Char.GetWomanMan], e eles insistem que mudou algo em mim, quer eu possa ver ou não."
  pilgrimage.9001.a:0 "É bom estar em casa."
 
